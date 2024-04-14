@@ -1,386 +1,386 @@
-CoC Number,CoC Name,Count Types,Overall Homeless,Sheltered ES Homeless,Sheltered TH Homeless,Sheltered SH Homeless,Sheltered Total Homeless,Unsheltered Homeless,Overall Homeless Individuals,Sheltered ES Homeless Individuals,Sheltered TH Homeless Individuals,Sheltered SH Homeless Individuals,Sheltered Total Homeless Individuals,Unsheltered Homeless Individuals,Overall Homeless People in Families,Sheltered ES Homeless People in Families,Sheltered TH Homeless People in Families,Sheltered Total Homeless People in Families,Unsheltered Homeless People in Families,Overall Homeless Family Households,Sheltered ES Homeless Family Households,Sheltered TH Homeless Family Households,Sheltered Total Homeless Family Households,Unsheltered Homeless Family Households,Sheltered SH Chronically Homeless,Overall Chronically Homeless Individuals,Sheltered ES Chronically Homeless Individuals,Sheltered SH Chronically Homeless Individuals,Sheltered Total Chronically Homeless Individuals,Unsheltered Chronically Homeless Individuals
-AK-500,Anchorage CoC,Sheltered and Unsheltered Count,"1,231",667,446,0,"1,113",118,740,440,193,0,633,107,491,227,253,480,11,151,67,80,147,4,0,56,43,0,43,13
-AK-501,Alaska Balance of State CoC,Sheltered and Unsheltered Count,632,346,212,0,558,74,378,201,119,0,320,58,254,145,93,238,16,93,46,43,89,4,0,108,76,0,76,32
-AL-500,"Birmingham/Jefferson, St. Clair, Shelby Counties CoC",No 2010 PIT Count,"2,273",372,697,0,"1,069","1,204","1,645",287,469,0,756,889,628,85,228,313,315,235,31,86,117,118,0,611,285,0,285,326
-AL-501,Mobile City & County/Baldwin County CoC,Sheltered and Unsheltered Count,883,168,314,0,482,401,540,72,137,0,209,331,343,96,177,273,70,131,34,78,112,19,0,68,18,0,18,50
-AL-502,Florence/Northwest Alabama CoC,Sheltered and Unsheltered Count,170,22,140,0,162,8,131,3,124,0,127,4,39,19,16,35,4,8,4,3,7,1,0,4,0,0,0,4
-AL-503,Huntsville/North Alabama CoC,Sheltered and Unsheltered Count,819,308,337,0,645,174,678,259,259,0,518,160,141,49,78,127,14,48,17,28,45,3,0,203,127,0,127,76
-AL-504,Montgomery City & County CoC,Sheltered and Unsheltered Count,444,117,177,0,294,150,376,100,138,0,238,138,68,17,39,56,12,23,5,13,18,5,0,72,17,0,17,55
-AL-505,Gadsden/Northeast Alabama CoC,Sheltered and Unsheltered Count,370,179,115,0,294,76,221,108,67,0,175,46,149,71,48,119,30,60,29,19,48,12,0,4,2,0,2,2
-AL-506,Tuscaloosa City & County CoC,Sheltered and Unsheltered Count,278,35,228,0,263,15,271,35,221,0,256,15,7,0,7,7,0,3,0,3,3,0,0,40,33,0,33,7
-AL-507,Alabama Balance of State CoC,Sheltered and Unsheltered Count,809,227,455,0,682,127,691,133,445,0,578,113,118,94,10,104,14,43,35,4,39,4,0,41,20,0,20,21
-AR-500,Little Rock/Central Arkansas CoC,No 2010 PIT Count,"1,425",349,624,0,973,452,"1,179",302,433,0,735,444,246,47,191,238,8,66,18,46,64,2,0,70,54,0,54,16
-AR-501,Fayetteville/Northwest Arkansas CoC,Sheltered-Only Count,251,141,80,0,221,30,147,109,9,0,118,29,104,32,71,103,1,45,15,29,44,1,0,54,38,0,38,16
-AR-504,Delta Hills CoC,No 2010 PIT Count,969,138,321,0,459,510,731,103,307,0,410,321,238,35,14,49,189,95,15,5,20,75,0,252,39,0,39,213
-AR-505,Southeast Arkansas CoC,No 2010 PIT Count,51,33,18,0,51,0,31,21,10,0,31,0,20,12,8,20,0,7,4,3,7,0,0,12,12,0,12,0
-AR-512,"Boone, Baxter, Marion, Newton Counties CoC",Sheltered and Unsheltered Count,66,7,17,0,24,42,32,7,11,0,18,14,34,0,6,6,28,9,0,2,2,7,0,7,2,0,2,5
-AZ-500,Arizona Balance of State CoC,Sheltered-Only Count,"3,069",578,427,0,"1,005","2,064","2,085",301,156,0,457,"1,628",984,277,271,548,436,288,94,83,177,111,0,395,84,0,84,311
-AZ-501,Tucson/Pima County CoC,Sheltered and Unsheltered Count,"3,643",631,"1,293",15,"1,939","1,704","2,709",460,589,15,"1,064","1,645",934,171,704,875,59,295,56,217,273,22,0,627,162,0,162,465
-AZ-502,"Phoenix, Mesa/Maricopa County CoC",Sheltered and Unsheltered Count,"6,999","2,294","1,951",25,"4,270","2,729","4,432","1,257",563,25,"1,845","2,587","2,567","1,037","1,388","2,425",142,789,302,440,742,47,25,913,273,25,298,615
-CA-500,San Jose/Santa Clara City & County CoC,No 2010 PIT Count,"7,086","1,078","1,025",0,"2,103","4,983","6,078",840,321,0,"1,161","4,917","1,008",238,704,942,66,285,77,187,264,21,0,"2,270",195,0,195,"2,075"
-CA-501,San Francisco CoC,No 2010 PIT Count,"5,823","2,056",825,0,"2,881","2,942","5,309","1,746",646,0,"2,392","2,917",514,310,179,489,25,178,106,62,168,10,0,"2,816","1,008",0,"1,008","1,808"
-CA-502,"Oakland, Berkeley/Alameda County CoC",No 2010 PIT Count,"4,341","1,104","1,274",0,"2,378","1,963","2,771",711,519,0,"1,230","1,541","1,570",393,755,"1,148",422,484,130,282,412,72,0,"1,026",266,0,266,760
-CA-503,Sacramento City & County CoC,Sheltered-Only Count,"2,734",701,839,0,"1,540","1,194","2,163",489,496,0,985,"1,178",571,212,343,555,16,197,73,118,191,6,0,432,155,0,155,277
-CA-504,"Santa Rosa, Petaluma/Sonoma County CoC",Sheltered-Only Count,"3,345",591,532,0,"1,123","2,222","2,770",369,185,0,554,"2,216",575,222,347,569,6,205,77,126,203,2,0,"1,025",103,0,103,922
-CA-505,Richmond/Contra Costa County CoC,No 2010 PIT Count,"2,759",509,378,0,887,"1,872","2,365",306,197,0,503,"1,862",394,203,181,384,10,121,62,54,116,5,0,940,89,0,89,851
-CA-506,"Salinas/Monterey, San Benito Counties CoC",No 2010 PIT Count,"2,407",263,516,0,779,"1,628","1,909",212,191,0,403,"1,506",498,51,325,376,122,117,13,76,89,28,0,656,159,0,159,497
-CA-507,Marin County CoC,No 2010 PIT Count,"1,026",261,336,0,597,429,767,211,156,0,367,400,259,50,180,230,29,85,13,62,75,10,0,135,92,0,92,43
-CA-508,Watsonville/Santa Cruz City & County CoC,No 2010 PIT Count,"2,265",360,369,0,729,"1,536","1,815",213,110,0,323,"1,492",450,147,259,406,44,145,45,86,131,14,0,842,51,0,51,791
-CA-509,Mendocino County CoC,No 2010 PIT Count,"1,202",135,100,0,235,967,"1,071",75,51,0,126,945,131,60,49,109,22,44,21,16,37,7,0,474,34,0,34,440
-CA-510,"Turlock, Modesto/Stanislaus County CoC",No 2010 PIT Count,"1,800",496,305,0,801,999,"1,118",311,173,0,484,634,682,185,132,317,365,281,70,46,116,165,0,442,68,0,68,374
-CA-511,Stockton/San Joaquin County CoC,No 2010 PIT Count,"3,005","2,302",538,0,"2,840",165,"2,122","1,817",140,0,"1,957",165,883,485,398,883,0,281,161,120,281,0,0,377,278,0,278,99
-CA-512,Daly/San Mateo County CoC,Sheltered-Only Count,"1,424",127,494,0,621,803,"1,013",74,211,0,285,728,411,53,283,336,75,120,18,82,100,20,0,455,29,0,29,426
-CA-513,"Visalia/Kings, Tulare Counties CoC",Sheltered and Unsheltered Count,966,162,244,0,406,560,606,82,164,0,246,360,360,80,80,160,200,108,29,20,49,59,0,132,24,0,24,108
-CA-514,Fresno City & County/Madera County CoC,Sheltered-Only Count,"4,288","1,060",749,22,"1,831","2,457","3,294",700,307,22,"1,029","2,265",994,360,442,802,192,313,87,149,236,77,22,879,223,22,245,634
-CA-515,"Roseville, Rocklin/Placer County CoC",No 2010 PIT Count,"1,054",189,383,0,572,482,700,132,175,0,307,393,354,57,208,265,89,118,21,70,91,27,0,231,62,0,62,169
-CA-516,"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Sheltered and Unsheltered Count,336,152,63,0,215,121,243,125,27,0,152,91,93,27,36,63,30,32,10,12,22,10,0,53,26,0,26,27
-CA-517,Napa City & County CoC,No 2010 PIT Count,314,121,65,0,186,128,261,81,52,0,133,128,53,40,13,53,0,16,11,5,16,0,0,132,61,0,61,71
-CA-518,Vallejo/Solano County CoC,No 2010 PIT Count,829,198,205,0,403,426,468,73,124,0,197,271,361,125,81,206,155,147,51,36,87,60,0,105,48,0,48,57
-CA-519,"Chico, Paradise/Butte County CoC",Sheltered and Unsheltered Count,742,150,197,0,347,395,615,134,114,0,248,367,127,16,83,99,28,47,6,32,38,9,0,186,31,0,31,155
-CA-520,Merced City & County CoC,No 2010 PIT Count,372,83,65,0,148,224,344,58,62,0,120,224,28,25,3,28,0,10,9,1,10,0,0,51,21,0,21,30
-CA-521,"Davis, Woodland/Yolo County CoC",No 2010 PIT Count,491,82,120,0,202,289,365,63,29,0,92,273,126,19,91,110,16,41,7,27,34,7,0,150,27,0,27,123
-CA-522,Humboldt County CoC,No 2010 PIT Count,"1,355",224,131,0,355,"1,000",889,153,57,0,210,679,466,71,74,145,321,138,26,26,52,86,0,427,40,0,40,387
-CA-523,"Colusa, Glenn, Trinity Counties CoC",No 2010 PIT Count,197,29,45,0,74,123,145,19,18,0,37,108,52,10,27,37,15,18,4,9,13,5,0,40,0,0,0,40
-CA-524,Yuba City & County/Sutter County CoC,Sheltered and Unsheltered Count,512,209,178,0,387,125,276,60,111,0,171,105,236,149,67,216,20,72,45,20,65,7,0,41,13,0,13,28
-CA-525,El Dorado County CoC,No 2010 PIT Count,146,14,49,0,63,83,98,1,22,0,23,75,48,13,27,40,8,15,4,8,12,3,0,15,0,0,0,15
-CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Sheltered-Only Count,289,49,18,0,67,222,170,24,1,0,25,145,119,25,17,42,77,36,9,5,14,22,0,85,10,0,10,75
-CA-528,Del Norte County CoC,Sheltered-Only Count,18,18,0,0,18,0,4,4,0,0,4,0,14,14,0,14,0,5,5,0,5,0,0,0,0,0,0,0
-CA-600,Los Angeles City & County CoC,No 2010 PIT Count,"33,243","5,793","8,257",0,"14,050","19,193","28,358","4,513","5,663",0,"10,176","18,182","4,885","1,280","2,594","3,874","1,011","1,840",432,933,"1,365",475,0,"7,661","2,414",0,"2,414","5,247"
-CA-601,San Diego City and County CoC,Sheltered and Unsheltered Count,"8,383",965,"2,900",53,"3,918","4,465","6,551",737,"1,836",53,"2,626","3,925","1,832",228,"1,064","1,292",540,688,85,366,451,237,45,"1,271",354,45,399,872
-CA-602,"Santa Ana, Anaheim/Orange County CoC",No 2010 PIT Count,"8,333",962,"1,647",0,"2,609","5,724","6,956",774,539,0,"1,313","5,643","1,377",188,"1,108","1,296",81,481,70,384,454,27,0,"3,783",205,0,205,"3,578"
-CA-603,Santa Maria/Santa Barbara County CoC,No 2010 PIT Count,"4,121",401,747,0,"1,148","2,973","3,333",301,445,0,746,"2,587",788,100,302,402,386,262,36,99,135,127,0,483,236,0,236,247
-CA-604,Bakersfield/Kern County CoC,No 2010 PIT Count,"1,499",380,287,0,667,832,"1,251",204,260,0,464,787,248,176,27,203,45,78,53,7,60,18,0,258,39,0,39,219
-CA-606,Long Beach CoC,No 2010 PIT Count,"3,909",542,"1,612",0,"2,154","1,755","3,200",412,"1,248",0,"1,660","1,540",709,130,364,494,215,224,43,113,156,68,0,789,115,0,115,674
-CA-607,Pasadena CoC,Sheltered and Unsheltered Count,"1,137",358,133,0,491,646,875,266,60,0,326,549,262,92,73,165,97,91,33,23,56,35,0,383,112,0,112,271
-CA-608,Riverside City & County CoC,Sheltered-Only Count,"3,126",567,516,0,"1,083","2,043","1,618",140,133,0,273,"1,345","1,508",427,383,810,698,393,142,128,270,123,0,721,26,0,26,695
-CA-609,San Bernardino City & County CoC,No 2010 PIT Count,"2,026",315,453,0,768,"1,258","1,397",126,181,0,307,"1,090",629,189,272,461,168,221,79,97,176,45,0,361,70,0,70,291
-CA-611,"Oxnard, San Buenaventura/Ventura County CoC",Sheltered and Unsheltered Count,"1,815",274,242,8,524,"1,291","1,419",226,118,8,352,"1,067",396,48,124,172,224,124,19,35,54,70,0,787,155,0,155,632
-CA-612,Glendale CoC,Sheltered and Unsheltered Count,428,157,143,0,300,128,286,109,57,0,166,120,142,48,86,134,8,43,12,27,39,4,0,108,39,0,39,69
-CA-613,Imperial County CoC,No 2010 PIT Count,505,91,66,0,157,348,400,52,0,0,52,348,105,39,66,105,0,33,12,21,33,0,0,12,12,0,12,0
-CA-614,San Luis Obispo County CoC,No 2010 PIT Count,"3,829",173,69,0,242,"3,587","1,547",49,28,0,77,"1,470","2,282",124,41,165,"2,117",673,28,10,38,635,0,201,7,0,7,194
-CO-500,Colorado Balance of State CoC,No 2010 PIT Count,"5,267",679,408,0,"1,087","4,180","1,324",221,58,0,279,"1,045","3,943",458,350,808,"3,135",986,114,88,202,784,0,259,11,0,11,248
-CO-503,Metropolitan Denver CoC,No 2010 PIT Count,"8,752","3,794","3,259",0,"7,053","1,699","5,081","2,490","1,163",0,"3,653","1,428","3,671","1,304","2,096","3,400",271,"1,156",411,660,"1,071",85,0,839,404,0,404,435
-CO-504,Colorado Springs/El Paso County CoC,Sheltered and Unsheltered Count,"1,463",422,469,0,891,572,"1,169",372,272,0,644,525,294,50,197,247,47,92,16,64,80,12,0,334,95,0,95,239
-CT-503,"Bridgeport, Stamford, Norwalk, Danbury/Fairfield County CoC",Sheltered-Only Count,944,511,328,0,839,105,653,367,190,0,557,96,291,144,138,282,9,94,46,44,90,4,0,200,154,0,154,46
-CT-505,Connecticut Balance of State CoC,Sheltered-Only Count,"3,372","1,803","1,175",0,"2,978",394,"2,340","1,268",686,0,"1,954",386,"1,032",535,489,"1,024",8,353,179,171,350,3,0,577,441,0,441,136
-DC-500,District of Columbia CoC,Sheltered and Unsheltered Count,"6,539","3,584","2,512",13,"6,109",430,"4,016","2,593",980,13,"3,586",430,"2,523",991,"1,532","2,523",0,800,318,482,800,0,13,"2,110","1,710",13,"1,723",387
-DE-500,Delaware Statewide CoC,Sheltered and Unsheltered Count,982,481,439,10,930,52,681,358,261,10,629,52,301,123,178,301,0,111,50,61,111,0,7,97,64,7,71,26
-FL-500,"Sarasota, Bradenton/Manatee, Sarasota Counties CoC",No 2010 PIT Count,"1,999",181,167,0,348,"1,651","1,201",97,96,0,193,"1,008",798,84,71,155,643,231,26,29,55,176,0,125,27,0,27,98
-FL-501,Tampa/Hillsborough County CoC,No 2010 PIT Count,"7,473",321,405,0,726,"6,747","4,107",236,262,0,498,"3,609","3,366",85,143,228,"3,138","1,201",30,50,80,"1,121",0,598,210,0,210,388
-FL-502,"St. Petersburg, Clearwater, Largo/Pinellas County CoC",Sheltered and Unsheltered Count,"3,948",889,857,45,"1,791","2,157","3,463",730,577,45,"1,352","2,111",485,159,280,439,46,188,69,100,169,19,45,577,163,45,208,369
-FL-503,"Lakeland, Winterhaven/Polk County CoC",Sheltered and Unsheltered Count,820,197,246,0,443,377,694,161,194,0,355,339,126,36,52,88,38,37,10,16,26,11,0,83,35,0,35,48
-FL-504,"Deltona, Daytona Beach/Volusia, Flagler Counties CoC",Sheltered and Unsheltered Count,"2,155",100,603,0,703,"1,452","1,677",61,164,0,225,"1,452",478,39,439,478,0,151,11,140,151,0,0,173,0,0,0,173
-FL-505,"Fort Walton Beach/Okaloosa, Walton Counties CoC",Sheltered and Unsheltered Count,"2,262",273,198,0,471,"1,791","1,248",205,170,0,375,873,"1,014",68,28,96,918,334,32,10,42,292,0,251,178,0,178,73
-FL-506,Tallahassee/Leon County CoC,No 2010 PIT Count,640,276,260,0,536,104,475,219,179,0,398,77,165,57,81,138,27,48,15,25,40,8,0,150,100,0,100,50
-FL-507,"Orlando/Orange, Osceola, Seminole Counties CoC",Sheltered and Unsheltered Count,"4,041",949,"1,096",20,"2,065","1,976","2,696",504,575,20,"1,099","1,597","1,345",445,521,966,379,447,148,173,321,126,20,"1,614",352,20,372,"1,242"
-FL-508,"Gainesville/Alachua, Putnam Counties CoC",Sheltered and Unsheltered Count,"1,019",141,156,0,297,722,774,83,111,0,194,580,245,58,45,103,142,111,23,17,40,71,0,218,0,0,0,218
-FL-509,"Fort Pierce/St. Lucie, Indian River, Martin Counties CoC",Sheltered and Unsheltered Count,"2,160",120,66,0,186,"1,974","1,101",30,0,0,30,"1,071","1,059",90,66,156,903,384,26,21,47,337,0,179,53,0,53,126
-FL-510,"Jacksonville-Duval, Clay Counties CoC",Sheltered and Unsheltered Count,"3,241",803,"1,266",0,"2,069","1,172","2,345",496,677,0,"1,173","1,172",896,307,589,896,0,237,92,145,237,0,0,998,803,0,803,195
-FL-511,"Pensacola/Escambia, Santa Rosa Counties CoC",Sheltered-Only Count,"1,160",150,392,0,542,618,755,79,249,0,328,427,405,71,143,214,191,175,27,41,68,107,0,282,159,0,159,123
-FL-512,St. Johns County CoC,Sheltered and Unsheltered Count,"1,252",138,63,0,201,"1,051","1,092",109,0,0,109,983,160,29,63,92,68,50,6,30,36,14,0,56,0,0,0,56
-FL-513,"Palm Bay, Melbourne/Brevard County CoC",No 2010 PIT Count,"1,221",24,978,0,"1,002",219,881,16,655,0,671,210,340,8,323,331,9,109,2,104,106,3,0,112,81,0,81,31
-FL-514,Ocala/Marion County CoC,Sheltered-Only Count,576,190,192,0,382,194,273,47,128,0,175,98,303,143,64,207,96,125,69,32,101,24,0,97,97,0,97,0
-FL-515,"Panama City/Bay, Jackson Counties CoC",Sheltered and Unsheltered Count,326,80,144,0,224,102,207,56,79,0,135,72,119,24,65,89,30,40,9,23,32,8,0,94,52,0,52,42
-FL-517,"Hendry, Hardee, Highlands Counties CoC",No 2010 PIT Count,"4,220",16,85,0,101,"4,119",812,16,47,0,63,749,"3,408",0,38,38,"3,370","1,619",2,12,14,"1,605",0,329,12,0,12,317
-FL-518,"Columbia, Hamilton, Lafayette, Suwannee Counties CoC",No 2010 PIT Count,"1,114",114,51,0,165,949,724,42,43,0,85,639,390,72,8,80,310,159,32,3,35,124,0,298,76,0,76,222
-FL-519,Pasco County CoC,No 2010 PIT Count,"4,527","1,674",0,0,"1,674","2,853","1,312",549,0,0,549,763,"3,215","1,125",0,"1,125","2,090","1,286",450,0,450,836,0,995,378,0,378,617
-FL-520,"Citrus, Hernando, Lake, Sumter Counties CoC",Sheltered and Unsheltered Count,"1,385",150,140,5,295,"1,090",963,83,131,5,219,744,422,67,9,76,346,126,25,3,28,98,5,41,11,5,16,25
-FL-600,Miami-Dade County CoC,Sheltered and Unsheltered Count,"3,879","1,477","1,616",27,"3,120",759,"2,562",973,803,27,"1,803",759,"1,317",504,813,"1,317",0,397,179,218,397,0,15,547,291,15,306,241
-FL-601,Ft Lauderdale/Broward County CoC,No 2010 PIT Count,"3,225",884,"1,541",0,"2,425",800,"2,575",658,"1,181",0,"1,839",736,650,226,360,586,64,206,61,128,189,17,0,377,171,0,171,206
-FL-602,Punta Gorda/Charlotte County CoC,Sheltered and Unsheltered Count,376,60,142,0,202,174,285,35,123,0,158,127,91,25,19,44,47,39,10,6,16,23,0,77,48,0,48,29
-FL-603,"Ft Myers, Cape Coral/Lee County CoC",Sheltered and Unsheltered Count,944,173,288,0,461,483,720,88,259,0,347,373,224,85,29,114,110,55,24,9,33,22,0,189,53,0,53,136
-FL-604,Monroe County CoC,No 2010 PIT Count,"1,040",186,138,0,324,716,838,136,90,0,226,612,202,50,48,98,104,81,15,14,29,52,0,289,164,0,164,125
-FL-605,West Palm Beach/Palm Beach County CoC,No 2010 PIT Count,"2,147",445,295,0,740,"1,407","1,682",209,224,0,433,"1,249",465,236,71,307,158,138,69,20,89,49,0,417,79,0,79,338
-FL-606,Naples/Collier County CoC,Sheltered and Unsheltered Count,401,231,93,0,324,77,276,156,43,0,199,77,125,75,50,125,0,43,25,18,43,0,0,66,22,0,22,44
-GA-500,Atlanta CoC,No 2010 PIT Count,"7,019","2,357","2,498",0,"4,855","2,164","5,781","1,998","1,715",0,"3,713","2,068","1,238",359,783,"1,142",96,492,126,333,459,33,0,"1,649",947,0,947,702
-GA-501,Georgia Balance of State CoC,Sheltered-Only Count,"9,750",972,971,0,"1,943","7,807","6,315",438,201,0,639,"5,676","3,435",534,770,"1,304","2,131","1,058",173,239,412,646,0,"1,221",116,0,116,"1,105"
-GA-503,Athens-Clarke County CoC,Sheltered and Unsheltered Count,496,151,118,0,269,227,353,99,43,0,142,211,143,52,75,127,16,44,17,22,39,5,0,119,35,0,35,84
-GA-504,Augusta-Richmond County CoC,No 2010 PIT Count,556,236,276,0,512,44,405,193,191,0,384,21,151,43,85,128,23,51,10,24,34,17,0,142,142,0,142,0
-GA-505,Columbus-Muscogee CoC,Sheltered-Only Count,468,201,63,0,264,204,351,146,57,0,203,148,117,55,6,61,56,34,15,2,17,17,0,141,56,0,56,85
-GA-506,Marietta/Cobb County CoC,Sheltered-Only Count,470,104,240,0,344,126,266,54,89,0,143,123,204,50,151,201,3,70,18,51,69,1,0,104,7,0,7,97
-GA-507,Savannah/Chatham County CoC,Sheltered and Unsheltered Count,"1,077",282,277,0,559,518,906,218,170,0,388,518,171,64,107,171,0,63,22,41,63,0,0,259,192,0,192,67
-GU-500,Guam CoC,Sheltered and Unsheltered Count,"1,635",56,126,0,182,"1,453",534,12,25,0,37,497,"1,101",44,101,145,956,172,10,22,32,140,0,28,1,0,1,27
-HI-500,Hawaii Balance of State CoC,Sheltered and Unsheltered Count,"1,663",212,526,0,738,925,935,72,116,0,188,747,728,140,410,550,178,195,42,106,148,47,0,249,22,0,22,227
-HI-501,Honolulu City and County CoC,Sheltered and Unsheltered Count,"4,171",782,"1,990",25,"2,797","1,374","1,954",390,341,25,756,"1,198","2,217",392,"1,649","2,041",176,569,109,418,527,42,19,552,55,19,74,478
-IA-500,"Sioux City/Dakota, Woodbury Counties CoC",Sheltered and Unsheltered Count,308,119,175,0,294,14,129,80,35,0,115,14,179,39,140,179,0,57,11,46,57,0,0,45,42,0,42,3
-IA-501,Iowa Balance of State CoC,Sheltered and Unsheltered Count,"1,686",646,"1,007",0,"1,653",33,713,390,297,0,687,26,973,256,710,966,7,318,86,229,315,3,0,91,69,0,69,22
-IA-502,Des Moines/Polk County CoC,Sheltered and Unsheltered Count,"1,020",297,659,0,956,64,686,220,404,0,624,62,334,77,255,332,2,106,26,79,105,1,0,113,71,0,71,42
-ID-500,Boise/Ada County CoC,Sheltered and Unsheltered Count,872,499,248,0,747,125,645,379,153,0,532,113,227,120,95,215,12,73,37,32,69,4,0,37,21,0,21,16
-ID-501,Idaho Balance of State CoC,Sheltered and Unsheltered Count,"1,474",297,520,0,817,657,800,153,146,0,299,501,674,144,374,518,156,214,51,122,173,41,0,74,16,0,16,58
-IL-500,McHenry County CoC,Sheltered and Unsheltered Count,212,88,123,0,211,1,124,72,51,0,123,1,88,16,72,88,0,30,6,24,30,0,0,5,4,0,4,1
-IL-501,"Rockford/DeKalb, Winnebago, Boone Counties CoC",Sheltered and Unsheltered Count,739,206,406,0,612,127,326,89,137,0,226,100,413,117,269,386,27,110,29,72,101,9,0,235,189,0,189,46
-IL-502,"Waukegan, North Chicago/Lake County CoC",Sheltered and Unsheltered Count,474,220,221,13,454,20,237,112,92,13,217,20,237,108,129,237,0,96,49,47,96,0,13,62,48,13,61,1
-IL-503,"Champaign, Urbana, Rantoul/Champaign County CoC",No 2010 PIT Count,534,404,126,0,530,4,209,128,77,0,205,4,325,276,49,325,0,124,111,13,124,0,0,47,47,0,47,0
-IL-504,Madison County CoC,No 2010 PIT Count,202,82,79,0,161,41,62,28,3,0,31,31,140,54,76,130,10,42,16,23,39,3,0,9,0,0,0,9
-IL-506,"Joliet, Bolingbrook/Will County CoC",Sheltered and Unsheltered Count,389,135,223,0,358,31,187,112,49,0,161,26,202,23,174,197,5,66,8,56,64,2,0,85,74,0,74,11
-IL-507,"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties CoC",Sheltered and Unsheltered Count,376,243,103,0,346,30,205,153,36,0,189,16,171,90,67,157,14,70,32,32,64,6,0,84,84,0,84,0
-IL-508,"East St. Louis, Belleville/St. Clair County CoC",Sheltered-Only Count,514,132,88,0,220,294,297,56,26,0,82,215,217,76,62,138,79,96,31,31,62,34,0,36,6,0,6,30
-IL-510,Chicago CoC,No 2010 PIT Count,"6,240","1,691","3,665",0,"5,356",884,"3,342","1,447","1,101",0,"2,548",794,"2,898",244,"2,564","2,808",90,883,75,786,861,22,0,689,416,0,416,273
-IL-511,Cook County CoC,Sheltered-Only Count,"1,390",463,662,14,"1,139",251,790,363,177,14,554,236,600,100,485,585,15,196,40,152,192,4,14,231,101,14,115,116
-IL-512,Bloomington/Central Illinois CoC,Sheltered and Unsheltered Count,639,206,190,23,419,220,365,158,65,23,246,119,274,48,125,173,101,92,16,38,54,38,5,86,50,5,55,31
-IL-513,Springfield/Sangamon County CoC,Sheltered and Unsheltered Count,287,146,138,0,284,3,176,122,51,0,173,3,111,24,87,111,0,45,9,36,45,0,0,93,93,0,93,0
-IL-514,DuPage County CoC,Sheltered-Only Count,712,185,419,0,604,108,361,144,118,0,262,99,351,41,301,342,9,120,14,103,117,3,0,148,49,0,49,99
-IL-515,South Central Illinois CoC,Sheltered and Unsheltered Count,190,67,105,0,172,18,46,33,4,0,37,9,144,34,101,135,9,38,9,26,35,3,0,8,3,0,3,5
-IL-516,Decatur/Macon County CoC,Sheltered and Unsheltered Count,197,70,70,5,145,52,118,64,13,5,82,36,79,6,57,63,16,25,2,17,19,6,5,51,29,5,34,17
-IL-517,"Aurora, Elgin/Kane County CoC",No 2010 PIT Count,445,269,123,0,392,53,333,223,57,0,280,53,112,46,66,112,0,32,12,20,32,0,0,188,155,0,155,33
-IL-518,"Rock Island, Moline/Northwestern Illinois CoC",Sheltered and Unsheltered Count,392,150,235,0,385,7,177,83,87,0,170,7,215,67,148,215,0,72,23,49,72,0,0,34,27,0,27,7
-IL-519,West Central Illinois CoC,Sheltered-Only Count,172,60,112,0,172,0,61,32,29,0,61,0,111,28,83,111,0,51,10,41,51,0,0,4,4,0,4,0
-IL-520,Southern Illinois CoC,Sheltered and Unsheltered Count,291,164,84,0,248,43,152,95,25,0,120,32,139,69,59,128,11,41,19,19,38,3,0,35,19,0,19,16
-IN-502,Indiana Balance of State CoC,Sheltered and Unsheltered Count,"4,958","2,078","1,794",0,"3,872","1,086","2,658","1,211",726,0,"1,937",721,"2,300",867,"1,068","1,935",365,731,283,341,624,107,0,652,404,0,404,248
-IN-503,Indianapolis CoC,Sheltered and Unsheltered Count,"1,494",629,732,0,"1,361",133,930,307,492,0,799,131,564,322,240,562,2,182,102,79,181,1,0,123,74,0,74,49
-KS-502,Wichita/Sedgwick County CoC,No 2010 PIT Count,384,309,43,0,352,32,310,263,15,0,278,32,74,46,28,74,0,25,14,11,25,0,0,71,60,0,60,11
-KS-503,Topeka/Shawnee County CoC,Sheltered-Only Count,356,240,97,0,337,19,228,180,29,0,209,19,128,60,68,128,0,32,20,12,32,0,0,7,2,0,2,5
-KS-505,"Overland Park, Shawnee/Johnson County CoC",No 2010 PIT Count,210,130,36,0,166,44,58,42,3,0,45,13,152,88,33,121,31,48,27,11,38,10,0,8,5,0,5,3
-KS-507,Kansas Balance of State CoC,No 2010 PIT Count,859,461,339,0,800,59,593,291,256,0,547,46,266,170,83,253,13,85,53,28,81,4,0,77,68,0,68,9
-KY-500,Kentucky Balance of State CoC,Sheltered and Unsheltered Count,"3,446","1,290","1,414",0,"2,704",742,"1,827",729,506,0,"1,235",592,"1,619",561,908,"1,469",150,492,171,276,447,45,0,316,138,0,138,178
-KY-501,Louisville-Jefferson County CoC,Sheltered and Unsheltered Count,"1,626",978,472,10,"1,460",166,"1,241",797,268,10,"1,075",166,385,181,204,385,0,137,60,77,137,0,4,203,144,4,148,55
-KY-502,Lexington-Fayette County CoC,Sheltered and Unsheltered Count,"1,551",472,961,2,"1,435",116,"1,057",352,597,2,951,106,494,120,364,484,10,176,37,135,172,4,0,176,118,0,118,58
-LA-500,Lafayette/Acadiana CoC,No 2010 PIT Count,731,240,298,0,538,193,383,126,141,0,267,116,348,114,157,271,77,114,39,53,92,22,0,36,21,0,21,15
-LA-502,"Shreveport, Bossier/Northwest Louisiana CoC",No 2010 PIT Count,830,265,474,0,739,91,461,141,248,0,389,72,369,124,226,350,19,116,36,75,111,5,0,56,17,0,17,39
-LA-503,New Orleans/Jefferson Parish CoC,No 2010 PIT Count,"8,725",643,697,0,"1,340","7,385","7,957",526,337,0,863,"7,094",768,117,360,477,291,252,39,121,160,92,0,"4,579",146,0,146,"4,433"
-LA-505,Monroe/Northeast Louisiana CoC,No 2010 PIT Count,228,75,112,0,187,41,93,51,18,0,69,24,135,24,94,118,17,38,7,26,33,5,0,19,9,0,9,10
-LA-506,Slidell/Southeast Louisiana CoC,Sheltered-Only Count,357,49,146,0,195,162,167,34,48,0,82,85,190,15,98,113,77,70,5,37,42,28,0,24,2,0,2,22
-LA-507,Alexandria/Central Louisiana CoC,No 2010 PIT Count,151,36,68,0,104,47,103,6,68,0,74,29,48,30,0,30,18,15,9,0,9,6,0,8,0,0,0,8
-LA-509,Louisiana Balance of State CoC,No 2010 PIT Count,"1,460",309,684,0,993,467,937,132,514,0,646,291,523,177,170,347,176,158,52,55,107,51,0,93,31,0,31,62
-MA-500,Boston CoC,Sheltered and Unsheltered Count,"5,139","3,629","1,250",5,"4,884",255,"2,371","1,317",794,5,"2,116",255,"2,768","2,312",456,"2,768",0,947,756,191,947,0,0,709,544,0,544,165
-MA-501,"Holyoke/Franklin, Hampden, Hampshire Counties CoC",Sheltered and Unsheltered Count,"1,881","1,407",401,5,"1,813",68,543,122,348,5,475,68,"1,338","1,285",53,"1,338",0,421,400,21,421,0,5,78,29,5,34,44
-MA-502,Lynn CoC,Sheltered and Unsheltered Count,464,360,79,0,439,25,154,64,65,0,129,25,310,296,14,310,0,102,97,5,102,0,0,168,157,0,157,11
-MA-503,Cape Cod Islands CoC,Sheltered and Unsheltered Count,504,241,72,0,313,191,275,86,58,0,144,131,229,155,14,169,60,87,62,4,66,21,0,122,55,0,55,67
-MA-504,Springfield/Hampden County CoC,Sheltered and Unsheltered Count,886,643,227,6,876,10,308,194,98,6,298,10,578,449,129,578,0,188,139,49,188,0,6,87,74,6,80,7
-MA-505,New Bedford CoC,Sheltered and Unsheltered Count,374,122,215,0,337,37,276,39,200,0,239,37,98,83,15,98,0,35,28,7,35,0,0,31,25,0,25,6
-MA-506,Worcester City & County CoC,Sheltered and Unsheltered Count,"1,409",892,449,13,"1,354",55,482,303,117,13,433,49,927,589,332,921,6,319,199,118,317,2,0,86,60,0,60,26
-MA-507,"Pittsfield/Berkshire, Franklin, Hampshire Counties CoC",Sheltered and Unsheltered Count,280,50,143,0,193,87,164,13,129,0,142,22,116,37,14,51,65,46,16,6,22,24,0,66,56,0,56,10
-MA-509,Cambridge CoC,Sheltered and Unsheltered Count,559,360,129,0,489,70,340,193,77,0,270,70,219,167,52,219,0,83,65,18,83,0,0,194,124,0,124,70
-MA-511,"Quincy, Brockton, Weymouth, Plymouth City and County CoC",Sheltered and Unsheltered Count,"1,186","1,020",135,0,"1,155",31,366,297,38,0,335,31,820,723,97,820,0,289,252,37,289,0,0,153,140,0,140,13
-MA-515,Fall River CoC,Sheltered and Unsheltered Count,253,144,94,0,238,15,116,49,52,0,101,15,137,95,42,137,0,46,29,17,46,0,0,28,26,0,26,2
-MA-516,Massachusetts Balance of State CoC,Sheltered and Unsheltered Count,"3,537","2,501",858,6,"3,365",172,938,455,305,6,766,172,"2,599","2,046",553,"2,599",0,920,694,226,920,0,6,278,188,6,194,84
-MA-519,"Attleboro, Taunton/Bristol County CoC",Sheltered and Unsheltered Count,174,82,57,0,139,35,70,21,14,0,35,35,104,61,43,104,0,43,26,17,43,0,0,7,7,0,7,0
-MD-501,Baltimore CoC,No 2010 PIT Count,"3,419",896,"1,295",0,"2,191","1,228","2,484",664,"1,083",0,"1,747",737,935,232,212,444,491,359,93,70,163,196,0,853,625,0,625,228
-MD-503,Annapolis/Anne Arundel County CoC,Sheltered and Unsheltered Count,395,188,78,0,266,129,262,120,13,0,133,129,133,68,65,133,0,39,19,20,39,0,0,67,50,0,50,17
-MD-504,Howard County CoC,Sheltered and Unsheltered Count,221,108,49,0,157,64,92,38,0,0,38,54,129,70,49,119,10,43,24,16,40,3,0,64,13,0,13,51
-MD-505,Baltimore County CoC,Sheltered and Unsheltered Count,891,452,137,0,589,302,449,181,45,0,226,223,442,271,92,363,79,142,86,32,118,24,0,139,83,0,83,56
-MD-506,Carroll County CoC,Sheltered and Unsheltered Count,211,53,105,25,183,28,132,38,51,25,114,18,79,15,54,69,10,27,5,18,23,4,11,27,11,11,22,5
-MD-511,Mid-Shore Regional CoC,Sheltered and Unsheltered Count,96,44,24,0,68,28,70,37,11,0,48,22,26,7,13,20,6,9,2,5,7,2,0,5,4,0,4,1
-MD-513,"Wicomico, Somerset, Worcester Counties CoC",Sheltered-Only Count,240,162,35,0,197,43,175,125,7,0,132,43,65,37,28,65,0,24,13,11,24,0,0,50,32,0,32,18
-MD-514,Maryland Balance of State CoC,,"3,519",684,634,0,"1,318","2,201","1,212",361,287,0,648,564,"2,307",323,347,670,"1,637",735,110,115,225,510,0,666,266,0,266,400
-MD-600,Prince George's County CoC,Sheltered and Unsheltered Count,789,420,243,0,663,126,431,284,21,0,305,126,358,136,222,358,0,101,34,67,101,0,0,124,35,0,35,89
-MD-601,Montgomery County CoC,Sheltered and Unsheltered Count,"1,064",504,347,32,883,181,692,323,156,32,511,181,372,181,191,372,0,124,59,65,124,0,4,184,97,4,101,83
-ME-500,Maine Statewide CoC,Sheltered and Unsheltered Count,"2,379",854,"1,497",0,"2,351",28,"1,061",548,485,0,"1,033",28,"1,318",306,"1,012","1,318",0,447,105,342,447,0,0,226,221,0,221,5
-MI-500,Michigan Balance of State CoC,No 2010 PIT Count,"3,021",939,"1,155",0,"2,094",927,"1,179",374,265,0,639,540,"1,842",565,890,"1,455",387,633,211,295,506,127,0,214,133,0,133,81
-MI-501,Detroit CoC,Sheltered-Only Count,"2,812","1,640",893,17,"2,550",262,"2,434","1,401",754,17,"2,172",262,378,239,139,378,0,141,87,54,141,0,17,819,725,17,742,77
-MI-502,"Dearborn, Dearborn Heights, Westland/Wayne County CoC",Sheltered-Only Count,458,147,290,15,452,6,153,70,62,15,147,6,305,77,228,305,0,82,22,60,82,0,9,39,28,9,37,2
-MI-503,"St. Clair Shores, Warren/Macomb County CoC",Sheltered-Only Count,896,210,101,0,311,585,545,179,27,0,206,339,351,31,74,105,246,105,12,22,34,71,0,222,48,0,48,174
-MI-504,"Pontiac, Royal Oak/Oakland County CoC",Sheltered-Only Count,731,129,322,0,451,280,492,66,184,0,250,242,239,63,138,201,38,78,16,50,66,12,0,38,24,0,24,14
-MI-505,Flint/Genesee County CoC,Sheltered and Unsheltered Count,277,150,49,0,199,78,183,75,32,0,107,76,94,75,17,92,2,29,22,6,28,1,0,46,23,0,23,23
-MI-506,"Grand Rapids, Wyoming/Kent County CoC",Sheltered and Unsheltered Count,585,296,279,0,575,10,228,205,13,0,218,10,357,91,266,357,0,118,27,91,118,0,0,32,22,0,22,10
-MI-507,"Portage, Kalamazoo City & County CoC",Sheltered and Unsheltered Count,679,314,323,0,637,42,295,180,73,0,253,42,384,134,250,384,0,117,42,75,117,0,0,34,26,0,26,8
-MI-508,"Lansing, East Lansing/Ingham County CoC",Sheltered and Unsheltered Count,535,221,171,0,392,143,389,176,76,0,252,137,146,45,95,140,6,45,14,30,44,1,0,129,64,0,64,65
-MI-509,Washtenaw County CoC,Sheltered-Only Count,474,214,225,0,439,35,306,157,116,0,273,33,168,57,109,166,2,50,19,30,49,1,0,66,44,0,44,22
-MI-510,Saginaw City & County CoC,No 2010 PIT Count,305,111,167,0,278,27,176,61,88,0,149,27,129,50,79,129,0,43,22,21,43,0,0,71,57,0,57,14
-MI-511,Lenawee County CoC,Sheltered-Only Count,120,66,49,0,115,5,40,37,1,0,38,2,80,29,48,77,3,22,7,14,21,1,0,11,11,0,11,0
-MI-512,"Grand Traverse, Antrim, Leelanau Counties CoC",Sheltered and Unsheltered Count,296,108,177,0,285,11,127,79,37,0,116,11,169,29,140,169,0,60,7,53,60,0,0,29,24,0,24,5
-MI-514,Battle Creek/Calhoun County CoC,Sheltered-Only Count,186,73,60,0,133,53,136,38,50,0,88,48,50,35,10,45,5,13,9,3,12,1,0,12,12,0,12,0
-MI-515,Monroe City & County CoC,No 2010 PIT Count,140,50,86,0,136,4,75,29,45,0,74,1,65,21,41,62,3,30,9,20,29,1,0,17,16,0,16,1
-MI-516,"Norton Shores, Muskegon City & County CoC",Sheltered-Only Count,646,187,138,0,325,321,308,44,88,0,132,176,338,143,50,193,145,135,56,20,76,59,0,21,15,0,15,6
-MI-517,Jackson City & County CoC,No 2010 PIT Count,323,107,197,0,304,19,121,59,43,0,102,19,202,48,154,202,0,64,14,50,64,0,0,13,1,0,1,12
-MI-518,Livingston County CoC,No 2010 PIT Count,121,85,23,0,108,13,46,32,1,0,33,13,75,53,22,75,0,23,17,6,23,0,0,4,3,0,3,1
-MI-519,Holland/Ottawa County CoC,Sheltered-Only Count,306,72,232,0,304,2,104,56,46,0,102,2,202,16,186,202,0,59,5,54,59,0,0,0,0,0,0,0
-MI-523,Eaton County CoC,Sheltered-Only Count,147,67,64,0,131,16,28,16,4,0,20,8,119,51,60,111,8,33,14,16,30,3,0,7,7,0,7,0
-MN-500,Minneapolis/Hennepin County CoC,Sheltered and Unsheltered Count,"3,056","1,755","1,053",0,"2,808",248,"1,830","1,236",396,0,"1,632",198,"1,226",519,657,"1,176",50,411,162,227,389,22,0,779,699,0,699,80
-MN-501,Saint Paul/Ramsey County CoC,Sheltered and Unsheltered Count,"1,424",496,822,10,"1,328",96,646,313,227,10,550,96,778,183,595,778,0,248,58,190,248,0,10,246,169,10,179,67
-MN-502,Rochester/Southeast Minnesota CoC,Sheltered and Unsheltered Count,419,208,198,0,406,13,103,73,17,0,90,13,316,135,181,316,0,98,45,53,98,0,0,70,61,0,61,9
-MN-503,"Dakota, Anoka, Washington, Scott, Carver Counties",Sheltered and Unsheltered Count,924,346,403,0,749,175,196,81,55,0,136,60,728,265,348,613,115,250,92,115,207,43,0,65,30,0,30,35
-MN-504,Northeast Minnesota CoC,Sheltered and Unsheltered Count,208,25,64,0,89,119,87,17,6,0,23,64,121,8,58,66,55,46,3,17,20,26,0,34,4,0,4,30
-MN-505,St. Cloud/Central Minnesota CoC,Sheltered-Only Count,541,166,267,0,433,108,245,64,106,0,170,75,296,102,161,263,33,93,32,55,87,6,0,120,91,0,91,29
-MN-506,Northwest Minnesota CoC,Sheltered and Unsheltered Count,422,76,178,0,254,168,119,41,38,0,79,40,303,35,140,175,128,101,11,49,60,41,0,33,14,0,14,19
-MN-508,Moorhead/West Central Minnesota CoC,Sheltered and Unsheltered Count,278,115,81,0,196,82,116,80,7,0,87,29,162,35,74,109,53,55,12,26,38,17,0,59,36,0,36,23
-MN-509,Duluth/St.Louis County CoC,Sheltered and Unsheltered Count,524,150,256,0,406,118,240,86,64,0,150,90,284,64,192,256,28,92,21,62,83,9,0,79,32,0,32,47
-MN-511,Southwest Minnesota CoC,Sheltered and Unsheltered Count,73,23,38,0,61,12,23,9,8,0,17,6,50,14,30,44,6,15,5,9,14,1,0,5,3,0,3,2
-MO-500,St. Louis County CoC,Sheltered and Unsheltered Count,659,284,124,0,408,251,208,78,14,0,92,116,451,206,110,316,135,137,63,33,96,41,0,39,23,0,23,16
-MO-501,St.Louis City CoC,Sheltered and Unsheltered Count,"1,305",575,577,16,"1,168",137,734,403,214,16,633,101,571,172,363,535,36,179,56,111,167,12,6,169,107,6,113,56
-MO-503,"St. Charles City & County, Lincoln, Warren Counties CoC",Sheltered and Unsheltered Count,"1,089",356,332,0,688,401,387,78,156,0,234,153,702,278,176,454,248,233,92,60,152,81,0,30,19,0,19,11
-MO-600,"Springfield/Greene, Christian, Webster Counties CoC",Sheltered and Unsheltered Count,662,161,342,0,503,159,428,79,190,0,269,159,234,82,152,234,0,92,34,58,92,0,0,144,81,0,81,63
-MO-602,"Joplin/Jasper, Newton Counties CoC",Sheltered and Unsheltered Count,393,112,207,0,319,74,277,71,132,0,203,74,116,41,75,116,0,36,12,24,36,0,0,26,19,0,19,7
-MO-603,"St. Joseph/Andrew, Buchanan, DeKalb Counties CoC",Sheltered and Unsheltered Count,164,106,16,16,138,26,140,84,14,16,114,26,24,22,2,24,0,9,8,1,9,0,16,64,32,16,48,16
-MO-604a,"Kansas City, Independence, Lee’s Summit/Jackson, Wyandotte Counties, MO & KS",Sheltered-Only Count,"2,153",913,"1,033",0,"1,946",207,"1,290",665,418,0,"1,083",207,863,248,615,863,0,275,78,197,275,0,0,556,431,0,431,125
-MO-606,Missouri Balance of State CoC,Sheltered and Unsheltered Count,"1,912",895,433,11,"1,339",573,"1,092",478,260,11,749,343,820,417,173,590,230,257,132,57,189,68,11,287,246,11,257,30
-MS-500,"Jackson/Rankin, Madison Counties CoC",Sheltered and Unsheltered Count,914,180,252,0,432,482,801,131,198,0,329,472,113,49,54,103,10,46,16,25,41,5,0,147,65,0,65,82
-MS-501,Mississippi Balance of State CoC,No 2010 PIT Count,"1,242",346,314,0,660,582,581,132,145,0,277,304,661,214,169,383,278,199,61,45,106,93,0,125,59,0,59,66
-MS-503,Gulf Port/Gulf Coast Regional CoC,Sheltered-Only Count,587,52,37,0,89,498,542,39,16,0,55,487,45,13,21,34,11,19,6,8,14,5,0,85,6,0,6,79
-MT-500,Montana Statewide CoC,Sheltered and Unsheltered Count,"1,615",674,494,0,"1,168",447,890,370,192,0,562,328,725,304,302,606,119,238,98,103,201,37,0,145,96,0,96,49
-NC-500,Winston-Salem/Forsyth County CoC,Sheltered and Unsheltered Count,543,310,192,0,502,41,389,262,86,0,348,41,154,48,106,154,0,51,15,36,51,0,0,142,120,0,120,22
-NC-501,Asheville/Buncombe County CoC,Sheltered and Unsheltered Count,516,197,265,0,462,54,415,168,193,0,361,54,101,29,72,101,0,40,10,30,40,0,0,111,68,0,68,43
-NC-502,Durham City & County CoC,Sheltered and Unsheltered Count,675,311,296,0,607,68,534,242,226,0,468,66,141,69,70,139,2,51,27,23,50,1,0,141,89,0,89,52
-NC-503,North Carolina Balance of State CoC,Sheltered and Unsheltered Count,"2,851","1,320",886,0,"2,206",645,"1,824",812,455,0,"1,267",557,"1,027",508,431,939,88,353,173,139,312,41,0,262,193,0,193,69
-NC-504,"Greensboro, High Point CoC",Sheltered and Unsheltered Count,"1,070",508,426,0,934,136,738,391,216,0,607,131,332,117,210,327,5,112,39,71,110,2,0,131,95,0,95,36
-NC-505,Charlotte/Mecklenberg CoC,Sheltered and Unsheltered Count,"2,841",970,"1,120",0,"2,090",751,"2,168",722,695,0,"1,417",751,673,248,425,673,0,243,87,156,243,0,0,307,250,0,250,57
-NC-506,"Wilmington/Brunswick, New Hanover, Pender Counties CoC",Sheltered and Unsheltered Count,678,274,297,0,571,107,381,181,97,0,278,103,297,93,200,293,4,76,19,55,74,2,0,65,49,0,49,16
-NC-507,Raleigh/Wake County CoC,Sheltered and Unsheltered Count,"1,180",631,428,0,"1,059",121,892,431,340,0,771,121,288,200,88,288,0,113,77,36,113,0,0,183,145,0,145,38
-NC-509,"Gastonia/Cleveland, Gaston, Lincoln Counties CoC",Sheltered and Unsheltered Count,324,165,41,0,206,118,264,127,19,0,146,118,60,38,22,60,0,24,15,9,24,0,0,40,18,0,18,22
-NC-511,Fayetteville/Cumberland County CoC,Sheltered and Unsheltered Count,"1,033",112,182,0,294,739,538,72,6,0,78,460,495,40,176,216,279,145,13,44,57,88,0,32,4,0,4,28
-NC-513,Chapel Hill/Orange County CoC,Sheltered and Unsheltered Count,135,88,30,0,118,17,111,84,10,0,94,17,24,4,20,24,0,9,2,7,9,0,0,38,31,0,31,7
-NC-516,Northwest North Carolina CoC,Sheltered and Unsheltered Count,345,93,31,0,124,221,107,38,19,0,57,50,238,55,12,67,171,76,20,5,25,51,0,27,15,0,15,12
-ND-500,North Dakota Statewide CoC,Sheltered and Unsheltered Count,799,461,307,0,768,31,539,306,207,0,513,26,260,155,100,255,5,82,47,33,80,2,0,64,61,0,61,3
-NE-500,Nebraska Balance of State CoC,Sheltered and Unsheltered Count,"1,540",505,691,0,"1,196",344,799,268,302,0,570,229,741,237,389,626,115,250,83,131,214,36,0,125,76,0,76,49
-NE-501,"Omaha, Council Bluffs CoC",Sheltered and Unsheltered Count,"1,429",906,429,0,"1,335",94,"1,083",761,228,0,989,94,346,145,201,346,0,109,46,63,109,0,0,293,261,0,261,32
-NE-502,Lincoln CoC,Sheltered and Unsheltered Count,908,354,470,0,824,84,541,229,230,0,459,82,367,125,240,365,2,123,45,77,122,1,0,117,79,0,79,38
-NH-500,New Hampshire Balance of State CoC,Sheltered and Unsheltered Count,813,502,208,0,710,103,477,289,98,0,387,90,336,213,110,323,13,111,66,40,106,5,0,158,125,0,125,33
-NH-501,Manchester CoC,Sheltered and Unsheltered Count,415,129,188,3,320,95,278,112,72,3,187,91,137,17,116,133,4,56,6,48,54,2,3,64,61,3,64,0
-NH-502,Nashua/Hillsborough County CoC,Sheltered and Unsheltered Count,346,98,204,5,307,39,188,78,83,5,166,22,158,20,121,141,17,69,10,53,63,6,0,104,91,0,91,13
-NJ-500,Atlantic City & County CoC,Sheltered and Unsheltered Count,588,406,50,0,456,132,511,354,40,0,394,117,77,52,10,62,15,28,20,3,23,5,0,74,42,0,42,32
-NJ-501,Bergen County CoC,Sheltered and Unsheltered Count,522,256,194,0,450,72,338,212,69,0,281,57,184,44,125,169,15,63,19,39,58,5,0,76,53,0,53,23
-NJ-502,Burlington County CoC,Sheltered and Unsheltered Count,716,655,33,0,688,28,338,295,25,0,320,18,378,360,8,368,10,127,120,4,124,3,0,71,68,0,68,3
-NJ-503,"Camden City & County/Gloucester, Cape May, Cumberland Counties CoC",Sheltered and Unsheltered Count,"1,572",944,277,0,"1,221",351,804,452,87,0,539,265,768,492,190,682,86,272,177,62,239,33,0,51,30,0,30,21
-NJ-504,Newark/Essex County CoC,Sheltered and Unsheltered Count,"1,716",982,515,0,"1,497",219,842,556,121,0,677,165,874,426,394,820,54,324,154,145,299,25,0,122,81,0,81,41
-NJ-506,"Jersey City, Bayonne/Hudson County CoC",Sheltered and Unsheltered Count,"1,779","1,372",225,0,"1,597",182,637,405,83,0,488,149,"1,142",967,142,"1,109",33,436,369,53,422,14,0,74,40,0,40,34
-NJ-507,New Brunswick/Middlesex County CoC,Sheltered and Unsheltered Count,"1,535",415,938,0,"1,353",182,591,182,283,0,465,126,944,233,655,888,56,325,88,214,302,23,0,52,34,0,34,18
-NJ-508,Monmouth County CoC,Sheltered and Unsheltered Count,604,368,208,0,576,28,222,200,5,0,205,17,382,168,203,371,11,141,62,74,136,5,0,72,72,0,72,0
-NJ-509,Morris County CoC,Sheltered and Unsheltered Count,297,155,85,0,240,57,167,91,27,0,118,49,130,64,58,122,8,49,24,21,45,4,0,51,20,0,20,31
-NJ-510,Lakewood Township/Ocean County CoC,Sheltered and Unsheltered Count,590,489,53,0,542,48,310,267,9,0,276,34,280,222,44,266,14,96,75,16,91,5,0,52,48,0,48,4
-NJ-511,Paterson/Passaic County CoC,Sheltered and Unsheltered Count,698,472,61,0,533,165,348,182,46,0,228,120,350,290,15,305,45,125,101,5,106,19,0,31,14,0,14,17
-NJ-512,Salem County CoC,Sheltered and Unsheltered Count,146,121,25,0,146,0,83,77,6,0,83,0,63,44,19,63,0,22,15,7,22,0,0,0,0,0,0,0
-NJ-513,Somerset County CoC,Sheltered and Unsheltered Count,310,146,150,0,296,14,162,64,87,0,151,11,148,82,63,145,3,47,25,21,46,1,0,8,6,0,6,2
-NJ-514,Trenton/Mercer County CoC,Sheltered and Unsheltered Count,901,527,247,0,774,127,477,319,65,0,384,93,424,208,182,390,34,150,74,66,140,10,0,101,73,0,73,28
-NJ-515,Elizabeth/Union County CoC,Sheltered and Unsheltered Count,"1,212",319,875,0,"1,194",18,465,190,263,0,453,12,747,129,612,741,6,252,45,204,249,3,0,20,15,0,15,5
-NJ-516,"Warren, Sussex, Hunterdon Counties CoC",Sheltered and Unsheltered Count,551,251,269,0,520,31,225,143,66,0,209,16,326,108,203,311,15,115,39,70,109,6,0,22,21,0,21,1
-NM-500,Albuquerque CoC,No 2010 PIT Count,"2,002",481,590,0,"1,071",931,"1,454",379,238,0,617,837,548,102,352,454,94,180,33,108,141,39,0,403,152,0,152,251
-NM-501,New Mexico Balance of State CoC,No 2010 PIT Count,"1,473",504,533,0,"1,037",436,889,258,227,0,485,404,584,246,306,552,32,124,35,76,111,13,0,376,189,0,189,187
-NV-500,Las Vegas/Clark County CoC,No 2010 PIT Count,"9,949",825,"6,179",0,"7,004","2,945","8,566",730,"4,904",0,"5,634","2,932","1,383",95,"1,275","1,370",13,342,31,307,338,4,0,"1,090",117,0,117,973
-NV-501,"Reno, Sparks/Washoe County CoC",Sheltered and Unsheltered Count,934,464,231,0,695,239,790,363,188,0,551,239,144,101,43,144,0,47,32,15,47,0,0,264,131,0,131,133
-NV-502,Nevada Balance of State CoC,Sheltered and Unsheltered Count,322,92,57,0,149,173,209,36,12,0,48,161,113,56,45,101,12,46,23,17,40,6,0,61,5,0,5,56
-NY-500,"Rochester, Irondequoit, Greece/Monroe County CoC",Sheltered and Unsheltered Count,709,472,221,12,705,4,375,269,90,12,371,4,334,203,131,334,0,103,61,42,103,0,12,85,69,12,81,4
-NY-501,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties CoC",Sheltered and Unsheltered Count,256,53,192,0,245,11,202,34,161,0,195,7,54,19,31,50,4,18,6,11,17,1,0,5,5,0,5,0
-NY-503,Albany City & County CoC,Sheltered and Unsheltered Count,650,478,134,0,612,38,442,289,115,0,404,38,208,189,19,208,0,71,63,8,71,0,0,72,37,0,37,35
-NY-504,Cattaragus County CoC,Sheltered and Unsheltered Count,118,19,45,0,64,54,35,10,22,0,32,3,83,9,23,32,51,30,4,8,12,18,0,0,0,0,0,0
-NY-505,"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties CoC",Sheltered and Unsheltered Count,840,403,406,0,809,31,677,317,341,0,658,19,163,86,65,151,12,61,35,20,55,6,0,116,105,0,105,11
-NY-506,"Fulton, Montgomery, Schoharie Counties CoC",Sheltered and Unsheltered Count,19,12,0,0,12,7,13,9,0,0,9,4,6,3,0,3,3,2,1,0,1,1,0,0,0,0,0,0
-NY-507,Schenectady City & County CoC,Sheltered and Unsheltered Count,389,336,27,0,363,26,224,190,8,0,198,26,165,146,19,165,0,54,46,8,54,0,0,34,25,0,25,9
-NY-508,"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties CoC",Sheltered and Unsheltered Count,"1,137",393,528,3,924,213,805,302,307,3,612,193,332,91,221,312,20,135,31,95,126,9,3,112,67,3,70,42
-NY-510,Ithaca/Tompkins County CoC,Sheltered and Unsheltered Count,73,27,36,0,63,10,41,18,13,0,31,10,32,9,23,32,0,12,3,9,12,0,0,15,5,0,5,10
-NY-511,"Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Count",Sheltered and Unsheltered Count,234,114,109,0,223,11,211,95,105,0,200,11,23,19,4,23,0,8,7,1,8,0,0,47,47,0,47,0
-NY-512,Troy/Rensselaer County CoC,Sheltered and Unsheltered Count,314,249,20,0,269,45,83,30,8,0,38,45,231,219,12,231,0,114,109,5,114,0,0,25,2,0,2,23
-NY-513,"Wayne, Ontario, Seneca, Yates Counties CoC",Sheltered and Unsheltered Count,75,63,12,0,75,0,42,30,12,0,42,0,33,33,0,33,0,13,13,0,13,0,0,4,4,0,4,0
-NY-514,"Jamestown, Dunkirk/Chautauqua County CoC",Sheltered and Unsheltered Count,88,20,61,0,81,7,28,12,9,0,21,7,60,8,52,60,0,19,3,16,19,0,0,3,3,0,3,0
-NY-516,Clinton County CoC,Sheltered and Unsheltered Count,84,58,18,0,76,8,63,39,18,0,57,6,21,19,0,19,2,9,8,0,8,1,0,5,3,0,3,2
-NY-518,"Utica, Rome/Oneida, Madison Counties CoC",No 2010 PIT Count,343,100,226,0,326,17,251,66,168,0,234,17,92,34,58,92,0,32,9,23,32,0,0,19,14,0,14,5
-NY-519,"Columbia, Greene Counties CoC",Sheltered and Unsheltered Count,305,237,64,0,301,4,161,100,57,0,157,4,144,137,7,144,0,40,37,3,40,0,0,5,5,0,5,0
-NY-520,"Franklin, Essex Counties CoC",No 2010 PIT Count,14,5,0,0,5,9,8,5,0,0,5,3,6,0,0,0,6,3,0,0,0,3,0,4,1,0,1,3
-NY-522,"Jefferson, Lewis, St. Lawrence Counties CoC",Sheltered and Unsheltered Count,121,44,76,0,120,1,103,28,74,0,102,1,18,16,2,18,0,9,8,1,9,0,0,4,4,0,4,0
-NY-523,"Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties Co",Sheltered and Unsheltered Count,186,115,42,0,157,29,151,102,20,0,122,29,35,13,22,35,0,13,5,8,13,0,0,31,8,0,8,23
-NY-600,New York City CoC,Sheltered and Unsheltered Count,"53,187","43,096","6,871",109,"50,076","3,111","19,992","11,764","5,008",109,"16,881","3,111","33,195","31,332","1,863","33,195",0,"10,332","9,680",652,"10,332",0,109,"3,128","1,028",109,"1,137","1,991"
-NY-601,Poughkeepsie/Dutchess County CoC,Sheltered and Unsheltered Count,476,227,209,0,436,40,280,131,109,0,240,40,196,96,100,196,0,90,41,49,90,0,0,77,55,0,55,22
-NY-602,"Newburgh, Middletown/Orange County CoC",Sheltered and Unsheltered Count,505,299,46,0,345,160,294,146,0,0,146,148,211,153,46,199,12,65,45,16,61,4,0,114,53,0,53,61
-NY-603,"Nassau, Suffolk Counties CoC",Sheltered and Unsheltered Count,"3,163","2,561",526,0,"3,087",76,741,500,165,0,665,76,"2,422","2,061",361,"2,422",0,751,640,111,751,0,0,53,40,0,40,13
-NY-604,"Yonkers, Mount Vernon/Westchester County CoC",Sheltered and Unsheltered Count,"1,339",403,902,0,"1,305",34,460,347,79,0,426,34,879,56,823,879,0,237,28,209,237,0,0,187,176,0,176,11
-NY-606,Rockland County CoC,Sheltered and Unsheltered Count,141,38,51,0,89,52,93,15,26,0,41,52,48,23,25,48,0,17,8,9,17,0,0,55,3,0,3,52
-NY-607,Sullivan County CoC,Sheltered and Unsheltered Count,400,376,0,18,394,6,264,240,0,18,258,6,136,136,0,136,0,33,33,0,33,0,0,22,16,0,16,6
-NY-608,Kingston/Ulster County CoC,Sheltered and Unsheltered Count,440,271,34,0,305,135,254,117,30,0,147,107,186,154,4,158,28,61,53,2,55,6,0,37,6,0,6,31
-OH-500,Cincinnati/Hamilton County CoC,Sheltered and Unsheltered Count,"1,006",555,376,0,931,75,709,387,247,0,634,75,297,168,129,297,0,97,51,46,97,0,0,303,273,0,273,30
-OH-501,Toledo/Lucas County CoC,Sheltered and Unsheltered Count,986,495,349,12,856,130,672,363,174,12,549,123,314,132,175,307,7,111,46,63,109,2,12,218,164,12,176,42
-OH-502,Cleveland/Cuyahoga County CoC,Sheltered and Unsheltered Count,"2,278","1,211",895,34,"2,140",138,"1,783",962,652,34,"1,648",135,495,249,243,492,3,171,85,85,170,1,22,664,569,22,591,73
-OH-503,Columbus/Franklin County CoC,Sheltered and Unsheltered Count,"1,387","1,104",149,0,"1,253",134,954,713,116,0,829,125,433,391,33,424,9,132,114,15,129,3,0,276,163,0,163,113
-OH-504,Youngstown/Mahoning County CoC,Sheltered and Unsheltered Count,183,91,82,6,179,4,97,68,19,6,93,4,86,23,63,86,0,25,5,20,25,0,4,13,7,4,11,2
-OH-505,"Dayton, Kettering/Montgomery County CoC",Sheltered and Unsheltered Count,884,554,279,25,858,26,625,426,148,25,599,26,259,128,131,259,0,96,45,51,96,0,19,102,72,19,91,11
-OH-506,"Akron, Barberton/Summit County CoC",Sheltered and Unsheltered Count,859,316,346,10,672,187,587,205,185,10,400,187,272,111,161,272,0,84,37,47,84,0,0,218,106,0,106,112
-OH-507,Ohio Balance of State CoC,Sheltered and Unsheltered Count,"4,555","1,607","1,855",0,"3,462","1,093","2,044",822,516,0,"1,338",706,"2,511",785,"1,339","2,124",387,810,229,448,677,133,0,429,255,0,255,174
-OH-508,"Canton, Massillon, Alliance/Stark County CoC",Sheltered and Unsheltered Count,431,257,121,0,378,53,248,173,32,0,205,43,183,84,89,173,10,69,31,35,66,3,0,17,10,0,10,7
-OK-500,North Central Oklahoma CoC,Sheltered-Only Count,323,99,80,0,179,144,207,69,43,0,112,95,116,30,37,67,49,39,11,12,23,16,0,21,8,0,8,13
-OK-501,Tulsa City & County CoC,Sheltered and Unsheltered Count,905,616,221,45,882,23,718,476,174,45,695,23,187,140,47,187,0,60,45,15,60,0,19,85,59,19,78,7
-OK-502,Oklahoma City CoC,Sheltered and Unsheltered Count,"1,128",625,264,0,889,239,890,521,144,0,665,225,238,104,120,224,14,79,36,36,72,7,0,264,163,0,163,101
-OK-503,Oklahoma Balance of State CoC,Sheltered and Unsheltered Count,324,247,70,0,317,7,211,196,8,0,204,7,113,51,62,113,0,35,15,20,35,0,0,0,0,0,0,0
-OK-504,Norman/Cleveland County CoC,Sheltered and Unsheltered Count,565,115,136,0,251,314,438,85,44,0,129,309,127,30,92,122,5,37,12,24,36,1,0,82,43,0,43,39
-OK-505,Northeast Oklahoma CoC,Sheltered and Unsheltered Count,567,179,64,0,243,324,214,96,44,0,140,74,353,83,20,103,250,136,38,8,46,90,0,73,69,0,69,4
-OK-506,Southwest Oklahoma Regional CoC,No 2010 PIT Count,272,210,42,0,252,20,156,139,0,0,139,17,116,71,42,113,3,30,19,10,29,1,0,13,7,0,7,6
-OK-507,Southeastern Oklahoma Regional CoC,Sheltered and Unsheltered Count,"1,145",259,43,0,302,843,483,130,25,0,155,328,662,129,18,147,515,249,53,6,59,190,0,82,27,0,27,55
-OR-500,"Eugene, Springfield/Lane County CoC",Sheltered and Unsheltered Count,"2,580",472,492,27,991,"1,589","1,899",378,156,27,561,"1,338",681,94,336,430,251,217,36,108,144,73,27,633,152,27,179,454
-OR-501,"Portland, Gresham/Multnomah County CoC",Sheltered-Only Count,"4,235",902,"1,742",0,"2,644","1,591","2,943",699,731,0,"1,430","1,513","1,292",203,"1,011","1,214",78,443,69,339,408,35,0,792,238,0,238,554
-OR-502,"Medford, Ashland/Jackson County CoC",Sheltered and Unsheltered Count,922,76,274,0,350,572,505,59,177,0,236,269,417,17,97,114,303,123,8,34,42,81,0,151,22,0,22,129
-OR-503,Central Oregon CoC,Sheltered and Unsheltered Count,569,108,148,0,256,313,305,87,27,0,114,191,264,21,121,142,122,80,9,35,44,36,0,75,13,0,13,62
-OR-504,"Salem/Marion, Polk Counties CoC",Sheltered and Unsheltered Count,"2,316",138,458,3,599,"1,717","1,049",130,188,3,321,728,"1,267",8,270,278,989,417,3,83,86,331,1,131,63,1,64,67
-OR-505,Oregon Balance of State CoC,Sheltered and Unsheltered Count,"6,498",613,"1,394",0,"2,007","4,491","2,530",432,479,0,911,"1,619","3,968",181,915,"1,096","2,872","1,259",58,278,336,923,0,581,156,0,156,425
-OR-506,"Hillsboro, Beaverton/Washington County CoC",Sheltered and Unsheltered Count,950,91,148,9,248,702,514,8,48,9,65,449,436,83,100,183,253,135,22,38,60,75,9,145,0,9,9,136
-OR-507,Clackamas County CoC,Sheltered and Unsheltered Count,"1,422",46,90,0,136,"1,286",986,3,13,0,16,970,436,43,77,120,316,137,16,28,44,93,0,93,2,0,2,91
-PA-500,Philadelphia CoC,Sheltered and Unsheltered Count,"6,084","3,623","1,908",72,"5,603",481,"3,077","2,161",363,72,"2,596",481,"3,007","1,462","1,545","3,007",0,996,503,493,996,0,72,580,141,72,213,367
-PA-501,Harrisburg/Dauphin County CoC,Sheltered and Unsheltered Count,394,173,122,11,306,88,238,104,41,11,156,82,156,69,81,150,6,57,24,30,54,3,11,121,58,11,69,52
-PA-502,"Upper Darby, Chester, Haverford/Delaware County CoC",Sheltered and Unsheltered Count,716,349,314,0,663,53,265,149,63,0,212,53,451,200,251,451,0,136,65,71,136,0,0,60,29,0,29,31
-PA-503,"Wilkes-Barre, Hazleton/Luzerne County CoC",Sheltered and Unsheltered Count,201,110,85,0,195,6,117,68,43,0,111,6,84,42,42,84,0,30,13,17,30,0,0,11,9,0,9,2
-PA-504,"Lower Merion, Norristown, Abington/Montgomery County CoC",Sheltered and Unsheltered Count,428,200,190,0,390,38,170,104,28,0,132,38,258,96,162,258,0,82,29,53,82,0,0,49,32,0,32,17
-PA-505,Chester County CoC,Sheltered and Unsheltered Count,319,116,188,8,312,7,156,92,49,8,149,7,163,24,139,163,0,52,9,43,52,0,7,46,37,7,44,2
-PA-506,Reading/Berks County CoC,Sheltered and Unsheltered Count,513,209,291,0,500,13,343,167,163,0,330,13,170,42,128,170,0,56,12,44,56,0,0,30,17,0,17,13
-PA-508,Scranton/Lackawanna County CoC,Sheltered and Unsheltered Count,285,76,167,0,243,42,145,58,45,0,103,42,140,18,122,140,0,49,6,43,49,0,0,19,10,0,10,9
-PA-509,Eastern Pennsylvania CoC,Sheltered and Unsheltered Count,"1,895",739,"1,013",0,"1,752",143,759,383,250,0,633,126,"1,136",356,763,"1,119",17,363,105,252,357,6,0,131,78,0,78,53
-PA-510,Lancaster City & County CoC,Sheltered and Unsheltered Count,602,257,322,0,579,23,302,171,108,0,279,23,300,86,214,300,0,101,27,74,101,0,0,69,63,0,63,6
-PA-511,"Bristol, Bensalem/Bucks County CoC",Sheltered and Unsheltered Count,474,98,340,0,438,36,169,37,96,0,133,36,305,61,244,305,0,103,22,81,103,0,0,23,18,0,18,5
-PA-600,"Pittsburgh, McKeesport, Penn Hills/Allegheny County CoC",Sheltered and Unsheltered Count,"1,265",297,814,35,"1,146",119,722,222,346,35,603,119,543,75,468,543,0,154,28,126,154,0,35,235,122,35,157,78
-PA-601,Western Pennsylvania CoC,Sheltered-Only Count,910,408,449,33,890,20,443,222,168,33,423,20,467,186,281,467,0,153,64,89,153,0,25,93,56,25,81,12
-PA-603,Beaver County CoC,Sheltered and Unsheltered Count,134,54,68,0,122,12,70,14,47,0,61,9,64,40,21,61,3,22,13,8,21,1,0,10,3,0,3,7
-PA-605,Erie City & County CoC,Sheltered and Unsheltered Count,296,169,110,0,279,17,215,143,61,0,204,11,81,26,49,75,6,39,13,23,36,3,0,47,45,0,45,2
-PR-502,Puerto Rico Balance of Commonwealth CoC,No 2010 PIT Count,"1,775",310,558,0,868,907,"1,597",286,512,0,798,799,178,24,46,70,108,61,6,19,25,36,0,"1,045",511,0,511,534
-PR-503,South-Southeast Puerto Rico CoC,Sheltered-Only Count,"2,374",238,288,10,536,"1,838","2,124",145,171,10,326,"1,798",250,93,117,210,40,88,25,48,73,15,10,"1,173",163,10,173,"1,000"
-RI-500,Rhode Island Statewide CoC,Sheltered and Unsheltered Count,"1,282",761,428,17,"1,206",76,704,442,173,17,632,72,578,319,255,574,4,216,105,110,215,1,17,86,43,17,60,26
-SC-500,Charleston/Low Country CoC,No 2010 PIT Count,416,173,174,0,347,69,337,142,126,0,268,69,79,31,48,79,0,27,9,18,27,0,0,55,55,0,55,0
-SC-501,"Greenville, Anderson, Spartanburg/Upstate CoC",No 2010 PIT Count,"1,164",537,471,0,"1,008",156,753,392,208,0,600,153,411,145,263,408,3,131,46,84,130,1,0,210,140,0,140,70
-SC-502,Columbia/Midlands CoC,No 2010 PIT Count,"1,368",505,424,0,929,439,993,379,233,0,612,381,375,126,191,317,58,131,43,68,111,20,0,180,102,0,102,78
-SC-503,"Myrtle Beach, Sumter City & County CoC",No 2010 PIT Count,"1,525",362,390,0,752,773,"1,111",205,260,0,465,646,414,157,130,287,127,185,85,50,135,50,0,229,95,0,95,134
-SD-500,South Dakota Statewide CoC,No 2010 PIT Count,731,371,296,0,667,64,445,218,163,0,381,64,286,153,133,286,0,87,42,45,87,0,0,109,45,0,45,64
-TN-500,Chattanooga/Southeast Tennessee CoC,Sheltered and Unsheltered Count,622,256,67,0,323,299,573,234,40,0,274,299,49,22,27,49,0,16,8,8,16,0,0,91,33,0,33,58
-TN-501,Memphis/Shelby County CoC,Sheltered and Unsheltered Count,"1,657",464,"1,030",0,"1,494",163,"1,032",331,538,0,869,163,625,133,492,625,0,192,37,155,192,0,0,168,43,0,43,125
-TN-502,Knoxville/Knox County CoC,Sheltered and Unsheltered Count,910,388,384,0,772,138,792,365,297,0,662,130,118,23,87,110,8,44,8,33,41,3,0,237,180,0,180,57
-TN-503,Central Tennessee CoC,Sheltered and Unsheltered Count,177,69,90,0,159,18,136,45,73,0,118,18,41,24,17,41,0,16,10,6,16,0,0,37,29,0,29,8
-TN-504,Nashville-Davidson County CoC,Sheltered and Unsheltered Count,"2,324","1,312",659,14,"1,985",339,"2,098","1,213",532,14,"1,759",339,226,99,127,226,0,73,26,47,73,0,14,"1,236",883,14,897,339
-TN-506,Upper Cumberland CoC,Sheltered and Unsheltered Count,635,135,44,0,179,456,383,89,15,0,104,279,252,46,29,75,177,80,14,10,24,56,0,64,19,0,19,45
-TN-507,Jackson/West Tennessee CoC,Sheltered and Unsheltered Count,"2,050",422,245,8,675,"1,375","1,135",54,165,8,227,908,915,368,80,448,467,410,170,25,195,215,8,209,16,8,24,185
-TN-509,Appalachian Regional CoC,No 2010 PIT Count,840,564,77,0,641,199,743,522,36,0,558,185,97,42,41,83,14,30,15,12,27,3,0,68,37,0,37,31
-TN-510,Murfreesboro/Rutherford County CoC,Sheltered and Unsheltered Count,219,109,6,0,115,104,152,60,2,0,62,90,67,49,4,53,14,17,11,2,13,4,0,70,10,0,10,60
-TN-512,"Morristown/Blount, Sevier, Campbell, Cocke Counties CoC",Sheltered and Unsheltered Count,842,653,3,0,656,186,579,424,3,0,427,152,263,229,0,229,34,78,68,0,68,10,0,315,224,0,224,91
-TX-500,San Antonio/Bexar County CoC,Sheltered and Unsheltered Count,"3,291",806,827,41,"1,674","1,617","2,413",457,336,41,834,"1,579",878,349,491,840,38,291,105,174,279,12,0,602,191,0,191,411
-TX-503,Austin/Travis County CoC,Sheltered and Unsheltered Count,"2,087",731,506,17,"1,254",833,"1,486",483,153,17,653,833,601,248,353,601,0,196,85,111,196,0,17,982,444,17,461,521
-TX-600,"Dallas City & County, Irving CoC",Sheltered and Unsheltered Count,"3,710","1,827","1,639",43,"3,509",201,"2,403","1,337",822,43,"2,202",201,"1,307",490,817,"1,307",0,433,167,266,433,0,43,514,353,43,396,118
-TX-601,"Fort Worth, Arlington/Tarrant County CoC",No 2010 PIT Count,"2,181","1,148",838,0,"1,986",195,"1,299",879,225,0,"1,104",195,882,269,613,882,0,281,81,200,281,0,0,209,147,0,147,62
-TX-603,El Paso City & County CoC,No 2010 PIT Count,"1,260",567,397,0,964,296,768,342,136,0,478,290,492,225,261,486,6,159,73,83,156,3,0,205,69,0,69,136
-TX-604,Waco/McLennan County CoC,No 2010 PIT Count,312,107,119,0,226,86,231,86,65,0,151,80,81,21,54,75,6,24,7,16,23,1,0,48,29,0,29,19
-TX-607,Texas Balance of State CoC,Sheltered and Unsheltered Count,"14,827","2,872","1,494",0,"4,366","10,461","10,142","1,715",756,0,"2,471","7,671","4,685","1,157",738,"1,895","2,790","1,745",405,232,637,"1,108",0,"2,039",523,0,523,"1,516"
-TX-611,Amarillo CoC,Sheltered and Unsheltered Count,578,487,60,0,547,31,410,378,1,0,379,31,168,109,59,168,0,48,31,17,48,0,0,84,78,0,78,6
-TX-624,"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties CoC",No 2010 PIT Count,242,235,0,0,235,7,215,208,0,0,208,7,27,27,0,27,0,11,11,0,11,0,0,190,183,0,183,7
-TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties CoC",Sheltered-Only Count,"6,368","1,663","2,570",16,"4,249","2,119","4,488","1,024","1,583",16,"2,623","1,865","1,880",639,987,"1,626",254,781,236,481,717,64,0,"1,581",455,0,455,"1,126"
-TX-701,"Bryan, College Station/Brazos Valley CoC",No 2010 PIT Count,265,134,47,0,181,84,223,119,27,0,146,77,42,15,20,35,7,18,5,10,15,3,0,58,45,0,45,13
-UT-500,Salt Lake City & County CoC,Sheltered and Unsheltered Count,"1,968","1,061",629,49,"1,739",229,"1,191",712,204,49,965,226,777,349,425,774,3,227,104,122,226,1,37,200,54,37,91,109
-UT-503,Utah Balance of State CoC,Sheltered and Unsheltered Count,952,314,506,0,820,132,465,210,143,0,353,112,487,104,363,467,20,145,33,106,139,6,0,104,22,0,22,82
-UT-504,Provo/Mountainland CoC,Sheltered and Unsheltered Count,364,73,90,0,163,201,270,40,35,0,75,195,94,33,55,88,6,32,12,18,30,2,0,102,12,0,12,90
-VA-500,"Richmond/Henrico, Chesterfield, Hanover Counties CoC",Sheltered and Unsheltered Count,"1,012",488,454,20,962,50,800,398,332,20,750,50,212,90,122,212,0,78,32,46,78,0,0,92,75,0,75,17
-VA-501,"Norfolk, Chesapeake, Suffolk/Isle of Wight, Southampton Counties CoC",Sheltered and Unsheltered Count,625,414,127,0,541,84,428,292,60,0,352,76,197,122,67,189,8,58,38,18,56,2,0,103,72,0,72,31
-VA-502,"Roanoke City & County, Salem CoC",Sheltered and Unsheltered Count,518,455,45,0,500,18,395,357,20,0,377,18,123,98,25,123,0,45,37,8,45,0,0,118,108,0,108,10
-VA-503,Virginia Beach CoC,Sheltered and Unsheltered Count,517,231,204,0,435,82,251,129,40,0,169,82,266,102,164,266,0,79,31,48,79,0,0,75,39,0,39,36
-VA-504,Charlottesville CoC,Sheltered and Unsheltered Count,228,160,41,0,201,27,168,133,16,0,149,19,60,27,25,52,8,18,8,8,16,2,0,117,105,0,105,12
-VA-505,"Newport News, Hampton/Virginia Peninsula CoC",Sheltered and Unsheltered Count,607,354,197,22,573,34,448,281,111,22,414,34,159,73,86,159,0,51,25,26,51,0,22,104,71,22,93,11
-VA-507,Portsmouth CoC,Sheltered and Unsheltered Count,210,125,53,0,178,32,147,97,18,0,115,32,63,28,35,63,0,22,10,12,22,0,0,40,36,0,36,4
-VA-508,Lynchburg CoC,No 2010 PIT Count,255,147,64,0,211,44,133,56,33,0,89,44,122,91,31,122,0,44,35,9,44,0,0,53,30,0,30,23
-VA-513,"Harrisburg, Winchester/Western Virginia CoC",Sheltered and Unsheltered Count,448,319,40,0,359,89,231,174,6,0,180,51,217,145,34,179,38,50,34,6,40,10,0,76,58,0,58,18
-VA-514,"Fredericksburg/Spotsylvania, Stafford Counties CoC",Sheltered and Unsheltered Count,288,133,27,0,160,128,224,101,0,0,101,123,64,32,27,59,5,22,11,9,20,2,0,83,37,0,37,46
-VA-521,Virginia Balance of State CoC,Sheltered and Unsheltered Count,"1,261",477,324,0,801,460,632,262,43,0,305,327,629,215,281,496,133,213,75,90,165,48,0,117,50,0,50,67
-VA-600,Arlington County CoC,Sheltered and Unsheltered Count,535,169,139,4,312,223,351,112,12,4,128,223,184,57,127,184,0,61,18,43,61,0,4,119,36,4,40,79
-VA-601,Fairfax County CoC,Sheltered and Unsheltered Count,"1,552",604,800,8,"1,412",140,660,382,130,8,520,140,892,222,670,892,0,263,68,195,263,0,6,248,139,6,145,103
-VA-602,Loudoun County CoC,Sheltered and Unsheltered Count,157,74,47,0,121,36,71,39,5,0,44,27,86,35,42,77,9,25,12,11,23,2,0,21,12,0,12,9
-VA-603,Alexandria CoC,Sheltered and Unsheltered Count,359,185,136,0,321,38,208,115,55,0,170,38,151,70,81,151,0,52,25,27,52,0,0,80,55,0,55,25
-VA-604,Prince William County CoC,Sheltered and Unsheltered Count,508,175,177,0,352,156,191,94,9,0,103,88,317,81,168,249,68,100,22,52,74,26,0,64,28,0,28,36
-VI-500,Virgin Islands CoC,Sheltered-Only Count,487,33,59,0,92,395,468,21,52,0,73,395,19,12,7,19,0,9,6,3,9,0,0,385,20,0,20,365
-VT-500,Vermont Balance of State CoC,Sheltered and Unsheltered Count,607,274,248,6,528,79,428,161,194,6,361,67,179,113,54,167,12,63,34,25,59,4,1,85,58,1,59,26
-VT-501,Burlington/Chittenden County CoC,Sheltered and Unsheltered Count,613,337,213,0,550,63,369,172,139,0,311,58,244,165,74,239,5,104,71,32,103,1,0,48,26,0,26,22
-WA-500,Seattle/King County CoC,Sheltered and Unsheltered Count,"9,022","2,485","3,693",44,"6,222","2,800","5,608","1,781","1,024",44,"2,849","2,759","3,414",704,"2,669","3,373",41,"1,064",211,836,"1,047",17,44,903,610,44,654,249
-WA-501,Washington Balance of State CoC,Sheltered and Unsheltered Count,"7,685","1,943","3,319",0,"5,262","2,423","3,632","1,011","1,041",0,"2,052","1,580","4,053",932,"2,278","3,210",843,"1,266",297,714,"1,011",255,0,417,145,0,145,272
-WA-502,Spokane City & County CoC,Sheltered and Unsheltered Count,"1,242",536,534,0,"1,070",172,659,359,151,0,510,149,583,177,383,560,23,134,42,85,127,7,0,224,136,0,136,88
-WA-503,"Tacoma, Lakewood/Pierce County CoC",Sheltered and Unsheltered Count,"1,807",477,"1,160",0,"1,637",170,697,326,218,0,544,153,"1,110",151,942,"1,093",17,333,43,284,327,6,0,160,59,0,59,101
-WA-504,Everett/Snohomish County CoC,Sheltered and Unsheltered Count,"2,018",362,"1,041",0,"1,403",615,805,238,116,0,354,451,"1,213",124,925,"1,049",164,399,44,312,356,43,0,238,173,0,173,65
-WA-508,Vancouver/Clark County CoC,Sheltered and Unsheltered Count,"1,104",240,644,11,895,209,500,168,217,11,396,104,604,72,427,499,105,192,24,131,155,37,11,164,103,11,114,50
-WI-500,Wisconsin Balance of State CoC,No 2010 PIT Count,"3,992","1,623","1,584",0,"3,207",785,"1,588",859,476,0,"1,335",253,"2,404",764,"1,108","1,872",532,811,259,362,621,190,0,254,219,0,219,35
-WI-501,Milwaukee City & County CoC,No 2010 PIT Count,"1,537",638,679,0,"1,317",220,974,434,392,0,826,148,563,204,287,491,72,173,68,81,149,24,0,314,258,0,258,56
-WI-502,Racine City & County CoC,Sheltered and Unsheltered Count,236,125,105,0,230,6,158,99,55,0,154,4,78,26,50,76,2,17,6,10,16,1,0,15,15,0,15,0
-WI-503,Madison/Dane County CoC,Sheltered and Unsheltered Count,568,294,192,13,499,69,320,150,120,13,283,37,248,144,72,216,32,79,39,31,70,9,13,144,103,13,116,28
-WV-500,"Wheeling, Weirton Area CoC",Sheltered and Unsheltered Count,197,111,38,0,149,48,159,86,34,0,120,39,38,25,4,29,9,12,8,1,9,3,0,31,15,0,15,16
-WV-501,"Huntington/Cabell, Wayne Counties CoC",Sheltered and Unsheltered Count,286,158,75,10,243,43,194,115,26,10,151,43,92,43,49,92,0,30,14,16,30,0,7,80,46,7,53,27
-WV-503,"Charleston/Kanawha, Putnam, Boone, Clay Counties CoC",Sheltered and Unsheltered Count,406,261,113,0,374,32,286,167,87,0,254,32,120,94,26,120,0,46,39,7,46,0,0,49,29,0,29,20
-WV-508,West Virginia Balance of State CoC,Sheltered and Unsheltered Count,"1,375",378,380,0,758,617,888,258,265,0,523,365,487,120,115,235,252,157,48,36,84,73,0,356,261,0,261,95
-WY-500,Wyoming Statewide CoC,Sheltered-Only Count,579,264,251,0,515,64,327,220,49,0,269,58,252,44,202,246,6,90,15,73,88,2,0,101,52,0,52,49
-,Total,,"637,077","222,455","179,743","1,345","403,543","233,534","395,140","123,729","87,144","1,345","212,218","182,922","241,937","98,726","92,599","191,325","50,612","79,442","32,083","30,222","62,305","17,137","1,002","106,062","42,327","1,002","43,329","62,733"
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"a MO-604 covers territory in both Missouri and Kansas. The record described in this file represents the CoC's total territory, the sum of the point-in-time estimates the CoC separately reported for the portions of its territory in MO and in KS. However, in the companion file, Point-in-Time Estimates by State, MO-604's data have been split up between MO and KS.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Year,CoC Number,CoC Name,Count Types,Overall Homeless,Sheltered ES Homeless,Sheltered TH Homeless,Sheltered SH Homeless,Sheltered Total Homeless,Unsheltered Homeless,Overall Homeless Individuals,Sheltered ES Homeless Individuals,Sheltered TH Homeless Individuals,Sheltered SH Homeless Individuals,Sheltered Total Homeless Individuals,Unsheltered Homeless Individuals,Overall Homeless People in Families,Sheltered ES Homeless People in Families,Sheltered TH Homeless People in Families,Sheltered Total Homeless People in Families,Unsheltered Homeless People in Families,Overall Homeless Family Households,Sheltered ES Homeless Family Households,Sheltered TH Homeless Family Households,Sheltered Total Homeless Family Households,Unsheltered Homeless Family Households,Sheltered SH Chronically Homeless,Overall Chronically Homeless Individuals,Sheltered ES Chronically Homeless Individuals,Sheltered SH Chronically Homeless Individuals,Sheltered Total Chronically Homeless Individuals,Unsheltered Chronically Homeless Individuals
+2010,AK-500,Anchorage CoC,Sheltered and Unsheltered Count,1231.0,667.0,446.0,0.0,1113.0,118.0,740.0,440.0,193.0,0.0,633.0,107.0,491.0,227.0,253.0,480.0,11.0,151.0,67.0,80.0,147.0,4.0,0.0,56.0,43.0,0.0,43.0,13.0
+2010,AK-501,Alaska Balance of State CoC,Sheltered and Unsheltered Count,632.0,346.0,212.0,0.0,558.0,74.0,378.0,201.0,119.0,0.0,320.0,58.0,254.0,145.0,93.0,238.0,16.0,93.0,46.0,43.0,89.0,4.0,0.0,108.0,76.0,0.0,76.0,32.0
+2010,AL-500,"Birmingham/Jefferson, St. Clair, Shelby Counties CoC",No 2010 PIT Count,2273.0,372.0,697.0,0.0,1069.0,1204.0,1645.0,287.0,469.0,0.0,756.0,889.0,628.0,85.0,228.0,313.0,315.0,235.0,31.0,86.0,117.0,118.0,0.0,611.0,285.0,0.0,285.0,326.0
+2010,AL-501,Mobile City & County/Baldwin County CoC,Sheltered and Unsheltered Count,883.0,168.0,314.0,0.0,482.0,401.0,540.0,72.0,137.0,0.0,209.0,331.0,343.0,96.0,177.0,273.0,70.0,131.0,34.0,78.0,112.0,19.0,0.0,68.0,18.0,0.0,18.0,50.0
+2010,AL-502,Florence/Northwest Alabama CoC,Sheltered and Unsheltered Count,170.0,22.0,140.0,0.0,162.0,8.0,131.0,3.0,124.0,0.0,127.0,4.0,39.0,19.0,16.0,35.0,4.0,8.0,4.0,3.0,7.0,1.0,0.0,4.0,0.0,0.0,0.0,4.0
+2010,AL-503,Huntsville/North Alabama CoC,Sheltered and Unsheltered Count,819.0,308.0,337.0,0.0,645.0,174.0,678.0,259.0,259.0,0.0,518.0,160.0,141.0,49.0,78.0,127.0,14.0,48.0,17.0,28.0,45.0,3.0,0.0,203.0,127.0,0.0,127.0,76.0
+2010,AL-504,Montgomery City & County CoC,Sheltered and Unsheltered Count,444.0,117.0,177.0,0.0,294.0,150.0,376.0,100.0,138.0,0.0,238.0,138.0,68.0,17.0,39.0,56.0,12.0,23.0,5.0,13.0,18.0,5.0,0.0,72.0,17.0,0.0,17.0,55.0
+2010,AL-505,Gadsden/Northeast Alabama CoC,Sheltered and Unsheltered Count,370.0,179.0,115.0,0.0,294.0,76.0,221.0,108.0,67.0,0.0,175.0,46.0,149.0,71.0,48.0,119.0,30.0,60.0,29.0,19.0,48.0,12.0,0.0,4.0,2.0,0.0,2.0,2.0
+2010,AL-506,Tuscaloosa City & County CoC,Sheltered and Unsheltered Count,278.0,35.0,228.0,0.0,263.0,15.0,271.0,35.0,221.0,0.0,256.0,15.0,7.0,0.0,7.0,7.0,0.0,3.0,0.0,3.0,3.0,0.0,0.0,40.0,33.0,0.0,33.0,7.0
+2010,AL-507,Alabama Balance of State CoC,Sheltered and Unsheltered Count,809.0,227.0,455.0,0.0,682.0,127.0,691.0,133.0,445.0,0.0,578.0,113.0,118.0,94.0,10.0,104.0,14.0,43.0,35.0,4.0,39.0,4.0,0.0,41.0,20.0,0.0,20.0,21.0
+2010,AR-500,Little Rock/Central Arkansas CoC,No 2010 PIT Count,1425.0,349.0,624.0,0.0,973.0,452.0,1179.0,302.0,433.0,0.0,735.0,444.0,246.0,47.0,191.0,238.0,8.0,66.0,18.0,46.0,64.0,2.0,0.0,70.0,54.0,0.0,54.0,16.0
+2010,AR-501,Fayetteville/Northwest Arkansas CoC,Sheltered-Only Count,251.0,141.0,80.0,0.0,221.0,30.0,147.0,109.0,9.0,0.0,118.0,29.0,104.0,32.0,71.0,103.0,1.0,45.0,15.0,29.0,44.0,1.0,0.0,54.0,38.0,0.0,38.0,16.0
+2010,AR-504,Delta Hills CoC,No 2010 PIT Count,969.0,138.0,321.0,0.0,459.0,510.0,731.0,103.0,307.0,0.0,410.0,321.0,238.0,35.0,14.0,49.0,189.0,95.0,15.0,5.0,20.0,75.0,0.0,252.0,39.0,0.0,39.0,213.0
+2010,AR-505,Southeast Arkansas CoC,No 2010 PIT Count,51.0,33.0,18.0,0.0,51.0,0.0,31.0,21.0,10.0,0.0,31.0,0.0,20.0,12.0,8.0,20.0,0.0,7.0,4.0,3.0,7.0,0.0,0.0,12.0,12.0,0.0,12.0,0.0
+2010,AR-512,"Boone, Baxter, Marion, Newton Counties CoC",Sheltered and Unsheltered Count,66.0,7.0,17.0,0.0,24.0,42.0,32.0,7.0,11.0,0.0,18.0,14.0,34.0,0.0,6.0,6.0,28.0,9.0,0.0,2.0,2.0,7.0,0.0,7.0,2.0,0.0,2.0,5.0
+2010,AZ-500,Arizona Balance of State CoC,Sheltered-Only Count,3069.0,578.0,427.0,0.0,1005.0,2064.0,2085.0,301.0,156.0,0.0,457.0,1628.0,984.0,277.0,271.0,548.0,436.0,288.0,94.0,83.0,177.0,111.0,0.0,395.0,84.0,0.0,84.0,311.0
+2010,AZ-501,Tucson/Pima County CoC,Sheltered and Unsheltered Count,3643.0,631.0,1293.0,15.0,1939.0,1704.0,2709.0,460.0,589.0,15.0,1064.0,1645.0,934.0,171.0,704.0,875.0,59.0,295.0,56.0,217.0,273.0,22.0,0.0,627.0,162.0,0.0,162.0,465.0
+2010,AZ-502,"Phoenix, Mesa/Maricopa County CoC",Sheltered and Unsheltered Count,6999.0,2294.0,1951.0,25.0,4270.0,2729.0,4432.0,1257.0,563.0,25.0,1845.0,2587.0,2567.0,1037.0,1388.0,2425.0,142.0,789.0,302.0,440.0,742.0,47.0,25.0,913.0,273.0,25.0,298.0,615.0
+2010,CA-500,San Jose/Santa Clara City & County CoC,No 2010 PIT Count,7086.0,1078.0,1025.0,0.0,2103.0,4983.0,6078.0,840.0,321.0,0.0,1161.0,4917.0,1008.0,238.0,704.0,942.0,66.0,285.0,77.0,187.0,264.0,21.0,0.0,2270.0,195.0,0.0,195.0,2075.0
+2010,CA-501,San Francisco CoC,No 2010 PIT Count,5823.0,2056.0,825.0,0.0,2881.0,2942.0,5309.0,1746.0,646.0,0.0,2392.0,2917.0,514.0,310.0,179.0,489.0,25.0,178.0,106.0,62.0,168.0,10.0,0.0,2816.0,1008.0,0.0,1008.0,1808.0
+2010,CA-502,"Oakland, Berkeley/Alameda County CoC",No 2010 PIT Count,4341.0,1104.0,1274.0,0.0,2378.0,1963.0,2771.0,711.0,519.0,0.0,1230.0,1541.0,1570.0,393.0,755.0,1148.0,422.0,484.0,130.0,282.0,412.0,72.0,0.0,1026.0,266.0,0.0,266.0,760.0
+2010,CA-503,Sacramento City & County CoC,Sheltered-Only Count,2734.0,701.0,839.0,0.0,1540.0,1194.0,2163.0,489.0,496.0,0.0,985.0,1178.0,571.0,212.0,343.0,555.0,16.0,197.0,73.0,118.0,191.0,6.0,0.0,432.0,155.0,0.0,155.0,277.0
+2010,CA-504,"Santa Rosa, Petaluma/Sonoma County CoC",Sheltered-Only Count,3345.0,591.0,532.0,0.0,1123.0,2222.0,2770.0,369.0,185.0,0.0,554.0,2216.0,575.0,222.0,347.0,569.0,6.0,205.0,77.0,126.0,203.0,2.0,0.0,1025.0,103.0,0.0,103.0,922.0
+2010,CA-505,Richmond/Contra Costa County CoC,No 2010 PIT Count,2759.0,509.0,378.0,0.0,887.0,1872.0,2365.0,306.0,197.0,0.0,503.0,1862.0,394.0,203.0,181.0,384.0,10.0,121.0,62.0,54.0,116.0,5.0,0.0,940.0,89.0,0.0,89.0,851.0
+2010,CA-506,"Salinas/Monterey, San Benito Counties CoC",No 2010 PIT Count,2407.0,263.0,516.0,0.0,779.0,1628.0,1909.0,212.0,191.0,0.0,403.0,1506.0,498.0,51.0,325.0,376.0,122.0,117.0,13.0,76.0,89.0,28.0,0.0,656.0,159.0,0.0,159.0,497.0
+2010,CA-507,Marin County CoC,No 2010 PIT Count,1026.0,261.0,336.0,0.0,597.0,429.0,767.0,211.0,156.0,0.0,367.0,400.0,259.0,50.0,180.0,230.0,29.0,85.0,13.0,62.0,75.0,10.0,0.0,135.0,92.0,0.0,92.0,43.0
+2010,CA-508,Watsonville/Santa Cruz City & County CoC,No 2010 PIT Count,2265.0,360.0,369.0,0.0,729.0,1536.0,1815.0,213.0,110.0,0.0,323.0,1492.0,450.0,147.0,259.0,406.0,44.0,145.0,45.0,86.0,131.0,14.0,0.0,842.0,51.0,0.0,51.0,791.0
+2010,CA-509,Mendocino County CoC,No 2010 PIT Count,1202.0,135.0,100.0,0.0,235.0,967.0,1071.0,75.0,51.0,0.0,126.0,945.0,131.0,60.0,49.0,109.0,22.0,44.0,21.0,16.0,37.0,7.0,0.0,474.0,34.0,0.0,34.0,440.0
+2010,CA-510,"Turlock, Modesto/Stanislaus County CoC",No 2010 PIT Count,1800.0,496.0,305.0,0.0,801.0,999.0,1118.0,311.0,173.0,0.0,484.0,634.0,682.0,185.0,132.0,317.0,365.0,281.0,70.0,46.0,116.0,165.0,0.0,442.0,68.0,0.0,68.0,374.0
+2010,CA-511,Stockton/San Joaquin County CoC,No 2010 PIT Count,3005.0,2302.0,538.0,0.0,2840.0,165.0,2122.0,1817.0,140.0,0.0,1957.0,165.0,883.0,485.0,398.0,883.0,0.0,281.0,161.0,120.0,281.0,0.0,0.0,377.0,278.0,0.0,278.0,99.0
+2010,CA-512,Daly/San Mateo County CoC,Sheltered-Only Count,1424.0,127.0,494.0,0.0,621.0,803.0,1013.0,74.0,211.0,0.0,285.0,728.0,411.0,53.0,283.0,336.0,75.0,120.0,18.0,82.0,100.0,20.0,0.0,455.0,29.0,0.0,29.0,426.0
+2010,CA-513,"Visalia/Kings, Tulare Counties CoC",Sheltered and Unsheltered Count,966.0,162.0,244.0,0.0,406.0,560.0,606.0,82.0,164.0,0.0,246.0,360.0,360.0,80.0,80.0,160.0,200.0,108.0,29.0,20.0,49.0,59.0,0.0,132.0,24.0,0.0,24.0,108.0
+2010,CA-514,Fresno City & County/Madera County CoC,Sheltered-Only Count,4288.0,1060.0,749.0,22.0,1831.0,2457.0,3294.0,700.0,307.0,22.0,1029.0,2265.0,994.0,360.0,442.0,802.0,192.0,313.0,87.0,149.0,236.0,77.0,22.0,879.0,223.0,22.0,245.0,634.0
+2010,CA-515,"Roseville, Rocklin/Placer County CoC",No 2010 PIT Count,1054.0,189.0,383.0,0.0,572.0,482.0,700.0,132.0,175.0,0.0,307.0,393.0,354.0,57.0,208.0,265.0,89.0,118.0,21.0,70.0,91.0,27.0,0.0,231.0,62.0,0.0,62.0,169.0
+2010,CA-516,"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Sheltered and Unsheltered Count,336.0,152.0,63.0,0.0,215.0,121.0,243.0,125.0,27.0,0.0,152.0,91.0,93.0,27.0,36.0,63.0,30.0,32.0,10.0,12.0,22.0,10.0,0.0,53.0,26.0,0.0,26.0,27.0
+2010,CA-517,Napa City & County CoC,No 2010 PIT Count,314.0,121.0,65.0,0.0,186.0,128.0,261.0,81.0,52.0,0.0,133.0,128.0,53.0,40.0,13.0,53.0,0.0,16.0,11.0,5.0,16.0,0.0,0.0,132.0,61.0,0.0,61.0,71.0
+2010,CA-518,Vallejo/Solano County CoC,No 2010 PIT Count,829.0,198.0,205.0,0.0,403.0,426.0,468.0,73.0,124.0,0.0,197.0,271.0,361.0,125.0,81.0,206.0,155.0,147.0,51.0,36.0,87.0,60.0,0.0,105.0,48.0,0.0,48.0,57.0
+2010,CA-519,"Chico, Paradise/Butte County CoC",Sheltered and Unsheltered Count,742.0,150.0,197.0,0.0,347.0,395.0,615.0,134.0,114.0,0.0,248.0,367.0,127.0,16.0,83.0,99.0,28.0,47.0,6.0,32.0,38.0,9.0,0.0,186.0,31.0,0.0,31.0,155.0
+2010,CA-520,Merced City & County CoC,No 2010 PIT Count,372.0,83.0,65.0,0.0,148.0,224.0,344.0,58.0,62.0,0.0,120.0,224.0,28.0,25.0,3.0,28.0,0.0,10.0,9.0,1.0,10.0,0.0,0.0,51.0,21.0,0.0,21.0,30.0
+2010,CA-521,"Davis, Woodland/Yolo County CoC",No 2010 PIT Count,491.0,82.0,120.0,0.0,202.0,289.0,365.0,63.0,29.0,0.0,92.0,273.0,126.0,19.0,91.0,110.0,16.0,41.0,7.0,27.0,34.0,7.0,0.0,150.0,27.0,0.0,27.0,123.0
+2010,CA-522,Humboldt County CoC,No 2010 PIT Count,1355.0,224.0,131.0,0.0,355.0,1000.0,889.0,153.0,57.0,0.0,210.0,679.0,466.0,71.0,74.0,145.0,321.0,138.0,26.0,26.0,52.0,86.0,0.0,427.0,40.0,0.0,40.0,387.0
+2010,CA-523,"Colusa, Glenn, Trinity Counties CoC",No 2010 PIT Count,197.0,29.0,45.0,0.0,74.0,123.0,145.0,19.0,18.0,0.0,37.0,108.0,52.0,10.0,27.0,37.0,15.0,18.0,4.0,9.0,13.0,5.0,0.0,40.0,0.0,0.0,0.0,40.0
+2010,CA-524,Yuba City & County/Sutter County CoC,Sheltered and Unsheltered Count,512.0,209.0,178.0,0.0,387.0,125.0,276.0,60.0,111.0,0.0,171.0,105.0,236.0,149.0,67.0,216.0,20.0,72.0,45.0,20.0,65.0,7.0,0.0,41.0,13.0,0.0,13.0,28.0
+2010,CA-525,El Dorado County CoC,No 2010 PIT Count,146.0,14.0,49.0,0.0,63.0,83.0,98.0,1.0,22.0,0.0,23.0,75.0,48.0,13.0,27.0,40.0,8.0,15.0,4.0,8.0,12.0,3.0,0.0,15.0,0.0,0.0,0.0,15.0
+2010,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Sheltered-Only Count,289.0,49.0,18.0,0.0,67.0,222.0,170.0,24.0,1.0,0.0,25.0,145.0,119.0,25.0,17.0,42.0,77.0,36.0,9.0,5.0,14.0,22.0,0.0,85.0,10.0,0.0,10.0,75.0
+2010,CA-528,Del Norte County CoC,Sheltered-Only Count,18.0,18.0,0.0,0.0,18.0,0.0,4.0,4.0,0.0,0.0,4.0,0.0,14.0,14.0,0.0,14.0,0.0,5.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010,CA-600,Los Angeles City & County CoC,No 2010 PIT Count,33243.0,5793.0,8257.0,0.0,14050.0,19193.0,28358.0,4513.0,5663.0,0.0,10176.0,18182.0,4885.0,1280.0,2594.0,3874.0,1011.0,1840.0,432.0,933.0,1365.0,475.0,0.0,7661.0,2414.0,0.0,2414.0,5247.0
+2010,CA-601,San Diego City and County CoC,Sheltered and Unsheltered Count,8383.0,965.0,2900.0,53.0,3918.0,4465.0,6551.0,737.0,1836.0,53.0,2626.0,3925.0,1832.0,228.0,1064.0,1292.0,540.0,688.0,85.0,366.0,451.0,237.0,45.0,1271.0,354.0,45.0,399.0,872.0
+2010,CA-602,"Santa Ana, Anaheim/Orange County CoC",No 2010 PIT Count,8333.0,962.0,1647.0,0.0,2609.0,5724.0,6956.0,774.0,539.0,0.0,1313.0,5643.0,1377.0,188.0,1108.0,1296.0,81.0,481.0,70.0,384.0,454.0,27.0,0.0,3783.0,205.0,0.0,205.0,3578.0
+2010,CA-603,Santa Maria/Santa Barbara County CoC,No 2010 PIT Count,4121.0,401.0,747.0,0.0,1148.0,2973.0,3333.0,301.0,445.0,0.0,746.0,2587.0,788.0,100.0,302.0,402.0,386.0,262.0,36.0,99.0,135.0,127.0,0.0,483.0,236.0,0.0,236.0,247.0
+2010,CA-604,Bakersfield/Kern County CoC,No 2010 PIT Count,1499.0,380.0,287.0,0.0,667.0,832.0,1251.0,204.0,260.0,0.0,464.0,787.0,248.0,176.0,27.0,203.0,45.0,78.0,53.0,7.0,60.0,18.0,0.0,258.0,39.0,0.0,39.0,219.0
+2010,CA-606,Long Beach CoC,No 2010 PIT Count,3909.0,542.0,1612.0,0.0,2154.0,1755.0,3200.0,412.0,1248.0,0.0,1660.0,1540.0,709.0,130.0,364.0,494.0,215.0,224.0,43.0,113.0,156.0,68.0,0.0,789.0,115.0,0.0,115.0,674.0
+2010,CA-607,Pasadena CoC,Sheltered and Unsheltered Count,1137.0,358.0,133.0,0.0,491.0,646.0,875.0,266.0,60.0,0.0,326.0,549.0,262.0,92.0,73.0,165.0,97.0,91.0,33.0,23.0,56.0,35.0,0.0,383.0,112.0,0.0,112.0,271.0
+2010,CA-608,Riverside City & County CoC,Sheltered-Only Count,3126.0,567.0,516.0,0.0,1083.0,2043.0,1618.0,140.0,133.0,0.0,273.0,1345.0,1508.0,427.0,383.0,810.0,698.0,393.0,142.0,128.0,270.0,123.0,0.0,721.0,26.0,0.0,26.0,695.0
+2010,CA-609,San Bernardino City & County CoC,No 2010 PIT Count,2026.0,315.0,453.0,0.0,768.0,1258.0,1397.0,126.0,181.0,0.0,307.0,1090.0,629.0,189.0,272.0,461.0,168.0,221.0,79.0,97.0,176.0,45.0,0.0,361.0,70.0,0.0,70.0,291.0
+2010,CA-611,"Oxnard, San Buenaventura/Ventura County CoC",Sheltered and Unsheltered Count,1815.0,274.0,242.0,8.0,524.0,1291.0,1419.0,226.0,118.0,8.0,352.0,1067.0,396.0,48.0,124.0,172.0,224.0,124.0,19.0,35.0,54.0,70.0,0.0,787.0,155.0,0.0,155.0,632.0
+2010,CA-612,Glendale CoC,Sheltered and Unsheltered Count,428.0,157.0,143.0,0.0,300.0,128.0,286.0,109.0,57.0,0.0,166.0,120.0,142.0,48.0,86.0,134.0,8.0,43.0,12.0,27.0,39.0,4.0,0.0,108.0,39.0,0.0,39.0,69.0
+2010,CA-613,Imperial County CoC,No 2010 PIT Count,505.0,91.0,66.0,0.0,157.0,348.0,400.0,52.0,0.0,0.0,52.0,348.0,105.0,39.0,66.0,105.0,0.0,33.0,12.0,21.0,33.0,0.0,0.0,12.0,12.0,0.0,12.0,0.0
+2010,CA-614,San Luis Obispo County CoC,No 2010 PIT Count,3829.0,173.0,69.0,0.0,242.0,3587.0,1547.0,49.0,28.0,0.0,77.0,1470.0,2282.0,124.0,41.0,165.0,2117.0,673.0,28.0,10.0,38.0,635.0,0.0,201.0,7.0,0.0,7.0,194.0
+2010,CO-500,Colorado Balance of State CoC,No 2010 PIT Count,5267.0,679.0,408.0,0.0,1087.0,4180.0,1324.0,221.0,58.0,0.0,279.0,1045.0,3943.0,458.0,350.0,808.0,3135.0,986.0,114.0,88.0,202.0,784.0,0.0,259.0,11.0,0.0,11.0,248.0
+2010,CO-503,Metropolitan Denver CoC,No 2010 PIT Count,8752.0,3794.0,3259.0,0.0,7053.0,1699.0,5081.0,2490.0,1163.0,0.0,3653.0,1428.0,3671.0,1304.0,2096.0,3400.0,271.0,1156.0,411.0,660.0,1071.0,85.0,0.0,839.0,404.0,0.0,404.0,435.0
+2010,CO-504,Colorado Springs/El Paso County CoC,Sheltered and Unsheltered Count,1463.0,422.0,469.0,0.0,891.0,572.0,1169.0,372.0,272.0,0.0,644.0,525.0,294.0,50.0,197.0,247.0,47.0,92.0,16.0,64.0,80.0,12.0,0.0,334.0,95.0,0.0,95.0,239.0
+2010,CT-503,"Bridgeport, Stamford, Norwalk, Danbury/Fairfield County CoC",Sheltered-Only Count,944.0,511.0,328.0,0.0,839.0,105.0,653.0,367.0,190.0,0.0,557.0,96.0,291.0,144.0,138.0,282.0,9.0,94.0,46.0,44.0,90.0,4.0,0.0,200.0,154.0,0.0,154.0,46.0
+2010,CT-505,Connecticut Balance of State CoC,Sheltered-Only Count,3372.0,1803.0,1175.0,0.0,2978.0,394.0,2340.0,1268.0,686.0,0.0,1954.0,386.0,1032.0,535.0,489.0,1024.0,8.0,353.0,179.0,171.0,350.0,3.0,0.0,577.0,441.0,0.0,441.0,136.0
+2010,DC-500,District of Columbia CoC,Sheltered and Unsheltered Count,6539.0,3584.0,2512.0,13.0,6109.0,430.0,4016.0,2593.0,980.0,13.0,3586.0,430.0,2523.0,991.0,1532.0,2523.0,0.0,800.0,318.0,482.0,800.0,0.0,13.0,2110.0,1710.0,13.0,1723.0,387.0
+2010,DE-500,Delaware Statewide CoC,Sheltered and Unsheltered Count,982.0,481.0,439.0,10.0,930.0,52.0,681.0,358.0,261.0,10.0,629.0,52.0,301.0,123.0,178.0,301.0,0.0,111.0,50.0,61.0,111.0,0.0,7.0,97.0,64.0,7.0,71.0,26.0
+2010,FL-500,"Sarasota, Bradenton/Manatee, Sarasota Counties CoC",No 2010 PIT Count,1999.0,181.0,167.0,0.0,348.0,1651.0,1201.0,97.0,96.0,0.0,193.0,1008.0,798.0,84.0,71.0,155.0,643.0,231.0,26.0,29.0,55.0,176.0,0.0,125.0,27.0,0.0,27.0,98.0
+2010,FL-501,Tampa/Hillsborough County CoC,No 2010 PIT Count,7473.0,321.0,405.0,0.0,726.0,6747.0,4107.0,236.0,262.0,0.0,498.0,3609.0,3366.0,85.0,143.0,228.0,3138.0,1201.0,30.0,50.0,80.0,1121.0,0.0,598.0,210.0,0.0,210.0,388.0
+2010,FL-502,"St. Petersburg, Clearwater, Largo/Pinellas County CoC",Sheltered and Unsheltered Count,3948.0,889.0,857.0,45.0,1791.0,2157.0,3463.0,730.0,577.0,45.0,1352.0,2111.0,485.0,159.0,280.0,439.0,46.0,188.0,69.0,100.0,169.0,19.0,45.0,577.0,163.0,45.0,208.0,369.0
+2010,FL-503,"Lakeland, Winterhaven/Polk County CoC",Sheltered and Unsheltered Count,820.0,197.0,246.0,0.0,443.0,377.0,694.0,161.0,194.0,0.0,355.0,339.0,126.0,36.0,52.0,88.0,38.0,37.0,10.0,16.0,26.0,11.0,0.0,83.0,35.0,0.0,35.0,48.0
+2010,FL-504,"Deltona, Daytona Beach/Volusia, Flagler Counties CoC",Sheltered and Unsheltered Count,2155.0,100.0,603.0,0.0,703.0,1452.0,1677.0,61.0,164.0,0.0,225.0,1452.0,478.0,39.0,439.0,478.0,0.0,151.0,11.0,140.0,151.0,0.0,0.0,173.0,0.0,0.0,0.0,173.0
+2010,FL-505,"Fort Walton Beach/Okaloosa, Walton Counties CoC",Sheltered and Unsheltered Count,2262.0,273.0,198.0,0.0,471.0,1791.0,1248.0,205.0,170.0,0.0,375.0,873.0,1014.0,68.0,28.0,96.0,918.0,334.0,32.0,10.0,42.0,292.0,0.0,251.0,178.0,0.0,178.0,73.0
+2010,FL-506,Tallahassee/Leon County CoC,No 2010 PIT Count,640.0,276.0,260.0,0.0,536.0,104.0,475.0,219.0,179.0,0.0,398.0,77.0,165.0,57.0,81.0,138.0,27.0,48.0,15.0,25.0,40.0,8.0,0.0,150.0,100.0,0.0,100.0,50.0
+2010,FL-507,"Orlando/Orange, Osceola, Seminole Counties CoC",Sheltered and Unsheltered Count,4041.0,949.0,1096.0,20.0,2065.0,1976.0,2696.0,504.0,575.0,20.0,1099.0,1597.0,1345.0,445.0,521.0,966.0,379.0,447.0,148.0,173.0,321.0,126.0,20.0,1614.0,352.0,20.0,372.0,1242.0
+2010,FL-508,"Gainesville/Alachua, Putnam Counties CoC",Sheltered and Unsheltered Count,1019.0,141.0,156.0,0.0,297.0,722.0,774.0,83.0,111.0,0.0,194.0,580.0,245.0,58.0,45.0,103.0,142.0,111.0,23.0,17.0,40.0,71.0,0.0,218.0,0.0,0.0,0.0,218.0
+2010,FL-509,"Fort Pierce/St. Lucie, Indian River, Martin Counties CoC",Sheltered and Unsheltered Count,2160.0,120.0,66.0,0.0,186.0,1974.0,1101.0,30.0,0.0,0.0,30.0,1071.0,1059.0,90.0,66.0,156.0,903.0,384.0,26.0,21.0,47.0,337.0,0.0,179.0,53.0,0.0,53.0,126.0
+2010,FL-510,"Jacksonville-Duval, Clay Counties CoC",Sheltered and Unsheltered Count,3241.0,803.0,1266.0,0.0,2069.0,1172.0,2345.0,496.0,677.0,0.0,1173.0,1172.0,896.0,307.0,589.0,896.0,0.0,237.0,92.0,145.0,237.0,0.0,0.0,998.0,803.0,0.0,803.0,195.0
+2010,FL-511,"Pensacola/Escambia, Santa Rosa Counties CoC",Sheltered-Only Count,1160.0,150.0,392.0,0.0,542.0,618.0,755.0,79.0,249.0,0.0,328.0,427.0,405.0,71.0,143.0,214.0,191.0,175.0,27.0,41.0,68.0,107.0,0.0,282.0,159.0,0.0,159.0,123.0
+2010,FL-512,St. Johns County CoC,Sheltered and Unsheltered Count,1252.0,138.0,63.0,0.0,201.0,1051.0,1092.0,109.0,0.0,0.0,109.0,983.0,160.0,29.0,63.0,92.0,68.0,50.0,6.0,30.0,36.0,14.0,0.0,56.0,0.0,0.0,0.0,56.0
+2010,FL-513,"Palm Bay, Melbourne/Brevard County CoC",No 2010 PIT Count,1221.0,24.0,978.0,0.0,1002.0,219.0,881.0,16.0,655.0,0.0,671.0,210.0,340.0,8.0,323.0,331.0,9.0,109.0,2.0,104.0,106.0,3.0,0.0,112.0,81.0,0.0,81.0,31.0
+2010,FL-514,Ocala/Marion County CoC,Sheltered-Only Count,576.0,190.0,192.0,0.0,382.0,194.0,273.0,47.0,128.0,0.0,175.0,98.0,303.0,143.0,64.0,207.0,96.0,125.0,69.0,32.0,101.0,24.0,0.0,97.0,97.0,0.0,97.0,0.0
+2010,FL-515,"Panama City/Bay, Jackson Counties CoC",Sheltered and Unsheltered Count,326.0,80.0,144.0,0.0,224.0,102.0,207.0,56.0,79.0,0.0,135.0,72.0,119.0,24.0,65.0,89.0,30.0,40.0,9.0,23.0,32.0,8.0,0.0,94.0,52.0,0.0,52.0,42.0
+2010,FL-517,"Hendry, Hardee, Highlands Counties CoC",No 2010 PIT Count,4220.0,16.0,85.0,0.0,101.0,4119.0,812.0,16.0,47.0,0.0,63.0,749.0,3408.0,0.0,38.0,38.0,3370.0,1619.0,2.0,12.0,14.0,1605.0,0.0,329.0,12.0,0.0,12.0,317.0
+2010,FL-518,"Columbia, Hamilton, Lafayette, Suwannee Counties CoC",No 2010 PIT Count,1114.0,114.0,51.0,0.0,165.0,949.0,724.0,42.0,43.0,0.0,85.0,639.0,390.0,72.0,8.0,80.0,310.0,159.0,32.0,3.0,35.0,124.0,0.0,298.0,76.0,0.0,76.0,222.0
+2010,FL-519,Pasco County CoC,No 2010 PIT Count,4527.0,1674.0,0.0,0.0,1674.0,2853.0,1312.0,549.0,0.0,0.0,549.0,763.0,3215.0,1125.0,0.0,1125.0,2090.0,1286.0,450.0,0.0,450.0,836.0,0.0,995.0,378.0,0.0,378.0,617.0
+2010,FL-520,"Citrus, Hernando, Lake, Sumter Counties CoC",Sheltered and Unsheltered Count,1385.0,150.0,140.0,5.0,295.0,1090.0,963.0,83.0,131.0,5.0,219.0,744.0,422.0,67.0,9.0,76.0,346.0,126.0,25.0,3.0,28.0,98.0,5.0,41.0,11.0,5.0,16.0,25.0
+2010,FL-600,Miami-Dade County CoC,Sheltered and Unsheltered Count,3879.0,1477.0,1616.0,27.0,3120.0,759.0,2562.0,973.0,803.0,27.0,1803.0,759.0,1317.0,504.0,813.0,1317.0,0.0,397.0,179.0,218.0,397.0,0.0,15.0,547.0,291.0,15.0,306.0,241.0
+2010,FL-601,Ft Lauderdale/Broward County CoC,No 2010 PIT Count,3225.0,884.0,1541.0,0.0,2425.0,800.0,2575.0,658.0,1181.0,0.0,1839.0,736.0,650.0,226.0,360.0,586.0,64.0,206.0,61.0,128.0,189.0,17.0,0.0,377.0,171.0,0.0,171.0,206.0
+2010,FL-602,Punta Gorda/Charlotte County CoC,Sheltered and Unsheltered Count,376.0,60.0,142.0,0.0,202.0,174.0,285.0,35.0,123.0,0.0,158.0,127.0,91.0,25.0,19.0,44.0,47.0,39.0,10.0,6.0,16.0,23.0,0.0,77.0,48.0,0.0,48.0,29.0
+2010,FL-603,"Ft Myers, Cape Coral/Lee County CoC",Sheltered and Unsheltered Count,944.0,173.0,288.0,0.0,461.0,483.0,720.0,88.0,259.0,0.0,347.0,373.0,224.0,85.0,29.0,114.0,110.0,55.0,24.0,9.0,33.0,22.0,0.0,189.0,53.0,0.0,53.0,136.0
+2010,FL-604,Monroe County CoC,No 2010 PIT Count,1040.0,186.0,138.0,0.0,324.0,716.0,838.0,136.0,90.0,0.0,226.0,612.0,202.0,50.0,48.0,98.0,104.0,81.0,15.0,14.0,29.0,52.0,0.0,289.0,164.0,0.0,164.0,125.0
+2010,FL-605,West Palm Beach/Palm Beach County CoC,No 2010 PIT Count,2147.0,445.0,295.0,0.0,740.0,1407.0,1682.0,209.0,224.0,0.0,433.0,1249.0,465.0,236.0,71.0,307.0,158.0,138.0,69.0,20.0,89.0,49.0,0.0,417.0,79.0,0.0,79.0,338.0
+2010,FL-606,Naples/Collier County CoC,Sheltered and Unsheltered Count,401.0,231.0,93.0,0.0,324.0,77.0,276.0,156.0,43.0,0.0,199.0,77.0,125.0,75.0,50.0,125.0,0.0,43.0,25.0,18.0,43.0,0.0,0.0,66.0,22.0,0.0,22.0,44.0
+2010,GA-500,Atlanta CoC,No 2010 PIT Count,7019.0,2357.0,2498.0,0.0,4855.0,2164.0,5781.0,1998.0,1715.0,0.0,3713.0,2068.0,1238.0,359.0,783.0,1142.0,96.0,492.0,126.0,333.0,459.0,33.0,0.0,1649.0,947.0,0.0,947.0,702.0
+2010,GA-501,Georgia Balance of State CoC,Sheltered-Only Count,9750.0,972.0,971.0,0.0,1943.0,7807.0,6315.0,438.0,201.0,0.0,639.0,5676.0,3435.0,534.0,770.0,1304.0,2131.0,1058.0,173.0,239.0,412.0,646.0,0.0,1221.0,116.0,0.0,116.0,1105.0
+2010,GA-503,Athens-Clarke County CoC,Sheltered and Unsheltered Count,496.0,151.0,118.0,0.0,269.0,227.0,353.0,99.0,43.0,0.0,142.0,211.0,143.0,52.0,75.0,127.0,16.0,44.0,17.0,22.0,39.0,5.0,0.0,119.0,35.0,0.0,35.0,84.0
+2010,GA-504,Augusta-Richmond County CoC,No 2010 PIT Count,556.0,236.0,276.0,0.0,512.0,44.0,405.0,193.0,191.0,0.0,384.0,21.0,151.0,43.0,85.0,128.0,23.0,51.0,10.0,24.0,34.0,17.0,0.0,142.0,142.0,0.0,142.0,0.0
+2010,GA-505,Columbus-Muscogee CoC,Sheltered-Only Count,468.0,201.0,63.0,0.0,264.0,204.0,351.0,146.0,57.0,0.0,203.0,148.0,117.0,55.0,6.0,61.0,56.0,34.0,15.0,2.0,17.0,17.0,0.0,141.0,56.0,0.0,56.0,85.0
+2010,GA-506,Marietta/Cobb County CoC,Sheltered-Only Count,470.0,104.0,240.0,0.0,344.0,126.0,266.0,54.0,89.0,0.0,143.0,123.0,204.0,50.0,151.0,201.0,3.0,70.0,18.0,51.0,69.0,1.0,0.0,104.0,7.0,0.0,7.0,97.0
+2010,GA-507,Savannah/Chatham County CoC,Sheltered and Unsheltered Count,1077.0,282.0,277.0,0.0,559.0,518.0,906.0,218.0,170.0,0.0,388.0,518.0,171.0,64.0,107.0,171.0,0.0,63.0,22.0,41.0,63.0,0.0,0.0,259.0,192.0,0.0,192.0,67.0
+2010,GU-500,Guam CoC,Sheltered and Unsheltered Count,1635.0,56.0,126.0,0.0,182.0,1453.0,534.0,12.0,25.0,0.0,37.0,497.0,1101.0,44.0,101.0,145.0,956.0,172.0,10.0,22.0,32.0,140.0,0.0,28.0,1.0,0.0,1.0,27.0
+2010,HI-500,Hawaii Balance of State CoC,Sheltered and Unsheltered Count,1663.0,212.0,526.0,0.0,738.0,925.0,935.0,72.0,116.0,0.0,188.0,747.0,728.0,140.0,410.0,550.0,178.0,195.0,42.0,106.0,148.0,47.0,0.0,249.0,22.0,0.0,22.0,227.0
+2010,HI-501,Honolulu City and County CoC,Sheltered and Unsheltered Count,4171.0,782.0,1990.0,25.0,2797.0,1374.0,1954.0,390.0,341.0,25.0,756.0,1198.0,2217.0,392.0,1649.0,2041.0,176.0,569.0,109.0,418.0,527.0,42.0,19.0,552.0,55.0,19.0,74.0,478.0
+2010,IA-500,"Sioux City/Dakota, Woodbury Counties CoC",Sheltered and Unsheltered Count,308.0,119.0,175.0,0.0,294.0,14.0,129.0,80.0,35.0,0.0,115.0,14.0,179.0,39.0,140.0,179.0,0.0,57.0,11.0,46.0,57.0,0.0,0.0,45.0,42.0,0.0,42.0,3.0
+2010,IA-501,Iowa Balance of State CoC,Sheltered and Unsheltered Count,1686.0,646.0,1007.0,0.0,1653.0,33.0,713.0,390.0,297.0,0.0,687.0,26.0,973.0,256.0,710.0,966.0,7.0,318.0,86.0,229.0,315.0,3.0,0.0,91.0,69.0,0.0,69.0,22.0
+2010,IA-502,Des Moines/Polk County CoC,Sheltered and Unsheltered Count,1020.0,297.0,659.0,0.0,956.0,64.0,686.0,220.0,404.0,0.0,624.0,62.0,334.0,77.0,255.0,332.0,2.0,106.0,26.0,79.0,105.0,1.0,0.0,113.0,71.0,0.0,71.0,42.0
+2010,ID-500,Boise/Ada County CoC,Sheltered and Unsheltered Count,872.0,499.0,248.0,0.0,747.0,125.0,645.0,379.0,153.0,0.0,532.0,113.0,227.0,120.0,95.0,215.0,12.0,73.0,37.0,32.0,69.0,4.0,0.0,37.0,21.0,0.0,21.0,16.0
+2010,ID-501,Idaho Balance of State CoC,Sheltered and Unsheltered Count,1474.0,297.0,520.0,0.0,817.0,657.0,800.0,153.0,146.0,0.0,299.0,501.0,674.0,144.0,374.0,518.0,156.0,214.0,51.0,122.0,173.0,41.0,0.0,74.0,16.0,0.0,16.0,58.0
+2010,IL-500,McHenry County CoC,Sheltered and Unsheltered Count,212.0,88.0,123.0,0.0,211.0,1.0,124.0,72.0,51.0,0.0,123.0,1.0,88.0,16.0,72.0,88.0,0.0,30.0,6.0,24.0,30.0,0.0,0.0,5.0,4.0,0.0,4.0,1.0
+2010,IL-501,"Rockford/DeKalb, Winnebago, Boone Counties CoC",Sheltered and Unsheltered Count,739.0,206.0,406.0,0.0,612.0,127.0,326.0,89.0,137.0,0.0,226.0,100.0,413.0,117.0,269.0,386.0,27.0,110.0,29.0,72.0,101.0,9.0,0.0,235.0,189.0,0.0,189.0,46.0
+2010,IL-502,"Waukegan, North Chicago/Lake County CoC",Sheltered and Unsheltered Count,474.0,220.0,221.0,13.0,454.0,20.0,237.0,112.0,92.0,13.0,217.0,20.0,237.0,108.0,129.0,237.0,0.0,96.0,49.0,47.0,96.0,0.0,13.0,62.0,48.0,13.0,61.0,1.0
+2010,IL-503,"Champaign, Urbana, Rantoul/Champaign County CoC",No 2010 PIT Count,534.0,404.0,126.0,0.0,530.0,4.0,209.0,128.0,77.0,0.0,205.0,4.0,325.0,276.0,49.0,325.0,0.0,124.0,111.0,13.0,124.0,0.0,0.0,47.0,47.0,0.0,47.0,0.0
+2010,IL-504,Madison County CoC,No 2010 PIT Count,202.0,82.0,79.0,0.0,161.0,41.0,62.0,28.0,3.0,0.0,31.0,31.0,140.0,54.0,76.0,130.0,10.0,42.0,16.0,23.0,39.0,3.0,0.0,9.0,0.0,0.0,0.0,9.0
+2010,IL-506,"Joliet, Bolingbrook/Will County CoC",Sheltered and Unsheltered Count,389.0,135.0,223.0,0.0,358.0,31.0,187.0,112.0,49.0,0.0,161.0,26.0,202.0,23.0,174.0,197.0,5.0,66.0,8.0,56.0,64.0,2.0,0.0,85.0,74.0,0.0,74.0,11.0
+2010,IL-507,"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties CoC",Sheltered and Unsheltered Count,376.0,243.0,103.0,0.0,346.0,30.0,205.0,153.0,36.0,0.0,189.0,16.0,171.0,90.0,67.0,157.0,14.0,70.0,32.0,32.0,64.0,6.0,0.0,84.0,84.0,0.0,84.0,0.0
+2010,IL-508,"East St. Louis, Belleville/St. Clair County CoC",Sheltered-Only Count,514.0,132.0,88.0,0.0,220.0,294.0,297.0,56.0,26.0,0.0,82.0,215.0,217.0,76.0,62.0,138.0,79.0,96.0,31.0,31.0,62.0,34.0,0.0,36.0,6.0,0.0,6.0,30.0
+2010,IL-510,Chicago CoC,No 2010 PIT Count,6240.0,1691.0,3665.0,0.0,5356.0,884.0,3342.0,1447.0,1101.0,0.0,2548.0,794.0,2898.0,244.0,2564.0,2808.0,90.0,883.0,75.0,786.0,861.0,22.0,0.0,689.0,416.0,0.0,416.0,273.0
+2010,IL-511,Cook County CoC,Sheltered-Only Count,1390.0,463.0,662.0,14.0,1139.0,251.0,790.0,363.0,177.0,14.0,554.0,236.0,600.0,100.0,485.0,585.0,15.0,196.0,40.0,152.0,192.0,4.0,14.0,231.0,101.0,14.0,115.0,116.0
+2010,IL-512,Bloomington/Central Illinois CoC,Sheltered and Unsheltered Count,639.0,206.0,190.0,23.0,419.0,220.0,365.0,158.0,65.0,23.0,246.0,119.0,274.0,48.0,125.0,173.0,101.0,92.0,16.0,38.0,54.0,38.0,5.0,86.0,50.0,5.0,55.0,31.0
+2010,IL-513,Springfield/Sangamon County CoC,Sheltered and Unsheltered Count,287.0,146.0,138.0,0.0,284.0,3.0,176.0,122.0,51.0,0.0,173.0,3.0,111.0,24.0,87.0,111.0,0.0,45.0,9.0,36.0,45.0,0.0,0.0,93.0,93.0,0.0,93.0,0.0
+2010,IL-514,DuPage County CoC,Sheltered-Only Count,712.0,185.0,419.0,0.0,604.0,108.0,361.0,144.0,118.0,0.0,262.0,99.0,351.0,41.0,301.0,342.0,9.0,120.0,14.0,103.0,117.0,3.0,0.0,148.0,49.0,0.0,49.0,99.0
+2010,IL-515,South Central Illinois CoC,Sheltered and Unsheltered Count,190.0,67.0,105.0,0.0,172.0,18.0,46.0,33.0,4.0,0.0,37.0,9.0,144.0,34.0,101.0,135.0,9.0,38.0,9.0,26.0,35.0,3.0,0.0,8.0,3.0,0.0,3.0,5.0
+2010,IL-516,Decatur/Macon County CoC,Sheltered and Unsheltered Count,197.0,70.0,70.0,5.0,145.0,52.0,118.0,64.0,13.0,5.0,82.0,36.0,79.0,6.0,57.0,63.0,16.0,25.0,2.0,17.0,19.0,6.0,5.0,51.0,29.0,5.0,34.0,17.0
+2010,IL-517,"Aurora, Elgin/Kane County CoC",No 2010 PIT Count,445.0,269.0,123.0,0.0,392.0,53.0,333.0,223.0,57.0,0.0,280.0,53.0,112.0,46.0,66.0,112.0,0.0,32.0,12.0,20.0,32.0,0.0,0.0,188.0,155.0,0.0,155.0,33.0
+2010,IL-518,"Rock Island, Moline/Northwestern Illinois CoC",Sheltered and Unsheltered Count,392.0,150.0,235.0,0.0,385.0,7.0,177.0,83.0,87.0,0.0,170.0,7.0,215.0,67.0,148.0,215.0,0.0,72.0,23.0,49.0,72.0,0.0,0.0,34.0,27.0,0.0,27.0,7.0
+2010,IL-519,West Central Illinois CoC,Sheltered-Only Count,172.0,60.0,112.0,0.0,172.0,0.0,61.0,32.0,29.0,0.0,61.0,0.0,111.0,28.0,83.0,111.0,0.0,51.0,10.0,41.0,51.0,0.0,0.0,4.0,4.0,0.0,4.0,0.0
+2010,IL-520,Southern Illinois CoC,Sheltered and Unsheltered Count,291.0,164.0,84.0,0.0,248.0,43.0,152.0,95.0,25.0,0.0,120.0,32.0,139.0,69.0,59.0,128.0,11.0,41.0,19.0,19.0,38.0,3.0,0.0,35.0,19.0,0.0,19.0,16.0
+2010,IN-502,Indiana Balance of State CoC,Sheltered and Unsheltered Count,4958.0,2078.0,1794.0,0.0,3872.0,1086.0,2658.0,1211.0,726.0,0.0,1937.0,721.0,2300.0,867.0,1068.0,1935.0,365.0,731.0,283.0,341.0,624.0,107.0,0.0,652.0,404.0,0.0,404.0,248.0
+2010,IN-503,Indianapolis CoC,Sheltered and Unsheltered Count,1494.0,629.0,732.0,0.0,1361.0,133.0,930.0,307.0,492.0,0.0,799.0,131.0,564.0,322.0,240.0,562.0,2.0,182.0,102.0,79.0,181.0,1.0,0.0,123.0,74.0,0.0,74.0,49.0
+2010,KS-502,Wichita/Sedgwick County CoC,No 2010 PIT Count,384.0,309.0,43.0,0.0,352.0,32.0,310.0,263.0,15.0,0.0,278.0,32.0,74.0,46.0,28.0,74.0,0.0,25.0,14.0,11.0,25.0,0.0,0.0,71.0,60.0,0.0,60.0,11.0
+2010,KS-503,Topeka/Shawnee County CoC,Sheltered-Only Count,356.0,240.0,97.0,0.0,337.0,19.0,228.0,180.0,29.0,0.0,209.0,19.0,128.0,60.0,68.0,128.0,0.0,32.0,20.0,12.0,32.0,0.0,0.0,7.0,2.0,0.0,2.0,5.0
+2010,KS-505,"Overland Park, Shawnee/Johnson County CoC",No 2010 PIT Count,210.0,130.0,36.0,0.0,166.0,44.0,58.0,42.0,3.0,0.0,45.0,13.0,152.0,88.0,33.0,121.0,31.0,48.0,27.0,11.0,38.0,10.0,0.0,8.0,5.0,0.0,5.0,3.0
+2010,KS-507,Kansas Balance of State CoC,No 2010 PIT Count,859.0,461.0,339.0,0.0,800.0,59.0,593.0,291.0,256.0,0.0,547.0,46.0,266.0,170.0,83.0,253.0,13.0,85.0,53.0,28.0,81.0,4.0,0.0,77.0,68.0,0.0,68.0,9.0
+2010,KY-500,Kentucky Balance of State CoC,Sheltered and Unsheltered Count,3446.0,1290.0,1414.0,0.0,2704.0,742.0,1827.0,729.0,506.0,0.0,1235.0,592.0,1619.0,561.0,908.0,1469.0,150.0,492.0,171.0,276.0,447.0,45.0,0.0,316.0,138.0,0.0,138.0,178.0
+2010,KY-501,Louisville-Jefferson County CoC,Sheltered and Unsheltered Count,1626.0,978.0,472.0,10.0,1460.0,166.0,1241.0,797.0,268.0,10.0,1075.0,166.0,385.0,181.0,204.0,385.0,0.0,137.0,60.0,77.0,137.0,0.0,4.0,203.0,144.0,4.0,148.0,55.0
+2010,KY-502,Lexington-Fayette County CoC,Sheltered and Unsheltered Count,1551.0,472.0,961.0,2.0,1435.0,116.0,1057.0,352.0,597.0,2.0,951.0,106.0,494.0,120.0,364.0,484.0,10.0,176.0,37.0,135.0,172.0,4.0,0.0,176.0,118.0,0.0,118.0,58.0
+2010,LA-500,Lafayette/Acadiana CoC,No 2010 PIT Count,731.0,240.0,298.0,0.0,538.0,193.0,383.0,126.0,141.0,0.0,267.0,116.0,348.0,114.0,157.0,271.0,77.0,114.0,39.0,53.0,92.0,22.0,0.0,36.0,21.0,0.0,21.0,15.0
+2010,LA-502,"Shreveport, Bossier/Northwest Louisiana CoC",No 2010 PIT Count,830.0,265.0,474.0,0.0,739.0,91.0,461.0,141.0,248.0,0.0,389.0,72.0,369.0,124.0,226.0,350.0,19.0,116.0,36.0,75.0,111.0,5.0,0.0,56.0,17.0,0.0,17.0,39.0
+2010,LA-503,New Orleans/Jefferson Parish CoC,No 2010 PIT Count,8725.0,643.0,697.0,0.0,1340.0,7385.0,7957.0,526.0,337.0,0.0,863.0,7094.0,768.0,117.0,360.0,477.0,291.0,252.0,39.0,121.0,160.0,92.0,0.0,4579.0,146.0,0.0,146.0,4433.0
+2010,LA-505,Monroe/Northeast Louisiana CoC,No 2010 PIT Count,228.0,75.0,112.0,0.0,187.0,41.0,93.0,51.0,18.0,0.0,69.0,24.0,135.0,24.0,94.0,118.0,17.0,38.0,7.0,26.0,33.0,5.0,0.0,19.0,9.0,0.0,9.0,10.0
+2010,LA-506,Slidell/Southeast Louisiana CoC,Sheltered-Only Count,357.0,49.0,146.0,0.0,195.0,162.0,167.0,34.0,48.0,0.0,82.0,85.0,190.0,15.0,98.0,113.0,77.0,70.0,5.0,37.0,42.0,28.0,0.0,24.0,2.0,0.0,2.0,22.0
+2010,LA-507,Alexandria/Central Louisiana CoC,No 2010 PIT Count,151.0,36.0,68.0,0.0,104.0,47.0,103.0,6.0,68.0,0.0,74.0,29.0,48.0,30.0,0.0,30.0,18.0,15.0,9.0,0.0,9.0,6.0,0.0,8.0,0.0,0.0,0.0,8.0
+2010,LA-509,Louisiana Balance of State CoC,No 2010 PIT Count,1460.0,309.0,684.0,0.0,993.0,467.0,937.0,132.0,514.0,0.0,646.0,291.0,523.0,177.0,170.0,347.0,176.0,158.0,52.0,55.0,107.0,51.0,0.0,93.0,31.0,0.0,31.0,62.0
+2010,MA-500,Boston CoC,Sheltered and Unsheltered Count,5139.0,3629.0,1250.0,5.0,4884.0,255.0,2371.0,1317.0,794.0,5.0,2116.0,255.0,2768.0,2312.0,456.0,2768.0,0.0,947.0,756.0,191.0,947.0,0.0,0.0,709.0,544.0,0.0,544.0,165.0
+2010,MA-501,"Holyoke/Franklin, Hampden, Hampshire Counties CoC",Sheltered and Unsheltered Count,1881.0,1407.0,401.0,5.0,1813.0,68.0,543.0,122.0,348.0,5.0,475.0,68.0,1338.0,1285.0,53.0,1338.0,0.0,421.0,400.0,21.0,421.0,0.0,5.0,78.0,29.0,5.0,34.0,44.0
+2010,MA-502,Lynn CoC,Sheltered and Unsheltered Count,464.0,360.0,79.0,0.0,439.0,25.0,154.0,64.0,65.0,0.0,129.0,25.0,310.0,296.0,14.0,310.0,0.0,102.0,97.0,5.0,102.0,0.0,0.0,168.0,157.0,0.0,157.0,11.0
+2010,MA-503,Cape Cod Islands CoC,Sheltered and Unsheltered Count,504.0,241.0,72.0,0.0,313.0,191.0,275.0,86.0,58.0,0.0,144.0,131.0,229.0,155.0,14.0,169.0,60.0,87.0,62.0,4.0,66.0,21.0,0.0,122.0,55.0,0.0,55.0,67.0
+2010,MA-504,Springfield/Hampden County CoC,Sheltered and Unsheltered Count,886.0,643.0,227.0,6.0,876.0,10.0,308.0,194.0,98.0,6.0,298.0,10.0,578.0,449.0,129.0,578.0,0.0,188.0,139.0,49.0,188.0,0.0,6.0,87.0,74.0,6.0,80.0,7.0
+2010,MA-505,New Bedford CoC,Sheltered and Unsheltered Count,374.0,122.0,215.0,0.0,337.0,37.0,276.0,39.0,200.0,0.0,239.0,37.0,98.0,83.0,15.0,98.0,0.0,35.0,28.0,7.0,35.0,0.0,0.0,31.0,25.0,0.0,25.0,6.0
+2010,MA-506,Worcester City & County CoC,Sheltered and Unsheltered Count,1409.0,892.0,449.0,13.0,1354.0,55.0,482.0,303.0,117.0,13.0,433.0,49.0,927.0,589.0,332.0,921.0,6.0,319.0,199.0,118.0,317.0,2.0,0.0,86.0,60.0,0.0,60.0,26.0
+2010,MA-507,"Pittsfield/Berkshire, Franklin, Hampshire Counties CoC",Sheltered and Unsheltered Count,280.0,50.0,143.0,0.0,193.0,87.0,164.0,13.0,129.0,0.0,142.0,22.0,116.0,37.0,14.0,51.0,65.0,46.0,16.0,6.0,22.0,24.0,0.0,66.0,56.0,0.0,56.0,10.0
+2010,MA-509,Cambridge CoC,Sheltered and Unsheltered Count,559.0,360.0,129.0,0.0,489.0,70.0,340.0,193.0,77.0,0.0,270.0,70.0,219.0,167.0,52.0,219.0,0.0,83.0,65.0,18.0,83.0,0.0,0.0,194.0,124.0,0.0,124.0,70.0
+2010,MA-511,"Quincy, Brockton, Weymouth, Plymouth City and County CoC",Sheltered and Unsheltered Count,1186.0,1020.0,135.0,0.0,1155.0,31.0,366.0,297.0,38.0,0.0,335.0,31.0,820.0,723.0,97.0,820.0,0.0,289.0,252.0,37.0,289.0,0.0,0.0,153.0,140.0,0.0,140.0,13.0
+2010,MA-515,Fall River CoC,Sheltered and Unsheltered Count,253.0,144.0,94.0,0.0,238.0,15.0,116.0,49.0,52.0,0.0,101.0,15.0,137.0,95.0,42.0,137.0,0.0,46.0,29.0,17.0,46.0,0.0,0.0,28.0,26.0,0.0,26.0,2.0
+2010,MA-516,Massachusetts Balance of State CoC,Sheltered and Unsheltered Count,3537.0,2501.0,858.0,6.0,3365.0,172.0,938.0,455.0,305.0,6.0,766.0,172.0,2599.0,2046.0,553.0,2599.0,0.0,920.0,694.0,226.0,920.0,0.0,6.0,278.0,188.0,6.0,194.0,84.0
+2010,MA-519,"Attleboro, Taunton/Bristol County CoC",Sheltered and Unsheltered Count,174.0,82.0,57.0,0.0,139.0,35.0,70.0,21.0,14.0,0.0,35.0,35.0,104.0,61.0,43.0,104.0,0.0,43.0,26.0,17.0,43.0,0.0,0.0,7.0,7.0,0.0,7.0,0.0
+2010,MD-501,Baltimore CoC,No 2010 PIT Count,3419.0,896.0,1295.0,0.0,2191.0,1228.0,2484.0,664.0,1083.0,0.0,1747.0,737.0,935.0,232.0,212.0,444.0,491.0,359.0,93.0,70.0,163.0,196.0,0.0,853.0,625.0,0.0,625.0,228.0
+2010,MD-503,Annapolis/Anne Arundel County CoC,Sheltered and Unsheltered Count,395.0,188.0,78.0,0.0,266.0,129.0,262.0,120.0,13.0,0.0,133.0,129.0,133.0,68.0,65.0,133.0,0.0,39.0,19.0,20.0,39.0,0.0,0.0,67.0,50.0,0.0,50.0,17.0
+2010,MD-504,Howard County CoC,Sheltered and Unsheltered Count,221.0,108.0,49.0,0.0,157.0,64.0,92.0,38.0,0.0,0.0,38.0,54.0,129.0,70.0,49.0,119.0,10.0,43.0,24.0,16.0,40.0,3.0,0.0,64.0,13.0,0.0,13.0,51.0
+2010,MD-505,Baltimore County CoC,Sheltered and Unsheltered Count,891.0,452.0,137.0,0.0,589.0,302.0,449.0,181.0,45.0,0.0,226.0,223.0,442.0,271.0,92.0,363.0,79.0,142.0,86.0,32.0,118.0,24.0,0.0,139.0,83.0,0.0,83.0,56.0
+2010,MD-506,Carroll County CoC,Sheltered and Unsheltered Count,211.0,53.0,105.0,25.0,183.0,28.0,132.0,38.0,51.0,25.0,114.0,18.0,79.0,15.0,54.0,69.0,10.0,27.0,5.0,18.0,23.0,4.0,11.0,27.0,11.0,11.0,22.0,5.0
+2010,MD-511,Mid-Shore Regional CoC,Sheltered and Unsheltered Count,96.0,44.0,24.0,0.0,68.0,28.0,70.0,37.0,11.0,0.0,48.0,22.0,26.0,7.0,13.0,20.0,6.0,9.0,2.0,5.0,7.0,2.0,0.0,5.0,4.0,0.0,4.0,1.0
+2010,MD-513,"Wicomico, Somerset, Worcester Counties CoC",Sheltered-Only Count,240.0,162.0,35.0,0.0,197.0,43.0,175.0,125.0,7.0,0.0,132.0,43.0,65.0,37.0,28.0,65.0,0.0,24.0,13.0,11.0,24.0,0.0,0.0,50.0,32.0,0.0,32.0,18.0
+2010,MD-514,Maryland Balance of State CoC,,3519.0,684.0,634.0,0.0,1318.0,2201.0,1212.0,361.0,287.0,0.0,648.0,564.0,2307.0,323.0,347.0,670.0,1637.0,735.0,110.0,115.0,225.0,510.0,0.0,666.0,266.0,0.0,266.0,400.0
+2010,MD-600,Prince George's County CoC,Sheltered and Unsheltered Count,789.0,420.0,243.0,0.0,663.0,126.0,431.0,284.0,21.0,0.0,305.0,126.0,358.0,136.0,222.0,358.0,0.0,101.0,34.0,67.0,101.0,0.0,0.0,124.0,35.0,0.0,35.0,89.0
+2010,MD-601,Montgomery County CoC,Sheltered and Unsheltered Count,1064.0,504.0,347.0,32.0,883.0,181.0,692.0,323.0,156.0,32.0,511.0,181.0,372.0,181.0,191.0,372.0,0.0,124.0,59.0,65.0,124.0,0.0,4.0,184.0,97.0,4.0,101.0,83.0
+2010,ME-500,Maine Statewide CoC,Sheltered and Unsheltered Count,2379.0,854.0,1497.0,0.0,2351.0,28.0,1061.0,548.0,485.0,0.0,1033.0,28.0,1318.0,306.0,1012.0,1318.0,0.0,447.0,105.0,342.0,447.0,0.0,0.0,226.0,221.0,0.0,221.0,5.0
+2010,MI-500,Michigan Balance of State CoC,No 2010 PIT Count,3021.0,939.0,1155.0,0.0,2094.0,927.0,1179.0,374.0,265.0,0.0,639.0,540.0,1842.0,565.0,890.0,1455.0,387.0,633.0,211.0,295.0,506.0,127.0,0.0,214.0,133.0,0.0,133.0,81.0
+2010,MI-501,Detroit CoC,Sheltered-Only Count,2812.0,1640.0,893.0,17.0,2550.0,262.0,2434.0,1401.0,754.0,17.0,2172.0,262.0,378.0,239.0,139.0,378.0,0.0,141.0,87.0,54.0,141.0,0.0,17.0,819.0,725.0,17.0,742.0,77.0
+2010,MI-502,"Dearborn, Dearborn Heights, Westland/Wayne County CoC",Sheltered-Only Count,458.0,147.0,290.0,15.0,452.0,6.0,153.0,70.0,62.0,15.0,147.0,6.0,305.0,77.0,228.0,305.0,0.0,82.0,22.0,60.0,82.0,0.0,9.0,39.0,28.0,9.0,37.0,2.0
+2010,MI-503,"St. Clair Shores, Warren/Macomb County CoC",Sheltered-Only Count,896.0,210.0,101.0,0.0,311.0,585.0,545.0,179.0,27.0,0.0,206.0,339.0,351.0,31.0,74.0,105.0,246.0,105.0,12.0,22.0,34.0,71.0,0.0,222.0,48.0,0.0,48.0,174.0
+2010,MI-504,"Pontiac, Royal Oak/Oakland County CoC",Sheltered-Only Count,731.0,129.0,322.0,0.0,451.0,280.0,492.0,66.0,184.0,0.0,250.0,242.0,239.0,63.0,138.0,201.0,38.0,78.0,16.0,50.0,66.0,12.0,0.0,38.0,24.0,0.0,24.0,14.0
+2010,MI-505,Flint/Genesee County CoC,Sheltered and Unsheltered Count,277.0,150.0,49.0,0.0,199.0,78.0,183.0,75.0,32.0,0.0,107.0,76.0,94.0,75.0,17.0,92.0,2.0,29.0,22.0,6.0,28.0,1.0,0.0,46.0,23.0,0.0,23.0,23.0
+2010,MI-506,"Grand Rapids, Wyoming/Kent County CoC",Sheltered and Unsheltered Count,585.0,296.0,279.0,0.0,575.0,10.0,228.0,205.0,13.0,0.0,218.0,10.0,357.0,91.0,266.0,357.0,0.0,118.0,27.0,91.0,118.0,0.0,0.0,32.0,22.0,0.0,22.0,10.0
+2010,MI-507,"Portage, Kalamazoo City & County CoC",Sheltered and Unsheltered Count,679.0,314.0,323.0,0.0,637.0,42.0,295.0,180.0,73.0,0.0,253.0,42.0,384.0,134.0,250.0,384.0,0.0,117.0,42.0,75.0,117.0,0.0,0.0,34.0,26.0,0.0,26.0,8.0
+2010,MI-508,"Lansing, East Lansing/Ingham County CoC",Sheltered and Unsheltered Count,535.0,221.0,171.0,0.0,392.0,143.0,389.0,176.0,76.0,0.0,252.0,137.0,146.0,45.0,95.0,140.0,6.0,45.0,14.0,30.0,44.0,1.0,0.0,129.0,64.0,0.0,64.0,65.0
+2010,MI-509,Washtenaw County CoC,Sheltered-Only Count,474.0,214.0,225.0,0.0,439.0,35.0,306.0,157.0,116.0,0.0,273.0,33.0,168.0,57.0,109.0,166.0,2.0,50.0,19.0,30.0,49.0,1.0,0.0,66.0,44.0,0.0,44.0,22.0
+2010,MI-510,Saginaw City & County CoC,No 2010 PIT Count,305.0,111.0,167.0,0.0,278.0,27.0,176.0,61.0,88.0,0.0,149.0,27.0,129.0,50.0,79.0,129.0,0.0,43.0,22.0,21.0,43.0,0.0,0.0,71.0,57.0,0.0,57.0,14.0
+2010,MI-511,Lenawee County CoC,Sheltered-Only Count,120.0,66.0,49.0,0.0,115.0,5.0,40.0,37.0,1.0,0.0,38.0,2.0,80.0,29.0,48.0,77.0,3.0,22.0,7.0,14.0,21.0,1.0,0.0,11.0,11.0,0.0,11.0,0.0
+2010,MI-512,"Grand Traverse, Antrim, Leelanau Counties CoC",Sheltered and Unsheltered Count,296.0,108.0,177.0,0.0,285.0,11.0,127.0,79.0,37.0,0.0,116.0,11.0,169.0,29.0,140.0,169.0,0.0,60.0,7.0,53.0,60.0,0.0,0.0,29.0,24.0,0.0,24.0,5.0
+2010,MI-514,Battle Creek/Calhoun County CoC,Sheltered-Only Count,186.0,73.0,60.0,0.0,133.0,53.0,136.0,38.0,50.0,0.0,88.0,48.0,50.0,35.0,10.0,45.0,5.0,13.0,9.0,3.0,12.0,1.0,0.0,12.0,12.0,0.0,12.0,0.0
+2010,MI-515,Monroe City & County CoC,No 2010 PIT Count,140.0,50.0,86.0,0.0,136.0,4.0,75.0,29.0,45.0,0.0,74.0,1.0,65.0,21.0,41.0,62.0,3.0,30.0,9.0,20.0,29.0,1.0,0.0,17.0,16.0,0.0,16.0,1.0
+2010,MI-516,"Norton Shores, Muskegon City & County CoC",Sheltered-Only Count,646.0,187.0,138.0,0.0,325.0,321.0,308.0,44.0,88.0,0.0,132.0,176.0,338.0,143.0,50.0,193.0,145.0,135.0,56.0,20.0,76.0,59.0,0.0,21.0,15.0,0.0,15.0,6.0
+2010,MI-517,Jackson City & County CoC,No 2010 PIT Count,323.0,107.0,197.0,0.0,304.0,19.0,121.0,59.0,43.0,0.0,102.0,19.0,202.0,48.0,154.0,202.0,0.0,64.0,14.0,50.0,64.0,0.0,0.0,13.0,1.0,0.0,1.0,12.0
+2010,MI-518,Livingston County CoC,No 2010 PIT Count,121.0,85.0,23.0,0.0,108.0,13.0,46.0,32.0,1.0,0.0,33.0,13.0,75.0,53.0,22.0,75.0,0.0,23.0,17.0,6.0,23.0,0.0,0.0,4.0,3.0,0.0,3.0,1.0
+2010,MI-519,Holland/Ottawa County CoC,Sheltered-Only Count,306.0,72.0,232.0,0.0,304.0,2.0,104.0,56.0,46.0,0.0,102.0,2.0,202.0,16.0,186.0,202.0,0.0,59.0,5.0,54.0,59.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010,MI-523,Eaton County CoC,Sheltered-Only Count,147.0,67.0,64.0,0.0,131.0,16.0,28.0,16.0,4.0,0.0,20.0,8.0,119.0,51.0,60.0,111.0,8.0,33.0,14.0,16.0,30.0,3.0,0.0,7.0,7.0,0.0,7.0,0.0
+2010,MN-500,Minneapolis/Hennepin County CoC,Sheltered and Unsheltered Count,3056.0,1755.0,1053.0,0.0,2808.0,248.0,1830.0,1236.0,396.0,0.0,1632.0,198.0,1226.0,519.0,657.0,1176.0,50.0,411.0,162.0,227.0,389.0,22.0,0.0,779.0,699.0,0.0,699.0,80.0
+2010,MN-501,Saint Paul/Ramsey County CoC,Sheltered and Unsheltered Count,1424.0,496.0,822.0,10.0,1328.0,96.0,646.0,313.0,227.0,10.0,550.0,96.0,778.0,183.0,595.0,778.0,0.0,248.0,58.0,190.0,248.0,0.0,10.0,246.0,169.0,10.0,179.0,67.0
+2010,MN-502,Rochester/Southeast Minnesota CoC,Sheltered and Unsheltered Count,419.0,208.0,198.0,0.0,406.0,13.0,103.0,73.0,17.0,0.0,90.0,13.0,316.0,135.0,181.0,316.0,0.0,98.0,45.0,53.0,98.0,0.0,0.0,70.0,61.0,0.0,61.0,9.0
+2010,MN-503,"Dakota, Anoka, Washington, Scott, Carver Counties",Sheltered and Unsheltered Count,924.0,346.0,403.0,0.0,749.0,175.0,196.0,81.0,55.0,0.0,136.0,60.0,728.0,265.0,348.0,613.0,115.0,250.0,92.0,115.0,207.0,43.0,0.0,65.0,30.0,0.0,30.0,35.0
+2010,MN-504,Northeast Minnesota CoC,Sheltered and Unsheltered Count,208.0,25.0,64.0,0.0,89.0,119.0,87.0,17.0,6.0,0.0,23.0,64.0,121.0,8.0,58.0,66.0,55.0,46.0,3.0,17.0,20.0,26.0,0.0,34.0,4.0,0.0,4.0,30.0
+2010,MN-505,St. Cloud/Central Minnesota CoC,Sheltered-Only Count,541.0,166.0,267.0,0.0,433.0,108.0,245.0,64.0,106.0,0.0,170.0,75.0,296.0,102.0,161.0,263.0,33.0,93.0,32.0,55.0,87.0,6.0,0.0,120.0,91.0,0.0,91.0,29.0
+2010,MN-506,Northwest Minnesota CoC,Sheltered and Unsheltered Count,422.0,76.0,178.0,0.0,254.0,168.0,119.0,41.0,38.0,0.0,79.0,40.0,303.0,35.0,140.0,175.0,128.0,101.0,11.0,49.0,60.0,41.0,0.0,33.0,14.0,0.0,14.0,19.0
+2010,MN-508,Moorhead/West Central Minnesota CoC,Sheltered and Unsheltered Count,278.0,115.0,81.0,0.0,196.0,82.0,116.0,80.0,7.0,0.0,87.0,29.0,162.0,35.0,74.0,109.0,53.0,55.0,12.0,26.0,38.0,17.0,0.0,59.0,36.0,0.0,36.0,23.0
+2010,MN-509,Duluth/St.Louis County CoC,Sheltered and Unsheltered Count,524.0,150.0,256.0,0.0,406.0,118.0,240.0,86.0,64.0,0.0,150.0,90.0,284.0,64.0,192.0,256.0,28.0,92.0,21.0,62.0,83.0,9.0,0.0,79.0,32.0,0.0,32.0,47.0
+2010,MN-511,Southwest Minnesota CoC,Sheltered and Unsheltered Count,73.0,23.0,38.0,0.0,61.0,12.0,23.0,9.0,8.0,0.0,17.0,6.0,50.0,14.0,30.0,44.0,6.0,15.0,5.0,9.0,14.0,1.0,0.0,5.0,3.0,0.0,3.0,2.0
+2010,MO-500,St. Louis County CoC,Sheltered and Unsheltered Count,659.0,284.0,124.0,0.0,408.0,251.0,208.0,78.0,14.0,0.0,92.0,116.0,451.0,206.0,110.0,316.0,135.0,137.0,63.0,33.0,96.0,41.0,0.0,39.0,23.0,0.0,23.0,16.0
+2010,MO-501,St.Louis City CoC,Sheltered and Unsheltered Count,1305.0,575.0,577.0,16.0,1168.0,137.0,734.0,403.0,214.0,16.0,633.0,101.0,571.0,172.0,363.0,535.0,36.0,179.0,56.0,111.0,167.0,12.0,6.0,169.0,107.0,6.0,113.0,56.0
+2010,MO-503,"St. Charles City & County, Lincoln, Warren Counties CoC",Sheltered and Unsheltered Count,1089.0,356.0,332.0,0.0,688.0,401.0,387.0,78.0,156.0,0.0,234.0,153.0,702.0,278.0,176.0,454.0,248.0,233.0,92.0,60.0,152.0,81.0,0.0,30.0,19.0,0.0,19.0,11.0
+2010,MO-600,"Springfield/Greene, Christian, Webster Counties CoC",Sheltered and Unsheltered Count,662.0,161.0,342.0,0.0,503.0,159.0,428.0,79.0,190.0,0.0,269.0,159.0,234.0,82.0,152.0,234.0,0.0,92.0,34.0,58.0,92.0,0.0,0.0,144.0,81.0,0.0,81.0,63.0
+2010,MO-602,"Joplin/Jasper, Newton Counties CoC",Sheltered and Unsheltered Count,393.0,112.0,207.0,0.0,319.0,74.0,277.0,71.0,132.0,0.0,203.0,74.0,116.0,41.0,75.0,116.0,0.0,36.0,12.0,24.0,36.0,0.0,0.0,26.0,19.0,0.0,19.0,7.0
+2010,MO-603,"St. Joseph/Andrew, Buchanan, DeKalb Counties CoC",Sheltered and Unsheltered Count,164.0,106.0,16.0,16.0,138.0,26.0,140.0,84.0,14.0,16.0,114.0,26.0,24.0,22.0,2.0,24.0,0.0,9.0,8.0,1.0,9.0,0.0,16.0,64.0,32.0,16.0,48.0,16.0
+2010,MO-604a,"Kansas City, Independence, Lee’s Summit/Jackson, Wyandotte Counties, MO & KS",Sheltered-Only Count,2153.0,913.0,1033.0,0.0,1946.0,207.0,1290.0,665.0,418.0,0.0,1083.0,207.0,863.0,248.0,615.0,863.0,0.0,275.0,78.0,197.0,275.0,0.0,0.0,556.0,431.0,0.0,431.0,125.0
+2010,MO-606,Missouri Balance of State CoC,Sheltered and Unsheltered Count,1912.0,895.0,433.0,11.0,1339.0,573.0,1092.0,478.0,260.0,11.0,749.0,343.0,820.0,417.0,173.0,590.0,230.0,257.0,132.0,57.0,189.0,68.0,11.0,287.0,246.0,11.0,257.0,30.0
+2010,MS-500,"Jackson/Rankin, Madison Counties CoC",Sheltered and Unsheltered Count,914.0,180.0,252.0,0.0,432.0,482.0,801.0,131.0,198.0,0.0,329.0,472.0,113.0,49.0,54.0,103.0,10.0,46.0,16.0,25.0,41.0,5.0,0.0,147.0,65.0,0.0,65.0,82.0
+2010,MS-501,Mississippi Balance of State CoC,No 2010 PIT Count,1242.0,346.0,314.0,0.0,660.0,582.0,581.0,132.0,145.0,0.0,277.0,304.0,661.0,214.0,169.0,383.0,278.0,199.0,61.0,45.0,106.0,93.0,0.0,125.0,59.0,0.0,59.0,66.0
+2010,MS-503,Gulf Port/Gulf Coast Regional CoC,Sheltered-Only Count,587.0,52.0,37.0,0.0,89.0,498.0,542.0,39.0,16.0,0.0,55.0,487.0,45.0,13.0,21.0,34.0,11.0,19.0,6.0,8.0,14.0,5.0,0.0,85.0,6.0,0.0,6.0,79.0
+2010,MT-500,Montana Statewide CoC,Sheltered and Unsheltered Count,1615.0,674.0,494.0,0.0,1168.0,447.0,890.0,370.0,192.0,0.0,562.0,328.0,725.0,304.0,302.0,606.0,119.0,238.0,98.0,103.0,201.0,37.0,0.0,145.0,96.0,0.0,96.0,49.0
+2010,NC-500,Winston-Salem/Forsyth County CoC,Sheltered and Unsheltered Count,543.0,310.0,192.0,0.0,502.0,41.0,389.0,262.0,86.0,0.0,348.0,41.0,154.0,48.0,106.0,154.0,0.0,51.0,15.0,36.0,51.0,0.0,0.0,142.0,120.0,0.0,120.0,22.0
+2010,NC-501,Asheville/Buncombe County CoC,Sheltered and Unsheltered Count,516.0,197.0,265.0,0.0,462.0,54.0,415.0,168.0,193.0,0.0,361.0,54.0,101.0,29.0,72.0,101.0,0.0,40.0,10.0,30.0,40.0,0.0,0.0,111.0,68.0,0.0,68.0,43.0
+2010,NC-502,Durham City & County CoC,Sheltered and Unsheltered Count,675.0,311.0,296.0,0.0,607.0,68.0,534.0,242.0,226.0,0.0,468.0,66.0,141.0,69.0,70.0,139.0,2.0,51.0,27.0,23.0,50.0,1.0,0.0,141.0,89.0,0.0,89.0,52.0
+2010,NC-503,North Carolina Balance of State CoC,Sheltered and Unsheltered Count,2851.0,1320.0,886.0,0.0,2206.0,645.0,1824.0,812.0,455.0,0.0,1267.0,557.0,1027.0,508.0,431.0,939.0,88.0,353.0,173.0,139.0,312.0,41.0,0.0,262.0,193.0,0.0,193.0,69.0
+2010,NC-504,"Greensboro, High Point CoC",Sheltered and Unsheltered Count,1070.0,508.0,426.0,0.0,934.0,136.0,738.0,391.0,216.0,0.0,607.0,131.0,332.0,117.0,210.0,327.0,5.0,112.0,39.0,71.0,110.0,2.0,0.0,131.0,95.0,0.0,95.0,36.0
+2010,NC-505,Charlotte/Mecklenberg CoC,Sheltered and Unsheltered Count,2841.0,970.0,1120.0,0.0,2090.0,751.0,2168.0,722.0,695.0,0.0,1417.0,751.0,673.0,248.0,425.0,673.0,0.0,243.0,87.0,156.0,243.0,0.0,0.0,307.0,250.0,0.0,250.0,57.0
+2010,NC-506,"Wilmington/Brunswick, New Hanover, Pender Counties CoC",Sheltered and Unsheltered Count,678.0,274.0,297.0,0.0,571.0,107.0,381.0,181.0,97.0,0.0,278.0,103.0,297.0,93.0,200.0,293.0,4.0,76.0,19.0,55.0,74.0,2.0,0.0,65.0,49.0,0.0,49.0,16.0
+2010,NC-507,Raleigh/Wake County CoC,Sheltered and Unsheltered Count,1180.0,631.0,428.0,0.0,1059.0,121.0,892.0,431.0,340.0,0.0,771.0,121.0,288.0,200.0,88.0,288.0,0.0,113.0,77.0,36.0,113.0,0.0,0.0,183.0,145.0,0.0,145.0,38.0
+2010,NC-509,"Gastonia/Cleveland, Gaston, Lincoln Counties CoC",Sheltered and Unsheltered Count,324.0,165.0,41.0,0.0,206.0,118.0,264.0,127.0,19.0,0.0,146.0,118.0,60.0,38.0,22.0,60.0,0.0,24.0,15.0,9.0,24.0,0.0,0.0,40.0,18.0,0.0,18.0,22.0
+2010,NC-511,Fayetteville/Cumberland County CoC,Sheltered and Unsheltered Count,1033.0,112.0,182.0,0.0,294.0,739.0,538.0,72.0,6.0,0.0,78.0,460.0,495.0,40.0,176.0,216.0,279.0,145.0,13.0,44.0,57.0,88.0,0.0,32.0,4.0,0.0,4.0,28.0
+2010,NC-513,Chapel Hill/Orange County CoC,Sheltered and Unsheltered Count,135.0,88.0,30.0,0.0,118.0,17.0,111.0,84.0,10.0,0.0,94.0,17.0,24.0,4.0,20.0,24.0,0.0,9.0,2.0,7.0,9.0,0.0,0.0,38.0,31.0,0.0,31.0,7.0
+2010,NC-516,Northwest North Carolina CoC,Sheltered and Unsheltered Count,345.0,93.0,31.0,0.0,124.0,221.0,107.0,38.0,19.0,0.0,57.0,50.0,238.0,55.0,12.0,67.0,171.0,76.0,20.0,5.0,25.0,51.0,0.0,27.0,15.0,0.0,15.0,12.0
+2010,ND-500,North Dakota Statewide CoC,Sheltered and Unsheltered Count,799.0,461.0,307.0,0.0,768.0,31.0,539.0,306.0,207.0,0.0,513.0,26.0,260.0,155.0,100.0,255.0,5.0,82.0,47.0,33.0,80.0,2.0,0.0,64.0,61.0,0.0,61.0,3.0
+2010,NE-500,Nebraska Balance of State CoC,Sheltered and Unsheltered Count,1540.0,505.0,691.0,0.0,1196.0,344.0,799.0,268.0,302.0,0.0,570.0,229.0,741.0,237.0,389.0,626.0,115.0,250.0,83.0,131.0,214.0,36.0,0.0,125.0,76.0,0.0,76.0,49.0
+2010,NE-501,"Omaha, Council Bluffs CoC",Sheltered and Unsheltered Count,1429.0,906.0,429.0,0.0,1335.0,94.0,1083.0,761.0,228.0,0.0,989.0,94.0,346.0,145.0,201.0,346.0,0.0,109.0,46.0,63.0,109.0,0.0,0.0,293.0,261.0,0.0,261.0,32.0
+2010,NE-502,Lincoln CoC,Sheltered and Unsheltered Count,908.0,354.0,470.0,0.0,824.0,84.0,541.0,229.0,230.0,0.0,459.0,82.0,367.0,125.0,240.0,365.0,2.0,123.0,45.0,77.0,122.0,1.0,0.0,117.0,79.0,0.0,79.0,38.0
+2010,NH-500,New Hampshire Balance of State CoC,Sheltered and Unsheltered Count,813.0,502.0,208.0,0.0,710.0,103.0,477.0,289.0,98.0,0.0,387.0,90.0,336.0,213.0,110.0,323.0,13.0,111.0,66.0,40.0,106.0,5.0,0.0,158.0,125.0,0.0,125.0,33.0
+2010,NH-501,Manchester CoC,Sheltered and Unsheltered Count,415.0,129.0,188.0,3.0,320.0,95.0,278.0,112.0,72.0,3.0,187.0,91.0,137.0,17.0,116.0,133.0,4.0,56.0,6.0,48.0,54.0,2.0,3.0,64.0,61.0,3.0,64.0,0.0
+2010,NH-502,Nashua/Hillsborough County CoC,Sheltered and Unsheltered Count,346.0,98.0,204.0,5.0,307.0,39.0,188.0,78.0,83.0,5.0,166.0,22.0,158.0,20.0,121.0,141.0,17.0,69.0,10.0,53.0,63.0,6.0,0.0,104.0,91.0,0.0,91.0,13.0
+2010,NJ-500,Atlantic City & County CoC,Sheltered and Unsheltered Count,588.0,406.0,50.0,0.0,456.0,132.0,511.0,354.0,40.0,0.0,394.0,117.0,77.0,52.0,10.0,62.0,15.0,28.0,20.0,3.0,23.0,5.0,0.0,74.0,42.0,0.0,42.0,32.0
+2010,NJ-501,Bergen County CoC,Sheltered and Unsheltered Count,522.0,256.0,194.0,0.0,450.0,72.0,338.0,212.0,69.0,0.0,281.0,57.0,184.0,44.0,125.0,169.0,15.0,63.0,19.0,39.0,58.0,5.0,0.0,76.0,53.0,0.0,53.0,23.0
+2010,NJ-502,Burlington County CoC,Sheltered and Unsheltered Count,716.0,655.0,33.0,0.0,688.0,28.0,338.0,295.0,25.0,0.0,320.0,18.0,378.0,360.0,8.0,368.0,10.0,127.0,120.0,4.0,124.0,3.0,0.0,71.0,68.0,0.0,68.0,3.0
+2010,NJ-503,"Camden City & County/Gloucester, Cape May, Cumberland Counties CoC",Sheltered and Unsheltered Count,1572.0,944.0,277.0,0.0,1221.0,351.0,804.0,452.0,87.0,0.0,539.0,265.0,768.0,492.0,190.0,682.0,86.0,272.0,177.0,62.0,239.0,33.0,0.0,51.0,30.0,0.0,30.0,21.0
+2010,NJ-504,Newark/Essex County CoC,Sheltered and Unsheltered Count,1716.0,982.0,515.0,0.0,1497.0,219.0,842.0,556.0,121.0,0.0,677.0,165.0,874.0,426.0,394.0,820.0,54.0,324.0,154.0,145.0,299.0,25.0,0.0,122.0,81.0,0.0,81.0,41.0
+2010,NJ-506,"Jersey City, Bayonne/Hudson County CoC",Sheltered and Unsheltered Count,1779.0,1372.0,225.0,0.0,1597.0,182.0,637.0,405.0,83.0,0.0,488.0,149.0,1142.0,967.0,142.0,1109.0,33.0,436.0,369.0,53.0,422.0,14.0,0.0,74.0,40.0,0.0,40.0,34.0
+2010,NJ-507,New Brunswick/Middlesex County CoC,Sheltered and Unsheltered Count,1535.0,415.0,938.0,0.0,1353.0,182.0,591.0,182.0,283.0,0.0,465.0,126.0,944.0,233.0,655.0,888.0,56.0,325.0,88.0,214.0,302.0,23.0,0.0,52.0,34.0,0.0,34.0,18.0
+2010,NJ-508,Monmouth County CoC,Sheltered and Unsheltered Count,604.0,368.0,208.0,0.0,576.0,28.0,222.0,200.0,5.0,0.0,205.0,17.0,382.0,168.0,203.0,371.0,11.0,141.0,62.0,74.0,136.0,5.0,0.0,72.0,72.0,0.0,72.0,0.0
+2010,NJ-509,Morris County CoC,Sheltered and Unsheltered Count,297.0,155.0,85.0,0.0,240.0,57.0,167.0,91.0,27.0,0.0,118.0,49.0,130.0,64.0,58.0,122.0,8.0,49.0,24.0,21.0,45.0,4.0,0.0,51.0,20.0,0.0,20.0,31.0
+2010,NJ-510,Lakewood Township/Ocean County CoC,Sheltered and Unsheltered Count,590.0,489.0,53.0,0.0,542.0,48.0,310.0,267.0,9.0,0.0,276.0,34.0,280.0,222.0,44.0,266.0,14.0,96.0,75.0,16.0,91.0,5.0,0.0,52.0,48.0,0.0,48.0,4.0
+2010,NJ-511,Paterson/Passaic County CoC,Sheltered and Unsheltered Count,698.0,472.0,61.0,0.0,533.0,165.0,348.0,182.0,46.0,0.0,228.0,120.0,350.0,290.0,15.0,305.0,45.0,125.0,101.0,5.0,106.0,19.0,0.0,31.0,14.0,0.0,14.0,17.0
+2010,NJ-512,Salem County CoC,Sheltered and Unsheltered Count,146.0,121.0,25.0,0.0,146.0,0.0,83.0,77.0,6.0,0.0,83.0,0.0,63.0,44.0,19.0,63.0,0.0,22.0,15.0,7.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010,NJ-513,Somerset County CoC,Sheltered and Unsheltered Count,310.0,146.0,150.0,0.0,296.0,14.0,162.0,64.0,87.0,0.0,151.0,11.0,148.0,82.0,63.0,145.0,3.0,47.0,25.0,21.0,46.0,1.0,0.0,8.0,6.0,0.0,6.0,2.0
+2010,NJ-514,Trenton/Mercer County CoC,Sheltered and Unsheltered Count,901.0,527.0,247.0,0.0,774.0,127.0,477.0,319.0,65.0,0.0,384.0,93.0,424.0,208.0,182.0,390.0,34.0,150.0,74.0,66.0,140.0,10.0,0.0,101.0,73.0,0.0,73.0,28.0
+2010,NJ-515,Elizabeth/Union County CoC,Sheltered and Unsheltered Count,1212.0,319.0,875.0,0.0,1194.0,18.0,465.0,190.0,263.0,0.0,453.0,12.0,747.0,129.0,612.0,741.0,6.0,252.0,45.0,204.0,249.0,3.0,0.0,20.0,15.0,0.0,15.0,5.0
+2010,NJ-516,"Warren, Sussex, Hunterdon Counties CoC",Sheltered and Unsheltered Count,551.0,251.0,269.0,0.0,520.0,31.0,225.0,143.0,66.0,0.0,209.0,16.0,326.0,108.0,203.0,311.0,15.0,115.0,39.0,70.0,109.0,6.0,0.0,22.0,21.0,0.0,21.0,1.0
+2010,NM-500,Albuquerque CoC,No 2010 PIT Count,2002.0,481.0,590.0,0.0,1071.0,931.0,1454.0,379.0,238.0,0.0,617.0,837.0,548.0,102.0,352.0,454.0,94.0,180.0,33.0,108.0,141.0,39.0,0.0,403.0,152.0,0.0,152.0,251.0
+2010,NM-501,New Mexico Balance of State CoC,No 2010 PIT Count,1473.0,504.0,533.0,0.0,1037.0,436.0,889.0,258.0,227.0,0.0,485.0,404.0,584.0,246.0,306.0,552.0,32.0,124.0,35.0,76.0,111.0,13.0,0.0,376.0,189.0,0.0,189.0,187.0
+2010,NV-500,Las Vegas/Clark County CoC,No 2010 PIT Count,9949.0,825.0,6179.0,0.0,7004.0,2945.0,8566.0,730.0,4904.0,0.0,5634.0,2932.0,1383.0,95.0,1275.0,1370.0,13.0,342.0,31.0,307.0,338.0,4.0,0.0,1090.0,117.0,0.0,117.0,973.0
+2010,NV-501,"Reno, Sparks/Washoe County CoC",Sheltered and Unsheltered Count,934.0,464.0,231.0,0.0,695.0,239.0,790.0,363.0,188.0,0.0,551.0,239.0,144.0,101.0,43.0,144.0,0.0,47.0,32.0,15.0,47.0,0.0,0.0,264.0,131.0,0.0,131.0,133.0
+2010,NV-502,Nevada Balance of State CoC,Sheltered and Unsheltered Count,322.0,92.0,57.0,0.0,149.0,173.0,209.0,36.0,12.0,0.0,48.0,161.0,113.0,56.0,45.0,101.0,12.0,46.0,23.0,17.0,40.0,6.0,0.0,61.0,5.0,0.0,5.0,56.0
+2010,NY-500,"Rochester, Irondequoit, Greece/Monroe County CoC",Sheltered and Unsheltered Count,709.0,472.0,221.0,12.0,705.0,4.0,375.0,269.0,90.0,12.0,371.0,4.0,334.0,203.0,131.0,334.0,0.0,103.0,61.0,42.0,103.0,0.0,12.0,85.0,69.0,12.0,81.0,4.0
+2010,NY-501,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties CoC",Sheltered and Unsheltered Count,256.0,53.0,192.0,0.0,245.0,11.0,202.0,34.0,161.0,0.0,195.0,7.0,54.0,19.0,31.0,50.0,4.0,18.0,6.0,11.0,17.0,1.0,0.0,5.0,5.0,0.0,5.0,0.0
+2010,NY-503,Albany City & County CoC,Sheltered and Unsheltered Count,650.0,478.0,134.0,0.0,612.0,38.0,442.0,289.0,115.0,0.0,404.0,38.0,208.0,189.0,19.0,208.0,0.0,71.0,63.0,8.0,71.0,0.0,0.0,72.0,37.0,0.0,37.0,35.0
+2010,NY-504,Cattaragus County CoC,Sheltered and Unsheltered Count,118.0,19.0,45.0,0.0,64.0,54.0,35.0,10.0,22.0,0.0,32.0,3.0,83.0,9.0,23.0,32.0,51.0,30.0,4.0,8.0,12.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010,NY-505,"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties CoC",Sheltered and Unsheltered Count,840.0,403.0,406.0,0.0,809.0,31.0,677.0,317.0,341.0,0.0,658.0,19.0,163.0,86.0,65.0,151.0,12.0,61.0,35.0,20.0,55.0,6.0,0.0,116.0,105.0,0.0,105.0,11.0
+2010,NY-506,"Fulton, Montgomery, Schoharie Counties CoC",Sheltered and Unsheltered Count,19.0,12.0,0.0,0.0,12.0,7.0,13.0,9.0,0.0,0.0,9.0,4.0,6.0,3.0,0.0,3.0,3.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010,NY-507,Schenectady City & County CoC,Sheltered and Unsheltered Count,389.0,336.0,27.0,0.0,363.0,26.0,224.0,190.0,8.0,0.0,198.0,26.0,165.0,146.0,19.0,165.0,0.0,54.0,46.0,8.0,54.0,0.0,0.0,34.0,25.0,0.0,25.0,9.0
+2010,NY-508,"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties CoC",Sheltered and Unsheltered Count,1137.0,393.0,528.0,3.0,924.0,213.0,805.0,302.0,307.0,3.0,612.0,193.0,332.0,91.0,221.0,312.0,20.0,135.0,31.0,95.0,126.0,9.0,3.0,112.0,67.0,3.0,70.0,42.0
+2010,NY-510,Ithaca/Tompkins County CoC,Sheltered and Unsheltered Count,73.0,27.0,36.0,0.0,63.0,10.0,41.0,18.0,13.0,0.0,31.0,10.0,32.0,9.0,23.0,32.0,0.0,12.0,3.0,9.0,12.0,0.0,0.0,15.0,5.0,0.0,5.0,10.0
+2010,NY-511,"Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Count",Sheltered and Unsheltered Count,234.0,114.0,109.0,0.0,223.0,11.0,211.0,95.0,105.0,0.0,200.0,11.0,23.0,19.0,4.0,23.0,0.0,8.0,7.0,1.0,8.0,0.0,0.0,47.0,47.0,0.0,47.0,0.0
+2010,NY-512,Troy/Rensselaer County CoC,Sheltered and Unsheltered Count,314.0,249.0,20.0,0.0,269.0,45.0,83.0,30.0,8.0,0.0,38.0,45.0,231.0,219.0,12.0,231.0,0.0,114.0,109.0,5.0,114.0,0.0,0.0,25.0,2.0,0.0,2.0,23.0
+2010,NY-513,"Wayne, Ontario, Seneca, Yates Counties CoC",Sheltered and Unsheltered Count,75.0,63.0,12.0,0.0,75.0,0.0,42.0,30.0,12.0,0.0,42.0,0.0,33.0,33.0,0.0,33.0,0.0,13.0,13.0,0.0,13.0,0.0,0.0,4.0,4.0,0.0,4.0,0.0
+2010,NY-514,"Jamestown, Dunkirk/Chautauqua County CoC",Sheltered and Unsheltered Count,88.0,20.0,61.0,0.0,81.0,7.0,28.0,12.0,9.0,0.0,21.0,7.0,60.0,8.0,52.0,60.0,0.0,19.0,3.0,16.0,19.0,0.0,0.0,3.0,3.0,0.0,3.0,0.0
+2010,NY-516,Clinton County CoC,Sheltered and Unsheltered Count,84.0,58.0,18.0,0.0,76.0,8.0,63.0,39.0,18.0,0.0,57.0,6.0,21.0,19.0,0.0,19.0,2.0,9.0,8.0,0.0,8.0,1.0,0.0,5.0,3.0,0.0,3.0,2.0
+2010,NY-518,"Utica, Rome/Oneida, Madison Counties CoC",No 2010 PIT Count,343.0,100.0,226.0,0.0,326.0,17.0,251.0,66.0,168.0,0.0,234.0,17.0,92.0,34.0,58.0,92.0,0.0,32.0,9.0,23.0,32.0,0.0,0.0,19.0,14.0,0.0,14.0,5.0
+2010,NY-519,"Columbia, Greene Counties CoC",Sheltered and Unsheltered Count,305.0,237.0,64.0,0.0,301.0,4.0,161.0,100.0,57.0,0.0,157.0,4.0,144.0,137.0,7.0,144.0,0.0,40.0,37.0,3.0,40.0,0.0,0.0,5.0,5.0,0.0,5.0,0.0
+2010,NY-520,"Franklin, Essex Counties CoC",No 2010 PIT Count,14.0,5.0,0.0,0.0,5.0,9.0,8.0,5.0,0.0,0.0,5.0,3.0,6.0,0.0,0.0,0.0,6.0,3.0,0.0,0.0,0.0,3.0,0.0,4.0,1.0,0.0,1.0,3.0
+2010,NY-522,"Jefferson, Lewis, St. Lawrence Counties CoC",Sheltered and Unsheltered Count,121.0,44.0,76.0,0.0,120.0,1.0,103.0,28.0,74.0,0.0,102.0,1.0,18.0,16.0,2.0,18.0,0.0,9.0,8.0,1.0,9.0,0.0,0.0,4.0,4.0,0.0,4.0,0.0
+2010,NY-523,"Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties Co",Sheltered and Unsheltered Count,186.0,115.0,42.0,0.0,157.0,29.0,151.0,102.0,20.0,0.0,122.0,29.0,35.0,13.0,22.0,35.0,0.0,13.0,5.0,8.0,13.0,0.0,0.0,31.0,8.0,0.0,8.0,23.0
+2010,NY-600,New York City CoC,Sheltered and Unsheltered Count,53187.0,43096.0,6871.0,109.0,50076.0,3111.0,19992.0,11764.0,5008.0,109.0,16881.0,3111.0,33195.0,31332.0,1863.0,33195.0,0.0,10332.0,9680.0,652.0,10332.0,0.0,109.0,3128.0,1028.0,109.0,1137.0,1991.0
+2010,NY-601,Poughkeepsie/Dutchess County CoC,Sheltered and Unsheltered Count,476.0,227.0,209.0,0.0,436.0,40.0,280.0,131.0,109.0,0.0,240.0,40.0,196.0,96.0,100.0,196.0,0.0,90.0,41.0,49.0,90.0,0.0,0.0,77.0,55.0,0.0,55.0,22.0
+2010,NY-602,"Newburgh, Middletown/Orange County CoC",Sheltered and Unsheltered Count,505.0,299.0,46.0,0.0,345.0,160.0,294.0,146.0,0.0,0.0,146.0,148.0,211.0,153.0,46.0,199.0,12.0,65.0,45.0,16.0,61.0,4.0,0.0,114.0,53.0,0.0,53.0,61.0
+2010,NY-603,"Nassau, Suffolk Counties CoC",Sheltered and Unsheltered Count,3163.0,2561.0,526.0,0.0,3087.0,76.0,741.0,500.0,165.0,0.0,665.0,76.0,2422.0,2061.0,361.0,2422.0,0.0,751.0,640.0,111.0,751.0,0.0,0.0,53.0,40.0,0.0,40.0,13.0
+2010,NY-604,"Yonkers, Mount Vernon/Westchester County CoC",Sheltered and Unsheltered Count,1339.0,403.0,902.0,0.0,1305.0,34.0,460.0,347.0,79.0,0.0,426.0,34.0,879.0,56.0,823.0,879.0,0.0,237.0,28.0,209.0,237.0,0.0,0.0,187.0,176.0,0.0,176.0,11.0
+2010,NY-606,Rockland County CoC,Sheltered and Unsheltered Count,141.0,38.0,51.0,0.0,89.0,52.0,93.0,15.0,26.0,0.0,41.0,52.0,48.0,23.0,25.0,48.0,0.0,17.0,8.0,9.0,17.0,0.0,0.0,55.0,3.0,0.0,3.0,52.0
+2010,NY-607,Sullivan County CoC,Sheltered and Unsheltered Count,400.0,376.0,0.0,18.0,394.0,6.0,264.0,240.0,0.0,18.0,258.0,6.0,136.0,136.0,0.0,136.0,0.0,33.0,33.0,0.0,33.0,0.0,0.0,22.0,16.0,0.0,16.0,6.0
+2010,NY-608,Kingston/Ulster County CoC,Sheltered and Unsheltered Count,440.0,271.0,34.0,0.0,305.0,135.0,254.0,117.0,30.0,0.0,147.0,107.0,186.0,154.0,4.0,158.0,28.0,61.0,53.0,2.0,55.0,6.0,0.0,37.0,6.0,0.0,6.0,31.0
+2010,OH-500,Cincinnati/Hamilton County CoC,Sheltered and Unsheltered Count,1006.0,555.0,376.0,0.0,931.0,75.0,709.0,387.0,247.0,0.0,634.0,75.0,297.0,168.0,129.0,297.0,0.0,97.0,51.0,46.0,97.0,0.0,0.0,303.0,273.0,0.0,273.0,30.0
+2010,OH-501,Toledo/Lucas County CoC,Sheltered and Unsheltered Count,986.0,495.0,349.0,12.0,856.0,130.0,672.0,363.0,174.0,12.0,549.0,123.0,314.0,132.0,175.0,307.0,7.0,111.0,46.0,63.0,109.0,2.0,12.0,218.0,164.0,12.0,176.0,42.0
+2010,OH-502,Cleveland/Cuyahoga County CoC,Sheltered and Unsheltered Count,2278.0,1211.0,895.0,34.0,2140.0,138.0,1783.0,962.0,652.0,34.0,1648.0,135.0,495.0,249.0,243.0,492.0,3.0,171.0,85.0,85.0,170.0,1.0,22.0,664.0,569.0,22.0,591.0,73.0
+2010,OH-503,Columbus/Franklin County CoC,Sheltered and Unsheltered Count,1387.0,1104.0,149.0,0.0,1253.0,134.0,954.0,713.0,116.0,0.0,829.0,125.0,433.0,391.0,33.0,424.0,9.0,132.0,114.0,15.0,129.0,3.0,0.0,276.0,163.0,0.0,163.0,113.0
+2010,OH-504,Youngstown/Mahoning County CoC,Sheltered and Unsheltered Count,183.0,91.0,82.0,6.0,179.0,4.0,97.0,68.0,19.0,6.0,93.0,4.0,86.0,23.0,63.0,86.0,0.0,25.0,5.0,20.0,25.0,0.0,4.0,13.0,7.0,4.0,11.0,2.0
+2010,OH-505,"Dayton, Kettering/Montgomery County CoC",Sheltered and Unsheltered Count,884.0,554.0,279.0,25.0,858.0,26.0,625.0,426.0,148.0,25.0,599.0,26.0,259.0,128.0,131.0,259.0,0.0,96.0,45.0,51.0,96.0,0.0,19.0,102.0,72.0,19.0,91.0,11.0
+2010,OH-506,"Akron, Barberton/Summit County CoC",Sheltered and Unsheltered Count,859.0,316.0,346.0,10.0,672.0,187.0,587.0,205.0,185.0,10.0,400.0,187.0,272.0,111.0,161.0,272.0,0.0,84.0,37.0,47.0,84.0,0.0,0.0,218.0,106.0,0.0,106.0,112.0
+2010,OH-507,Ohio Balance of State CoC,Sheltered and Unsheltered Count,4555.0,1607.0,1855.0,0.0,3462.0,1093.0,2044.0,822.0,516.0,0.0,1338.0,706.0,2511.0,785.0,1339.0,2124.0,387.0,810.0,229.0,448.0,677.0,133.0,0.0,429.0,255.0,0.0,255.0,174.0
+2010,OH-508,"Canton, Massillon, Alliance/Stark County CoC",Sheltered and Unsheltered Count,431.0,257.0,121.0,0.0,378.0,53.0,248.0,173.0,32.0,0.0,205.0,43.0,183.0,84.0,89.0,173.0,10.0,69.0,31.0,35.0,66.0,3.0,0.0,17.0,10.0,0.0,10.0,7.0
+2010,OK-500,North Central Oklahoma CoC,Sheltered-Only Count,323.0,99.0,80.0,0.0,179.0,144.0,207.0,69.0,43.0,0.0,112.0,95.0,116.0,30.0,37.0,67.0,49.0,39.0,11.0,12.0,23.0,16.0,0.0,21.0,8.0,0.0,8.0,13.0
+2010,OK-501,Tulsa City & County CoC,Sheltered and Unsheltered Count,905.0,616.0,221.0,45.0,882.0,23.0,718.0,476.0,174.0,45.0,695.0,23.0,187.0,140.0,47.0,187.0,0.0,60.0,45.0,15.0,60.0,0.0,19.0,85.0,59.0,19.0,78.0,7.0
+2010,OK-502,Oklahoma City CoC,Sheltered and Unsheltered Count,1128.0,625.0,264.0,0.0,889.0,239.0,890.0,521.0,144.0,0.0,665.0,225.0,238.0,104.0,120.0,224.0,14.0,79.0,36.0,36.0,72.0,7.0,0.0,264.0,163.0,0.0,163.0,101.0
+2010,OK-503,Oklahoma Balance of State CoC,Sheltered and Unsheltered Count,324.0,247.0,70.0,0.0,317.0,7.0,211.0,196.0,8.0,0.0,204.0,7.0,113.0,51.0,62.0,113.0,0.0,35.0,15.0,20.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010,OK-504,Norman/Cleveland County CoC,Sheltered and Unsheltered Count,565.0,115.0,136.0,0.0,251.0,314.0,438.0,85.0,44.0,0.0,129.0,309.0,127.0,30.0,92.0,122.0,5.0,37.0,12.0,24.0,36.0,1.0,0.0,82.0,43.0,0.0,43.0,39.0
+2010,OK-505,Northeast Oklahoma CoC,Sheltered and Unsheltered Count,567.0,179.0,64.0,0.0,243.0,324.0,214.0,96.0,44.0,0.0,140.0,74.0,353.0,83.0,20.0,103.0,250.0,136.0,38.0,8.0,46.0,90.0,0.0,73.0,69.0,0.0,69.0,4.0
+2010,OK-506,Southwest Oklahoma Regional CoC,No 2010 PIT Count,272.0,210.0,42.0,0.0,252.0,20.0,156.0,139.0,0.0,0.0,139.0,17.0,116.0,71.0,42.0,113.0,3.0,30.0,19.0,10.0,29.0,1.0,0.0,13.0,7.0,0.0,7.0,6.0
+2010,OK-507,Southeastern Oklahoma Regional CoC,Sheltered and Unsheltered Count,1145.0,259.0,43.0,0.0,302.0,843.0,483.0,130.0,25.0,0.0,155.0,328.0,662.0,129.0,18.0,147.0,515.0,249.0,53.0,6.0,59.0,190.0,0.0,82.0,27.0,0.0,27.0,55.0
+2010,OR-500,"Eugene, Springfield/Lane County CoC",Sheltered and Unsheltered Count,2580.0,472.0,492.0,27.0,991.0,1589.0,1899.0,378.0,156.0,27.0,561.0,1338.0,681.0,94.0,336.0,430.0,251.0,217.0,36.0,108.0,144.0,73.0,27.0,633.0,152.0,27.0,179.0,454.0
+2010,OR-501,"Portland, Gresham/Multnomah County CoC",Sheltered-Only Count,4235.0,902.0,1742.0,0.0,2644.0,1591.0,2943.0,699.0,731.0,0.0,1430.0,1513.0,1292.0,203.0,1011.0,1214.0,78.0,443.0,69.0,339.0,408.0,35.0,0.0,792.0,238.0,0.0,238.0,554.0
+2010,OR-502,"Medford, Ashland/Jackson County CoC",Sheltered and Unsheltered Count,922.0,76.0,274.0,0.0,350.0,572.0,505.0,59.0,177.0,0.0,236.0,269.0,417.0,17.0,97.0,114.0,303.0,123.0,8.0,34.0,42.0,81.0,0.0,151.0,22.0,0.0,22.0,129.0
+2010,OR-503,Central Oregon CoC,Sheltered and Unsheltered Count,569.0,108.0,148.0,0.0,256.0,313.0,305.0,87.0,27.0,0.0,114.0,191.0,264.0,21.0,121.0,142.0,122.0,80.0,9.0,35.0,44.0,36.0,0.0,75.0,13.0,0.0,13.0,62.0
+2010,OR-504,"Salem/Marion, Polk Counties CoC",Sheltered and Unsheltered Count,2316.0,138.0,458.0,3.0,599.0,1717.0,1049.0,130.0,188.0,3.0,321.0,728.0,1267.0,8.0,270.0,278.0,989.0,417.0,3.0,83.0,86.0,331.0,1.0,131.0,63.0,1.0,64.0,67.0
+2010,OR-505,Oregon Balance of State CoC,Sheltered and Unsheltered Count,6498.0,613.0,1394.0,0.0,2007.0,4491.0,2530.0,432.0,479.0,0.0,911.0,1619.0,3968.0,181.0,915.0,1096.0,2872.0,1259.0,58.0,278.0,336.0,923.0,0.0,581.0,156.0,0.0,156.0,425.0
+2010,OR-506,"Hillsboro, Beaverton/Washington County CoC",Sheltered and Unsheltered Count,950.0,91.0,148.0,9.0,248.0,702.0,514.0,8.0,48.0,9.0,65.0,449.0,436.0,83.0,100.0,183.0,253.0,135.0,22.0,38.0,60.0,75.0,9.0,145.0,0.0,9.0,9.0,136.0
+2010,OR-507,Clackamas County CoC,Sheltered and Unsheltered Count,1422.0,46.0,90.0,0.0,136.0,1286.0,986.0,3.0,13.0,0.0,16.0,970.0,436.0,43.0,77.0,120.0,316.0,137.0,16.0,28.0,44.0,93.0,0.0,93.0,2.0,0.0,2.0,91.0
+2010,PA-500,Philadelphia CoC,Sheltered and Unsheltered Count,6084.0,3623.0,1908.0,72.0,5603.0,481.0,3077.0,2161.0,363.0,72.0,2596.0,481.0,3007.0,1462.0,1545.0,3007.0,0.0,996.0,503.0,493.0,996.0,0.0,72.0,580.0,141.0,72.0,213.0,367.0
+2010,PA-501,Harrisburg/Dauphin County CoC,Sheltered and Unsheltered Count,394.0,173.0,122.0,11.0,306.0,88.0,238.0,104.0,41.0,11.0,156.0,82.0,156.0,69.0,81.0,150.0,6.0,57.0,24.0,30.0,54.0,3.0,11.0,121.0,58.0,11.0,69.0,52.0
+2010,PA-502,"Upper Darby, Chester, Haverford/Delaware County CoC",Sheltered and Unsheltered Count,716.0,349.0,314.0,0.0,663.0,53.0,265.0,149.0,63.0,0.0,212.0,53.0,451.0,200.0,251.0,451.0,0.0,136.0,65.0,71.0,136.0,0.0,0.0,60.0,29.0,0.0,29.0,31.0
+2010,PA-503,"Wilkes-Barre, Hazleton/Luzerne County CoC",Sheltered and Unsheltered Count,201.0,110.0,85.0,0.0,195.0,6.0,117.0,68.0,43.0,0.0,111.0,6.0,84.0,42.0,42.0,84.0,0.0,30.0,13.0,17.0,30.0,0.0,0.0,11.0,9.0,0.0,9.0,2.0
+2010,PA-504,"Lower Merion, Norristown, Abington/Montgomery County CoC",Sheltered and Unsheltered Count,428.0,200.0,190.0,0.0,390.0,38.0,170.0,104.0,28.0,0.0,132.0,38.0,258.0,96.0,162.0,258.0,0.0,82.0,29.0,53.0,82.0,0.0,0.0,49.0,32.0,0.0,32.0,17.0
+2010,PA-505,Chester County CoC,Sheltered and Unsheltered Count,319.0,116.0,188.0,8.0,312.0,7.0,156.0,92.0,49.0,8.0,149.0,7.0,163.0,24.0,139.0,163.0,0.0,52.0,9.0,43.0,52.0,0.0,7.0,46.0,37.0,7.0,44.0,2.0
+2010,PA-506,Reading/Berks County CoC,Sheltered and Unsheltered Count,513.0,209.0,291.0,0.0,500.0,13.0,343.0,167.0,163.0,0.0,330.0,13.0,170.0,42.0,128.0,170.0,0.0,56.0,12.0,44.0,56.0,0.0,0.0,30.0,17.0,0.0,17.0,13.0
+2010,PA-508,Scranton/Lackawanna County CoC,Sheltered and Unsheltered Count,285.0,76.0,167.0,0.0,243.0,42.0,145.0,58.0,45.0,0.0,103.0,42.0,140.0,18.0,122.0,140.0,0.0,49.0,6.0,43.0,49.0,0.0,0.0,19.0,10.0,0.0,10.0,9.0
+2010,PA-509,Eastern Pennsylvania CoC,Sheltered and Unsheltered Count,1895.0,739.0,1013.0,0.0,1752.0,143.0,759.0,383.0,250.0,0.0,633.0,126.0,1136.0,356.0,763.0,1119.0,17.0,363.0,105.0,252.0,357.0,6.0,0.0,131.0,78.0,0.0,78.0,53.0
+2010,PA-510,Lancaster City & County CoC,Sheltered and Unsheltered Count,602.0,257.0,322.0,0.0,579.0,23.0,302.0,171.0,108.0,0.0,279.0,23.0,300.0,86.0,214.0,300.0,0.0,101.0,27.0,74.0,101.0,0.0,0.0,69.0,63.0,0.0,63.0,6.0
+2010,PA-511,"Bristol, Bensalem/Bucks County CoC",Sheltered and Unsheltered Count,474.0,98.0,340.0,0.0,438.0,36.0,169.0,37.0,96.0,0.0,133.0,36.0,305.0,61.0,244.0,305.0,0.0,103.0,22.0,81.0,103.0,0.0,0.0,23.0,18.0,0.0,18.0,5.0
+2010,PA-600,"Pittsburgh, McKeesport, Penn Hills/Allegheny County CoC",Sheltered and Unsheltered Count,1265.0,297.0,814.0,35.0,1146.0,119.0,722.0,222.0,346.0,35.0,603.0,119.0,543.0,75.0,468.0,543.0,0.0,154.0,28.0,126.0,154.0,0.0,35.0,235.0,122.0,35.0,157.0,78.0
+2010,PA-601,Western Pennsylvania CoC,Sheltered-Only Count,910.0,408.0,449.0,33.0,890.0,20.0,443.0,222.0,168.0,33.0,423.0,20.0,467.0,186.0,281.0,467.0,0.0,153.0,64.0,89.0,153.0,0.0,25.0,93.0,56.0,25.0,81.0,12.0
+2010,PA-603,Beaver County CoC,Sheltered and Unsheltered Count,134.0,54.0,68.0,0.0,122.0,12.0,70.0,14.0,47.0,0.0,61.0,9.0,64.0,40.0,21.0,61.0,3.0,22.0,13.0,8.0,21.0,1.0,0.0,10.0,3.0,0.0,3.0,7.0
+2010,PA-605,Erie City & County CoC,Sheltered and Unsheltered Count,296.0,169.0,110.0,0.0,279.0,17.0,215.0,143.0,61.0,0.0,204.0,11.0,81.0,26.0,49.0,75.0,6.0,39.0,13.0,23.0,36.0,3.0,0.0,47.0,45.0,0.0,45.0,2.0
+2010,PR-502,Puerto Rico Balance of Commonwealth CoC,No 2010 PIT Count,1775.0,310.0,558.0,0.0,868.0,907.0,1597.0,286.0,512.0,0.0,798.0,799.0,178.0,24.0,46.0,70.0,108.0,61.0,6.0,19.0,25.0,36.0,0.0,1045.0,511.0,0.0,511.0,534.0
+2010,PR-503,South-Southeast Puerto Rico CoC,Sheltered-Only Count,2374.0,238.0,288.0,10.0,536.0,1838.0,2124.0,145.0,171.0,10.0,326.0,1798.0,250.0,93.0,117.0,210.0,40.0,88.0,25.0,48.0,73.0,15.0,10.0,1173.0,163.0,10.0,173.0,1000.0
+2010,RI-500,Rhode Island Statewide CoC,Sheltered and Unsheltered Count,1282.0,761.0,428.0,17.0,1206.0,76.0,704.0,442.0,173.0,17.0,632.0,72.0,578.0,319.0,255.0,574.0,4.0,216.0,105.0,110.0,215.0,1.0,17.0,86.0,43.0,17.0,60.0,26.0
+2010,SC-500,Charleston/Low Country CoC,No 2010 PIT Count,416.0,173.0,174.0,0.0,347.0,69.0,337.0,142.0,126.0,0.0,268.0,69.0,79.0,31.0,48.0,79.0,0.0,27.0,9.0,18.0,27.0,0.0,0.0,55.0,55.0,0.0,55.0,0.0
+2010,SC-501,"Greenville, Anderson, Spartanburg/Upstate CoC",No 2010 PIT Count,1164.0,537.0,471.0,0.0,1008.0,156.0,753.0,392.0,208.0,0.0,600.0,153.0,411.0,145.0,263.0,408.0,3.0,131.0,46.0,84.0,130.0,1.0,0.0,210.0,140.0,0.0,140.0,70.0
+2010,SC-502,Columbia/Midlands CoC,No 2010 PIT Count,1368.0,505.0,424.0,0.0,929.0,439.0,993.0,379.0,233.0,0.0,612.0,381.0,375.0,126.0,191.0,317.0,58.0,131.0,43.0,68.0,111.0,20.0,0.0,180.0,102.0,0.0,102.0,78.0
+2010,SC-503,"Myrtle Beach, Sumter City & County CoC",No 2010 PIT Count,1525.0,362.0,390.0,0.0,752.0,773.0,1111.0,205.0,260.0,0.0,465.0,646.0,414.0,157.0,130.0,287.0,127.0,185.0,85.0,50.0,135.0,50.0,0.0,229.0,95.0,0.0,95.0,134.0
+2010,SD-500,South Dakota Statewide CoC,No 2010 PIT Count,731.0,371.0,296.0,0.0,667.0,64.0,445.0,218.0,163.0,0.0,381.0,64.0,286.0,153.0,133.0,286.0,0.0,87.0,42.0,45.0,87.0,0.0,0.0,109.0,45.0,0.0,45.0,64.0
+2010,TN-500,Chattanooga/Southeast Tennessee CoC,Sheltered and Unsheltered Count,622.0,256.0,67.0,0.0,323.0,299.0,573.0,234.0,40.0,0.0,274.0,299.0,49.0,22.0,27.0,49.0,0.0,16.0,8.0,8.0,16.0,0.0,0.0,91.0,33.0,0.0,33.0,58.0
+2010,TN-501,Memphis/Shelby County CoC,Sheltered and Unsheltered Count,1657.0,464.0,1030.0,0.0,1494.0,163.0,1032.0,331.0,538.0,0.0,869.0,163.0,625.0,133.0,492.0,625.0,0.0,192.0,37.0,155.0,192.0,0.0,0.0,168.0,43.0,0.0,43.0,125.0
+2010,TN-502,Knoxville/Knox County CoC,Sheltered and Unsheltered Count,910.0,388.0,384.0,0.0,772.0,138.0,792.0,365.0,297.0,0.0,662.0,130.0,118.0,23.0,87.0,110.0,8.0,44.0,8.0,33.0,41.0,3.0,0.0,237.0,180.0,0.0,180.0,57.0
+2010,TN-503,Central Tennessee CoC,Sheltered and Unsheltered Count,177.0,69.0,90.0,0.0,159.0,18.0,136.0,45.0,73.0,0.0,118.0,18.0,41.0,24.0,17.0,41.0,0.0,16.0,10.0,6.0,16.0,0.0,0.0,37.0,29.0,0.0,29.0,8.0
+2010,TN-504,Nashville-Davidson County CoC,Sheltered and Unsheltered Count,2324.0,1312.0,659.0,14.0,1985.0,339.0,2098.0,1213.0,532.0,14.0,1759.0,339.0,226.0,99.0,127.0,226.0,0.0,73.0,26.0,47.0,73.0,0.0,14.0,1236.0,883.0,14.0,897.0,339.0
+2010,TN-506,Upper Cumberland CoC,Sheltered and Unsheltered Count,635.0,135.0,44.0,0.0,179.0,456.0,383.0,89.0,15.0,0.0,104.0,279.0,252.0,46.0,29.0,75.0,177.0,80.0,14.0,10.0,24.0,56.0,0.0,64.0,19.0,0.0,19.0,45.0
+2010,TN-507,Jackson/West Tennessee CoC,Sheltered and Unsheltered Count,2050.0,422.0,245.0,8.0,675.0,1375.0,1135.0,54.0,165.0,8.0,227.0,908.0,915.0,368.0,80.0,448.0,467.0,410.0,170.0,25.0,195.0,215.0,8.0,209.0,16.0,8.0,24.0,185.0
+2010,TN-509,Appalachian Regional CoC,No 2010 PIT Count,840.0,564.0,77.0,0.0,641.0,199.0,743.0,522.0,36.0,0.0,558.0,185.0,97.0,42.0,41.0,83.0,14.0,30.0,15.0,12.0,27.0,3.0,0.0,68.0,37.0,0.0,37.0,31.0
+2010,TN-510,Murfreesboro/Rutherford County CoC,Sheltered and Unsheltered Count,219.0,109.0,6.0,0.0,115.0,104.0,152.0,60.0,2.0,0.0,62.0,90.0,67.0,49.0,4.0,53.0,14.0,17.0,11.0,2.0,13.0,4.0,0.0,70.0,10.0,0.0,10.0,60.0
+2010,TN-512,"Morristown/Blount, Sevier, Campbell, Cocke Counties CoC",Sheltered and Unsheltered Count,842.0,653.0,3.0,0.0,656.0,186.0,579.0,424.0,3.0,0.0,427.0,152.0,263.0,229.0,0.0,229.0,34.0,78.0,68.0,0.0,68.0,10.0,0.0,315.0,224.0,0.0,224.0,91.0
+2010,TX-500,San Antonio/Bexar County CoC,Sheltered and Unsheltered Count,3291.0,806.0,827.0,41.0,1674.0,1617.0,2413.0,457.0,336.0,41.0,834.0,1579.0,878.0,349.0,491.0,840.0,38.0,291.0,105.0,174.0,279.0,12.0,0.0,602.0,191.0,0.0,191.0,411.0
+2010,TX-503,Austin/Travis County CoC,Sheltered and Unsheltered Count,2087.0,731.0,506.0,17.0,1254.0,833.0,1486.0,483.0,153.0,17.0,653.0,833.0,601.0,248.0,353.0,601.0,0.0,196.0,85.0,111.0,196.0,0.0,17.0,982.0,444.0,17.0,461.0,521.0
+2010,TX-600,"Dallas City & County, Irving CoC",Sheltered and Unsheltered Count,3710.0,1827.0,1639.0,43.0,3509.0,201.0,2403.0,1337.0,822.0,43.0,2202.0,201.0,1307.0,490.0,817.0,1307.0,0.0,433.0,167.0,266.0,433.0,0.0,43.0,514.0,353.0,43.0,396.0,118.0
+2010,TX-601,"Fort Worth, Arlington/Tarrant County CoC",No 2010 PIT Count,2181.0,1148.0,838.0,0.0,1986.0,195.0,1299.0,879.0,225.0,0.0,1104.0,195.0,882.0,269.0,613.0,882.0,0.0,281.0,81.0,200.0,281.0,0.0,0.0,209.0,147.0,0.0,147.0,62.0
+2010,TX-603,El Paso City & County CoC,No 2010 PIT Count,1260.0,567.0,397.0,0.0,964.0,296.0,768.0,342.0,136.0,0.0,478.0,290.0,492.0,225.0,261.0,486.0,6.0,159.0,73.0,83.0,156.0,3.0,0.0,205.0,69.0,0.0,69.0,136.0
+2010,TX-604,Waco/McLennan County CoC,No 2010 PIT Count,312.0,107.0,119.0,0.0,226.0,86.0,231.0,86.0,65.0,0.0,151.0,80.0,81.0,21.0,54.0,75.0,6.0,24.0,7.0,16.0,23.0,1.0,0.0,48.0,29.0,0.0,29.0,19.0
+2010,TX-607,Texas Balance of State CoC,Sheltered and Unsheltered Count,14827.0,2872.0,1494.0,0.0,4366.0,10461.0,10142.0,1715.0,756.0,0.0,2471.0,7671.0,4685.0,1157.0,738.0,1895.0,2790.0,1745.0,405.0,232.0,637.0,1108.0,0.0,2039.0,523.0,0.0,523.0,1516.0
+2010,TX-611,Amarillo CoC,Sheltered and Unsheltered Count,578.0,487.0,60.0,0.0,547.0,31.0,410.0,378.0,1.0,0.0,379.0,31.0,168.0,109.0,59.0,168.0,0.0,48.0,31.0,17.0,48.0,0.0,0.0,84.0,78.0,0.0,78.0,6.0
+2010,TX-624,"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties CoC",No 2010 PIT Count,242.0,235.0,0.0,0.0,235.0,7.0,215.0,208.0,0.0,0.0,208.0,7.0,27.0,27.0,0.0,27.0,0.0,11.0,11.0,0.0,11.0,0.0,0.0,190.0,183.0,0.0,183.0,7.0
+2010,TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties CoC",Sheltered-Only Count,6368.0,1663.0,2570.0,16.0,4249.0,2119.0,4488.0,1024.0,1583.0,16.0,2623.0,1865.0,1880.0,639.0,987.0,1626.0,254.0,781.0,236.0,481.0,717.0,64.0,0.0,1581.0,455.0,0.0,455.0,1126.0
+2010,TX-701,"Bryan, College Station/Brazos Valley CoC",No 2010 PIT Count,265.0,134.0,47.0,0.0,181.0,84.0,223.0,119.0,27.0,0.0,146.0,77.0,42.0,15.0,20.0,35.0,7.0,18.0,5.0,10.0,15.0,3.0,0.0,58.0,45.0,0.0,45.0,13.0
+2010,UT-500,Salt Lake City & County CoC,Sheltered and Unsheltered Count,1968.0,1061.0,629.0,49.0,1739.0,229.0,1191.0,712.0,204.0,49.0,965.0,226.0,777.0,349.0,425.0,774.0,3.0,227.0,104.0,122.0,226.0,1.0,37.0,200.0,54.0,37.0,91.0,109.0
+2010,UT-503,Utah Balance of State CoC,Sheltered and Unsheltered Count,952.0,314.0,506.0,0.0,820.0,132.0,465.0,210.0,143.0,0.0,353.0,112.0,487.0,104.0,363.0,467.0,20.0,145.0,33.0,106.0,139.0,6.0,0.0,104.0,22.0,0.0,22.0,82.0
+2010,UT-504,Provo/Mountainland CoC,Sheltered and Unsheltered Count,364.0,73.0,90.0,0.0,163.0,201.0,270.0,40.0,35.0,0.0,75.0,195.0,94.0,33.0,55.0,88.0,6.0,32.0,12.0,18.0,30.0,2.0,0.0,102.0,12.0,0.0,12.0,90.0
+2010,VA-500,"Richmond/Henrico, Chesterfield, Hanover Counties CoC",Sheltered and Unsheltered Count,1012.0,488.0,454.0,20.0,962.0,50.0,800.0,398.0,332.0,20.0,750.0,50.0,212.0,90.0,122.0,212.0,0.0,78.0,32.0,46.0,78.0,0.0,0.0,92.0,75.0,0.0,75.0,17.0
+2010,VA-501,"Norfolk, Chesapeake, Suffolk/Isle of Wight, Southampton Counties CoC",Sheltered and Unsheltered Count,625.0,414.0,127.0,0.0,541.0,84.0,428.0,292.0,60.0,0.0,352.0,76.0,197.0,122.0,67.0,189.0,8.0,58.0,38.0,18.0,56.0,2.0,0.0,103.0,72.0,0.0,72.0,31.0
+2010,VA-502,"Roanoke City & County, Salem CoC",Sheltered and Unsheltered Count,518.0,455.0,45.0,0.0,500.0,18.0,395.0,357.0,20.0,0.0,377.0,18.0,123.0,98.0,25.0,123.0,0.0,45.0,37.0,8.0,45.0,0.0,0.0,118.0,108.0,0.0,108.0,10.0
+2010,VA-503,Virginia Beach CoC,Sheltered and Unsheltered Count,517.0,231.0,204.0,0.0,435.0,82.0,251.0,129.0,40.0,0.0,169.0,82.0,266.0,102.0,164.0,266.0,0.0,79.0,31.0,48.0,79.0,0.0,0.0,75.0,39.0,0.0,39.0,36.0
+2010,VA-504,Charlottesville CoC,Sheltered and Unsheltered Count,228.0,160.0,41.0,0.0,201.0,27.0,168.0,133.0,16.0,0.0,149.0,19.0,60.0,27.0,25.0,52.0,8.0,18.0,8.0,8.0,16.0,2.0,0.0,117.0,105.0,0.0,105.0,12.0
+2010,VA-505,"Newport News, Hampton/Virginia Peninsula CoC",Sheltered and Unsheltered Count,607.0,354.0,197.0,22.0,573.0,34.0,448.0,281.0,111.0,22.0,414.0,34.0,159.0,73.0,86.0,159.0,0.0,51.0,25.0,26.0,51.0,0.0,22.0,104.0,71.0,22.0,93.0,11.0
+2010,VA-507,Portsmouth CoC,Sheltered and Unsheltered Count,210.0,125.0,53.0,0.0,178.0,32.0,147.0,97.0,18.0,0.0,115.0,32.0,63.0,28.0,35.0,63.0,0.0,22.0,10.0,12.0,22.0,0.0,0.0,40.0,36.0,0.0,36.0,4.0
+2010,VA-508,Lynchburg CoC,No 2010 PIT Count,255.0,147.0,64.0,0.0,211.0,44.0,133.0,56.0,33.0,0.0,89.0,44.0,122.0,91.0,31.0,122.0,0.0,44.0,35.0,9.0,44.0,0.0,0.0,53.0,30.0,0.0,30.0,23.0
+2010,VA-513,"Harrisburg, Winchester/Western Virginia CoC",Sheltered and Unsheltered Count,448.0,319.0,40.0,0.0,359.0,89.0,231.0,174.0,6.0,0.0,180.0,51.0,217.0,145.0,34.0,179.0,38.0,50.0,34.0,6.0,40.0,10.0,0.0,76.0,58.0,0.0,58.0,18.0
+2010,VA-514,"Fredericksburg/Spotsylvania, Stafford Counties CoC",Sheltered and Unsheltered Count,288.0,133.0,27.0,0.0,160.0,128.0,224.0,101.0,0.0,0.0,101.0,123.0,64.0,32.0,27.0,59.0,5.0,22.0,11.0,9.0,20.0,2.0,0.0,83.0,37.0,0.0,37.0,46.0
+2010,VA-521,Virginia Balance of State CoC,Sheltered and Unsheltered Count,1261.0,477.0,324.0,0.0,801.0,460.0,632.0,262.0,43.0,0.0,305.0,327.0,629.0,215.0,281.0,496.0,133.0,213.0,75.0,90.0,165.0,48.0,0.0,117.0,50.0,0.0,50.0,67.0
+2010,VA-600,Arlington County CoC,Sheltered and Unsheltered Count,535.0,169.0,139.0,4.0,312.0,223.0,351.0,112.0,12.0,4.0,128.0,223.0,184.0,57.0,127.0,184.0,0.0,61.0,18.0,43.0,61.0,0.0,4.0,119.0,36.0,4.0,40.0,79.0
+2010,VA-601,Fairfax County CoC,Sheltered and Unsheltered Count,1552.0,604.0,800.0,8.0,1412.0,140.0,660.0,382.0,130.0,8.0,520.0,140.0,892.0,222.0,670.0,892.0,0.0,263.0,68.0,195.0,263.0,0.0,6.0,248.0,139.0,6.0,145.0,103.0
+2010,VA-602,Loudoun County CoC,Sheltered and Unsheltered Count,157.0,74.0,47.0,0.0,121.0,36.0,71.0,39.0,5.0,0.0,44.0,27.0,86.0,35.0,42.0,77.0,9.0,25.0,12.0,11.0,23.0,2.0,0.0,21.0,12.0,0.0,12.0,9.0
+2010,VA-603,Alexandria CoC,Sheltered and Unsheltered Count,359.0,185.0,136.0,0.0,321.0,38.0,208.0,115.0,55.0,0.0,170.0,38.0,151.0,70.0,81.0,151.0,0.0,52.0,25.0,27.0,52.0,0.0,0.0,80.0,55.0,0.0,55.0,25.0
+2010,VA-604,Prince William County CoC,Sheltered and Unsheltered Count,508.0,175.0,177.0,0.0,352.0,156.0,191.0,94.0,9.0,0.0,103.0,88.0,317.0,81.0,168.0,249.0,68.0,100.0,22.0,52.0,74.0,26.0,0.0,64.0,28.0,0.0,28.0,36.0
+2010,VI-500,Virgin Islands CoC,Sheltered-Only Count,487.0,33.0,59.0,0.0,92.0,395.0,468.0,21.0,52.0,0.0,73.0,395.0,19.0,12.0,7.0,19.0,0.0,9.0,6.0,3.0,9.0,0.0,0.0,385.0,20.0,0.0,20.0,365.0
+2010,VT-500,Vermont Balance of State CoC,Sheltered and Unsheltered Count,607.0,274.0,248.0,6.0,528.0,79.0,428.0,161.0,194.0,6.0,361.0,67.0,179.0,113.0,54.0,167.0,12.0,63.0,34.0,25.0,59.0,4.0,1.0,85.0,58.0,1.0,59.0,26.0
+2010,VT-501,Burlington/Chittenden County CoC,Sheltered and Unsheltered Count,613.0,337.0,213.0,0.0,550.0,63.0,369.0,172.0,139.0,0.0,311.0,58.0,244.0,165.0,74.0,239.0,5.0,104.0,71.0,32.0,103.0,1.0,0.0,48.0,26.0,0.0,26.0,22.0
+2010,WA-500,Seattle/King County CoC,Sheltered and Unsheltered Count,9022.0,2485.0,3693.0,44.0,6222.0,2800.0,5608.0,1781.0,1024.0,44.0,2849.0,2759.0,3414.0,704.0,2669.0,3373.0,41.0,1064.0,211.0,836.0,1047.0,17.0,44.0,903.0,610.0,44.0,654.0,249.0
+2010,WA-501,Washington Balance of State CoC,Sheltered and Unsheltered Count,7685.0,1943.0,3319.0,0.0,5262.0,2423.0,3632.0,1011.0,1041.0,0.0,2052.0,1580.0,4053.0,932.0,2278.0,3210.0,843.0,1266.0,297.0,714.0,1011.0,255.0,0.0,417.0,145.0,0.0,145.0,272.0
+2010,WA-502,Spokane City & County CoC,Sheltered and Unsheltered Count,1242.0,536.0,534.0,0.0,1070.0,172.0,659.0,359.0,151.0,0.0,510.0,149.0,583.0,177.0,383.0,560.0,23.0,134.0,42.0,85.0,127.0,7.0,0.0,224.0,136.0,0.0,136.0,88.0
+2010,WA-503,"Tacoma, Lakewood/Pierce County CoC",Sheltered and Unsheltered Count,1807.0,477.0,1160.0,0.0,1637.0,170.0,697.0,326.0,218.0,0.0,544.0,153.0,1110.0,151.0,942.0,1093.0,17.0,333.0,43.0,284.0,327.0,6.0,0.0,160.0,59.0,0.0,59.0,101.0
+2010,WA-504,Everett/Snohomish County CoC,Sheltered and Unsheltered Count,2018.0,362.0,1041.0,0.0,1403.0,615.0,805.0,238.0,116.0,0.0,354.0,451.0,1213.0,124.0,925.0,1049.0,164.0,399.0,44.0,312.0,356.0,43.0,0.0,238.0,173.0,0.0,173.0,65.0
+2010,WA-508,Vancouver/Clark County CoC,Sheltered and Unsheltered Count,1104.0,240.0,644.0,11.0,895.0,209.0,500.0,168.0,217.0,11.0,396.0,104.0,604.0,72.0,427.0,499.0,105.0,192.0,24.0,131.0,155.0,37.0,11.0,164.0,103.0,11.0,114.0,50.0
+2010,WI-500,Wisconsin Balance of State CoC,No 2010 PIT Count,3992.0,1623.0,1584.0,0.0,3207.0,785.0,1588.0,859.0,476.0,0.0,1335.0,253.0,2404.0,764.0,1108.0,1872.0,532.0,811.0,259.0,362.0,621.0,190.0,0.0,254.0,219.0,0.0,219.0,35.0
+2010,WI-501,Milwaukee City & County CoC,No 2010 PIT Count,1537.0,638.0,679.0,0.0,1317.0,220.0,974.0,434.0,392.0,0.0,826.0,148.0,563.0,204.0,287.0,491.0,72.0,173.0,68.0,81.0,149.0,24.0,0.0,314.0,258.0,0.0,258.0,56.0
+2010,WI-502,Racine City & County CoC,Sheltered and Unsheltered Count,236.0,125.0,105.0,0.0,230.0,6.0,158.0,99.0,55.0,0.0,154.0,4.0,78.0,26.0,50.0,76.0,2.0,17.0,6.0,10.0,16.0,1.0,0.0,15.0,15.0,0.0,15.0,0.0
+2010,WI-503,Madison/Dane County CoC,Sheltered and Unsheltered Count,568.0,294.0,192.0,13.0,499.0,69.0,320.0,150.0,120.0,13.0,283.0,37.0,248.0,144.0,72.0,216.0,32.0,79.0,39.0,31.0,70.0,9.0,13.0,144.0,103.0,13.0,116.0,28.0
+2010,WV-500,"Wheeling, Weirton Area CoC",Sheltered and Unsheltered Count,197.0,111.0,38.0,0.0,149.0,48.0,159.0,86.0,34.0,0.0,120.0,39.0,38.0,25.0,4.0,29.0,9.0,12.0,8.0,1.0,9.0,3.0,0.0,31.0,15.0,0.0,15.0,16.0
+2010,WV-501,"Huntington/Cabell, Wayne Counties CoC",Sheltered and Unsheltered Count,286.0,158.0,75.0,10.0,243.0,43.0,194.0,115.0,26.0,10.0,151.0,43.0,92.0,43.0,49.0,92.0,0.0,30.0,14.0,16.0,30.0,0.0,7.0,80.0,46.0,7.0,53.0,27.0
+2010,WV-503,"Charleston/Kanawha, Putnam, Boone, Clay Counties CoC",Sheltered and Unsheltered Count,406.0,261.0,113.0,0.0,374.0,32.0,286.0,167.0,87.0,0.0,254.0,32.0,120.0,94.0,26.0,120.0,0.0,46.0,39.0,7.0,46.0,0.0,0.0,49.0,29.0,0.0,29.0,20.0
+2010,WV-508,West Virginia Balance of State CoC,Sheltered and Unsheltered Count,1375.0,378.0,380.0,0.0,758.0,617.0,888.0,258.0,265.0,0.0,523.0,365.0,487.0,120.0,115.0,235.0,252.0,157.0,48.0,36.0,84.0,73.0,0.0,356.0,261.0,0.0,261.0,95.0
+2010,WY-500,Wyoming Statewide CoC,Sheltered-Only Count,579.0,264.0,251.0,0.0,515.0,64.0,327.0,220.0,49.0,0.0,269.0,58.0,252.0,44.0,202.0,246.0,6.0,90.0,15.0,73.0,88.0,2.0,0.0,101.0,52.0,0.0,52.0,49.0
+2010,,Total,,637077.0,222455.0,179743.0,1345.0,403543.0,233534.0,395140.0,123729.0,87144.0,1345.0,212218.0,182922.0,241937.0,98726.0,92599.0,191325.0,50612.0,79442.0,32083.0,30222.0,62305.0,17137.0,1002.0,106062.0,42327.0,1002.0,43329.0,62733.0
+2010,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010,"a MO-604 covers territory in both Missouri and Kansas. The record described in this file represents the CoC's total territory, the sum of the point-in-time estimates the CoC separately reported for the portions of its territory in MO and in KS. However, in the companion file, Point-in-Time Estimates by State, MO-604's data have been split up between MO and KS.",,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
