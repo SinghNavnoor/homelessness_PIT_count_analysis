@@ -43,12 +43,12 @@ Goal: Merge and clean the datasets without loosing a significant number of rows.
       1. "Sheltered and Unsheltered Count"
       2. "Sheltered and Partial Unsheltered Count"
       3. "Sheltered-Only Count"
-
- - These steps resolved over half of the null values in "Count Types."
+      
+      - These steps resolved over half of the null values in "Count Types."
     
     c. If null values still remained, they were imputed using the mode of the "Count Types" for rows under the same "CoC Name."
 
- - This method addressed over 99% of the remaining nulls, leaving only five.
+      - This method addressed over 99% of the remaining nulls, leaving only five.
     
     d. The last few null values were impute with the mode of the entire "Count Types" column.
 
