@@ -31,22 +31,29 @@ Homelessness has become an increasingly large issue in American society. This pr
 Goal: Merge and clean the datasets without loosing a significant number of rows.
 
 #### Data Cleaning
-1. Dealing with Null values in "Count Types" column:
-  - The significance of imputing null values in this variables is to properly analysis any relationship between the Type of count being conducted and the results of the count itself.
-  - The variables had 805 null values.
-  - A ranking system was used to impute these null values. 
-    a. If a row had "Count Types" as null then take the column "CoC Name" and check its previous and next year's "Count Types" value. If they are the same then impute that same value in the null cell.
-    b. If the first condition is not true then check if either of the previous or next year value is equal to "Sheltered and Unsheltered Count", if so, then impute the null cell with this value. "Sheltered and Unsheltered Count" is given preference as it provides us with the most accurate count of homeless population.
-    c. If the second condition is also not met then check if either of the previous or next year value is equal to "Sheltered and Partial Unsheltered Count", if so, then impute the null cells with this value.
-    d. If the third condition is also not met then check if either of the previous or next year value is equal to "Sheltered-Only Count", if so, then impute the null cells with this value.
+1. **Dealing with Null values in "Count Types" column:**
+   
+  - Imputing null values in this variables is crucial for properly analyzing any relationships between the types of counts conducted and the outcomes.
+  - The variable initially had 805 null values.
+  - Employed a hierarchical imputation system based on the data's contextuality:
+
+    a. If "Count Types" was null, first referenced the "CoC Name" to check the "Count Types" value in the previous and following years. If they matched, that value was imputed.
+
+    b. If the values varied then the following values would be given preference in specified order:
+      1. "Sheltered and Unsheltered Count"
+      2. "Sheltered and Partial Unsheltered Count"
+      3. "Sheltered-Only Count"
+
+    - These steps resolved over half of the null values in "Count Types."
     
-    P.S. These conditionalities took care of over half of the null values on "Count Types".
+    c. If null values still remained, they were imputed using the mode of the "Count Types" for rows under the same "CoC Name."
+
+    - This method addressed over 99% of the remaining nulls, leaving only five.
     
-    e. If null values still remained in the dataset for "Count Types" column then we imputed them with the mode of the corresponding "CoC Name" rows.
-    
-    P.S. This took care of over 99% of the remaining null values, leaving us with 5 null values in the column.
-    
-    - Impute the remaining null values with the mode of the entire column.
+    d. The last few null values were impute with the mode of the entire "Count Types" column.
+
+   This systematic approach ensured data integrity and improved the robustness of our subsequent analyses.
+
    
 #### Visualization Techniques
 
