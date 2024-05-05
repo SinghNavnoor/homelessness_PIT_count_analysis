@@ -1,5 +1,5 @@
 # Homeless PIT Count Analysis
-The purpose of this project is to analyze the growth of Homeless Population since 2007. Point-in-Time Count is a mandatory count of the homeless population nation wide. The goal of this project is to combine all the PIT Count datasets, analyze major trends and help create a better plan to tackle homelessness.
+Homelessness has become an increasingly large issue in American society. This project aims to analyze the growth of the homeless population from 2007 to 2023, using Point-in-Time (PIT) Count datasets provided by the U.S. Department of Housing and Urban Development (HUD). The PIT Count is a federally mandated survey that enumerates individuals and families experiencing homelessness across the country. The primary goals of this project are to merge these datasets, explore major trends in homelessness and the provision of shelters, and identify potential strategies to mitigate this pressing issue.
 
 ## Dataset
 1. **Source**: 
@@ -9,8 +9,9 @@ The purpose of this project is to analyze the growth of Homeless Population sinc
 2007 - 2023
 
 3. **Shape of the dataset**: 
-- Shape of the datasets increased over the years.
-- For e.g. the PIT Count 2007 dataset has 386 rows and *26 columns*, while the PIT Count 2023 has 389 rows and *646 columns*.
+- As the years have passed, the number of variables in the dataset has steadily increased.
+- For example, the PIT Count 2007 dataset contains 386 rows and *26 columns*, while the PIT Count 2023 has 389 rows and *646 columns*.
+- This increase in variables has has a net positive impact. It allows for more detailed analysis based on the population's age, race, gender and other demographic factors. This enhanced granularity aids in undersanding the diverse needs of the homeless population and developing tragetted interventions.
 
 4. **Key Columns**
 
@@ -21,26 +22,31 @@ The purpose of this project is to analyze the growth of Homeless Population sinc
 | Count Types | Sheltered Total Homeless |
 | CoC Number | Sheltered Total Chronically Homeless |
 
-
-Detail the analytical methods and processes used in the project. This could include data cleaning steps, statistical methods, machine learning models, or visualization techniques.
-
+5. **Explaing the columns**
+- CoC Name: CoC stands for Continuum of Care. A CoC is a regional or local planning body that is responsible for coordinating the funding of services provided to homeless families and individuals. A CoC can contain a region of a city, an entire city, a group of cities or even counties.
+- CoC Number: It is a unique number assigned to every CoC.
+- Count Types: This column refers to the different methods each CoC used to count the homeless population. Such as Sheltered & Unsheltered Count or Sheltered Only Count.
 
 ## Methodology
-The goal is to combine and clean the data without loosing a large number of rows.
+Goal: Merge and clean the datasets without loosing a significant number of rows.
 
 #### Data Cleaning
-1. Dealing with Null values in "Count Types" column.
-  - "Count Types" column had 805 null values. In order to deal with them multiple strategies were used.
-    - If a row had "Count Types" as null then take of column "CoC Name" and check its previous and next year's "Count Types" value. If they are the same then impute that same values in the null cell.
-    - If the first condition is not true then check if either of the previous or next year value is equal to "Sheltered and Unsheltered Count", if so, then impute the null cell with this value.
-    - If the second condition is also not met then check if either of the previous or next year value is equal to "Sheltered and Partial Unsheltered Count", if so, then impute the null cells with this value.
-    - If the third condition is also not met then check if either of the previous or next year value is equal to "Sheltered-Only Count", if so, then impute the null cells with this value.
+1. Dealing with Null values in "Count Types" column:
+  - The significance of imputing null values in this variables is to properly analysis any relationship between the Type of count being conducted and the results of the count itself.
+  - The variables had 805 null values.
+  - A ranking system was used to impute these null values. 
+    a. If a row had "Count Types" as null then take the column "CoC Name" and check its previous and next year's "Count Types" value. If they are the same then impute that same value in the null cell.
+    b. If the first condition is not true then check if either of the previous or next year value is equal to "Sheltered and Unsheltered Count", if so, then impute the null cell with this value. "Sheltered and Unsheltered Count" is given preference as it provides us with the most accurate count of homeless population.
+    c. If the second condition is also not met then check if either of the previous or next year value is equal to "Sheltered and Partial Unsheltered Count", if so, then impute the null cells with this value.
+    d. If the third condition is also not met then check if either of the previous or next year value is equal to "Sheltered-Only Count", if so, then impute the null cells with this value.
     
-    P.S. These conditionalities took care of over half of the null values on "Count Types"
-    - If null values still remained in the dataset for "Count Types" column then we imputed them with the mode of the corresponding "CoC Name" rows.
+    P.S. These conditionalities took care of over half of the null values on "Count Types".
+    
+    e. If null values still remained in the dataset for "Count Types" column then we imputed them with the mode of the corresponding "CoC Name" rows.
     
     P.S. This took care of over 99% of the remaining null values, leaving us with 5 null values in the column.
-    - The remaining null values were imputed with the mode of the entire column.
+    
+    - Impute the remaining null values with the mode of the entire column.
    
 #### Visualization Techniques
 
