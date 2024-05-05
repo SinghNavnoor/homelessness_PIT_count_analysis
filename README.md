@@ -11,7 +11,7 @@ Homelessness has become an increasingly large issue in American society. This pr
 3. **Shape of the dataset**: 
 - As the years have passed, the number of variables in the dataset has steadily increased.
 - For example, the PIT Count 2007 dataset contains 386 rows and *26 columns*, while the PIT Count 2023 has 389 rows and *646 columns*.
-- This increase in variables has has a net positive impact. It allows for more detailed analysis based on the population's age, race, gender and other demographic factors. This enhanced granularity aids in undersanding the diverse needs of the homeless population and developing tragetted interventions.
+- This increase in variables has had a net positive impact. It allows for more detailed analysis based on the population's age, race, gender and other demographic factors. This enhanced granularity aids in undersanding the diverse needs of the homeless population and developing targetted interventions.
 
 4. **Key Columns**
 
@@ -43,7 +43,8 @@ Goal: Merge and clean the datasets without loosing a significant number of rows.
       1. "Sheltered and Unsheltered Count"
       2. "Sheltered and Partial Unsheltered Count"
       3. "Sheltered-Only Count"
-      
+
+   
       - These steps resolved over half of the null values in "Count Types."
     
     c. If null values still remained, they were imputed using the mode of the "Count Types" for rows under the same "CoC Name."
@@ -59,7 +60,7 @@ This systematic approach ensured data integrity and improved the robustness of o
 
 Goal: The original goal was to create a dataset for years 2017 - 2021.
 
-Issue: These datasets did not give the full picture of the issue of homelessness.
+Issue: These datasets did not give the full picture of the crisis of homelessness as they showed a decrease in the population in 2021.
 
 Examples:
 <div>
@@ -67,7 +68,7 @@ Examples:
   <img src="chronically_homeless_17_21.png" width="500" height="400">
 </div>
 
-**Solution**: Combined all 17 datasets spanning from 2007 to 2023, resulting in a more clear picture of the cirsis of homelessness.
+**Solution**: Combined all 17 datasets spanning from 2007 to 2023, resulting in a more clear picture of the cirsis.
 
 <div>
   <img src="overall_homeless_07_23.png" width="500" height="400">
@@ -76,27 +77,27 @@ Examples:
 
 ## Explanatory Analysis
 - Uilized Tableau to created visualization showing:
-  - The U.S. with homeless population per state from 2007 to 2023.
-  - Explored the Population growth of Overall Homeless Population from 2007 to 2023 and how many were sheltered.
-  - Explored the Population growth of Chornically Homeless from 2007 to 2023 and how many were sheltered.
+  - The U.S. map with homeless population per state from 2007 to 2023.
+  - The population growth of Overall Homeless from 2007 to 2023 and how many were sheltered.
+  - The population growth of Chronically Homeless from 2011 to 2023 and how many were sheltered.
 
 Link to the Visualization: 
 [PIT Count Analysis 2007 - 2023](https://public.tableau.com/app/profile/navnoor.kahlon/viz/PITCountAnalysis2007-2023/Story3)
 
 ## Specialized Datasets
-The combined dataset provided an extensive look into the homeless population count. However, the dataset is also plagued with thousands of null values. These null values exist mainly because that specific column was not present in the prior year's dataset. However, the dataset is divided into sections. For example, the first column of a section would be "Overall Homeless" then the following 15 columns would explore different aspect of it such as the age group, race, gender and ethnicity. This finding brought the need to created specialized datasets that can be used for analysis and future model building.
+The combined dataset provided an extensive look into the homeless population count. However, the dataset is also plagued with thousands of null values. These null values exist mainly because that specific column was not present in that year's dataset. The Unified dataset is divided into sections. For example, the first column of a section would be "Overall Homeless" then the following 15 columns would explore different aspect of it such as the Overall Homeless - age group, race, gender and ethnicity. This finding brought the need to create specialized datasets that can be used for analysis and future model building.
 
 ### General Column Dataset
-- This dataset consists of all the columns common among all the 17 dataset. Additionally, these common columns can also be considered the general categories under which more variables were created in the following years.
-- Shate of the dataset: (6516, 28)
-- The number of null values dropped drastically in this dataset with "Unsheltered Chronically Homeless Individuals" columns having the most at 39.
+- This dataset consists of the columns common among all the 17 datasets. Additionally, these common columns can also be considered the general categories under which further variables were created in the following years.
+- Shape of the dataset: (6516, 28)
+- The number of null values dropped drastically in this dataset with "Unsheltered Chronically Homeless Individuals" column having the most at 39.
 - This dataset was used for explanatory analysis on tableau.
 
-### Chronically Homeless dataset
+### Chronically Homeless Dataset
 - This dataset specilizes in the Chronically Homeless population.
-- As found in the exploratory analysis of the unified dataset the count for the Chronicaly Homeless population didn't start until 2011. So the dataset only contains datasets with year 2011 onwards.
-- Share of the dataset: (4986, 21)
-- The highest number of null values were in column Unsheltered Chronically Homeless People in Families at 44.
+- As found in the exploratory analysis of the unified dataset the count for the Chronicaly Homeless population didn't start until 2011, so the dataset contains rows from year 2011 onwards.
+- Shape of the dataset: (4986, 21)
+- The highest number of null values were in column "Unsheltered Chronically Homeless People in Families" at 44.
 - This dataset was used for explanatory analysis on tableau. 
 
 ## SQL Exploration
