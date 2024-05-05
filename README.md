@@ -27,6 +27,13 @@ Homelessness has become an increasingly large issue in American society. This pr
 - CoC Number: It is a unique number assigned to every CoC.
 - Count Types: This column refers to the different methods each CoC used to count the homeless population. Such as Sheltered & Unsheltered Count or Sheltered Only Count.
 
+## Tools
+|Analysis| Visualization| Image Creation|
+|----------|----------|----------|
+|Pandas|Seaborn|Dataframe_image|
+|Numpy|Matplotlib|
+|Pandasql|
+
 ## Methodology
 Goal: Merge and clean the datasets without loosing a significant number of rows.
 
