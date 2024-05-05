@@ -70,7 +70,11 @@ Link to the Visualization:
 [PIT Count Analysis 2007 - 2023](https://public.tableau.com/app/profile/navnoor.kahlon/viz/PITCountAnalysis2007-2023/Story3)
 
 ## Specialized Datasets
+While the combine dataset provided an extensive look into the homeless population count the dataset is also plagued with thousands of null values. These null values existed mainly because that specific column was not present in the prior year's dataset. However, the dataset is divided into sections. For example, first column would be "Overall Homeless" then following 10 columns would explore different aspect of it such as the age group, race, and ethnicity. This finding brought the need to created specialized datasets that can be used for analysis and future model building.
 
+### General Column Dataset
+
+### Chorinicall Homeless dataset
 
 ## SQL Exploration
 ### 1. Highest recorded homeless population
@@ -90,14 +94,12 @@ Link to the Visualization:
 </div>
 
 ### Highest ratio of Chronically Homeless population to Overall Homeless population
-#### By State
-<img src="2_result_s.png" width="400" height="300">
-
-#### By CoC 
-<img src="2_result_coc.png" width="400" height="300">
-
-#### By Year 
-<img src="2_result_year.png" width="400" height="300">
+#### By State - CoC - Year
+<div>
+<img src="2_result_s.png" width="300" height="200">
+<img src="2_result_coc.png" width="300" height="200">
+<img src="2_result_year.png" width="300" height="200">
+</div>
 
 
 ## What was lacking in the dataset.
