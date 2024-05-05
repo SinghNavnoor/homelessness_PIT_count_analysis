@@ -21,6 +21,7 @@ The purpose of this project is to analyze the growth of Homeless Population sinc
 | Count Types | Sheltered Total Homeless |
 | CoC Number | Sheltered Total Chronically Homeless |
 
+
 Detail the analytical methods and processes used in the project. This could include data cleaning steps, statistical methods, machine learning models, or visualization techniques.
 
 
@@ -70,11 +71,20 @@ Link to the Visualization:
 [PIT Count Analysis 2007 - 2023](https://public.tableau.com/app/profile/navnoor.kahlon/viz/PITCountAnalysis2007-2023/Story3)
 
 ## Specialized Datasets
-While the combine dataset provided an extensive look into the homeless population count the dataset is also plagued with thousands of null values. These null values existed mainly because that specific column was not present in the prior year's dataset. However, the dataset is divided into sections. For example, first column would be "Overall Homeless" then following 10 columns would explore different aspect of it such as the age group, race, and ethnicity. This finding brought the need to created specialized datasets that can be used for analysis and future model building.
+The combined dataset provided an extensive look into the homeless population count. However, the dataset is also plagued with thousands of null values. These null values exist mainly because that specific column was not present in the prior year's dataset. However, the dataset is divided into sections. For example, the first column of a section would be "Overall Homeless" then the following 15 columns would explore different aspect of it such as the age group, race, gender and ethnicity. This finding brought the need to created specialized datasets that can be used for analysis and future model building.
 
 ### General Column Dataset
+- This dataset consists of all the columns common among all the 17 dataset. Additionally, these common columns can also be considered the general categories under which more variables were created in the following years.
+- Shate of the dataset: (6516, 28)
+- The number of null values dropped drastically in this dataset with "Unsheltered Chronically Homeless Individuals" columns having the most at 39.
+- This dataset was used for explanatory analysis on tableau.
 
-### Chorinicall Homeless dataset
+### Chronically Homeless dataset
+- This dataset specilizes in the Chronically Homeless population.
+- As found in the exploratory analysis of the unified dataset the count for the Chronicaly Homeless population didn't start until 2011. So the dataset only contains datasets with year 2011 onwards.
+- Share of the dataset: (4986, 21)
+- The highest number of null values were in column Unsheltered Chronically Homeless People in Families at 44.
+- This dataset was used for explanatory analysis on tableau. 
 
 ## SQL Exploration
 ### 1. Highest recorded homeless population
@@ -102,7 +112,9 @@ While the combine dataset provided an extensive look into the homeless populatio
 </div>
 
 
-## What was lacking in the dataset.
+## Further ideas to explore
+1. Retrieve the amount of money spent by every state every year on homelessness and compare it with the numlber of homeless population sheleted and how the growth or decline of the homeless population.
+2. Create a Time Series model, per state, that can predict the following year's homeless population.
 
 
 
