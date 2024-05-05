@@ -72,6 +72,8 @@ Link to the Visualization:
 
 ## SQL Exploration
 
+## What was lacking in the dataset.
+
 
 
 
