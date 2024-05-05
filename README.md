@@ -127,7 +127,7 @@ The combined dataset provided an extensive look into the homeless population cou
 
 
 ## Further ideas to explore
-1. Retrieve the amount of money spent by every state every year on homelessness and compare it with the number of homeless population sheleted and how the growth or decline of the homeless population.
+1. Retrieve the amount of money spent by every state, every year on homelessness. Analyze if spending more resulted in the decline of homelessness.
 2. Create a Time Series model, per state, that can predict the following year's homeless population.
 
 
