@@ -88,6 +88,13 @@ Link to the Visualization:
   <img src="5_lowest_sheltered_result_by_year.png" width="400" height="300">
 </div>
 
+### Ratio of Chronically Homeless population to Overall Homeless population
+#### By State
+<img src="2_result_s.png" width="400" height="300">
+
+#### By CoC 
+<img src="2_result_coc.png" width="400" height="300">
+
 
 
 ## What was lacking in the dataset.
