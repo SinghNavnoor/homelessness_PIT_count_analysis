@@ -46,6 +46,14 @@ The goal is to combine and clean the data without loosing a large number of rows
 1. Goal: The original goal was to create a dataset for years 2017 - 2021.
 2. Issue: These datasets did not give the full picture of the issue of Homelessness.
 
+Examples:
+![Overall Homeless population 2017 - 2021](https://github.com/SinghNavnoor/homelessness_PIT_count_analysis/blob/main/overall_homeless.png)
+
+<img src="(https://github.com/SinghNavnoor/homelessness_PIT_count_analysis/blob/main/overall_homeless.png)" width="600" height="300">
+
+
+
+
 
 
 
