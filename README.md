@@ -1,5 +1,5 @@
 # Homeless PIT Count Analysis
-The purpose of this project is to analyze the growth of Homeless Population since 2007. Point-in-Time Count is a mandatory count of the homeless population nation wide. The goal of this project is to combine all the PIT Count datasets, analyze major trends and help create a better plan to tackle homelessness.
+Homelessness has become an increasingly large issue in American society. This project aims to analyze the growth of the homeless population from 2007 to 2023, using Point-in-Time (PIT) Count datasets provided by the U.S. Department of Housing and Urban Development (HUD). The PIT Count is a federally mandated survey that enumerates individuals and families experiencing homelessness across the country. The primary goals of this project are to merge these datasets, explore major trends in homelessness and the provision of shelters, and identify potential strategies to mitigate this pressing issue.
 
 ## Dataset
 1. **Source**: 
@@ -9,8 +9,9 @@ The purpose of this project is to analyze the growth of Homeless Population sinc
 2007 - 2023
 
 3. **Shape of the dataset**: 
-- Shape of the datasets increased over the years.
-- For e.g. the PIT Count 2007 dataset has 386 rows and *26 columns*, while the PIT Count 2023 has 389 rows and *646 columns*.
+- As the years have passed, the number of variables in the dataset has steadily increased.
+- For example, the PIT Count 2007 dataset contains 386 rows and *26 columns*, while the PIT Count 2023 has 389 rows and *646 columns*.
+- This increase in variables has had a net positive impact. It allows for more detailed analysis based on the population's age, race, gender and other demographic factors. This enhanced granularity aids in undersanding the diverse needs of the homeless population and developing targetted interventions.
 
 4. **Key Columns**
 
@@ -21,31 +22,45 @@ The purpose of this project is to analyze the growth of Homeless Population sinc
 | Count Types | Sheltered Total Homeless |
 | CoC Number | Sheltered Total Chronically Homeless |
 
-Detail the analytical methods and processes used in the project. This could include data cleaning steps, statistical methods, machine learning models, or visualization techniques.
-
+5. **Explaing the columns**
+- CoC Name: CoC stands for Continuum of Care. A CoC is a regional or local planning body that is responsible for coordinating the funding of services provided to homeless families and individuals. A CoC can contain a region of a city, an entire city, a group of cities or even counties.
+- CoC Number: It is a unique number assigned to every CoC.
+- Count Types: This column refers to the different methods each CoC used to count the homeless population. Such as Sheltered & Unsheltered Count or Sheltered Only Count.
 
 ## Methodology
-The goal is to combine and clean the data without loosing a large number of rows.
+Goal: Merge and clean the datasets without loosing a significant number of rows.
 
 #### Data Cleaning
-1. Dealing with Null values in "Count Types" column.
-  - "Count Types" column had 805 null values. In order to deal with them multiple strategies were used.
-    - If a row had "Count Types" as null then take of column "CoC Name" and check its previous and next year's "Count Types" value. If they are the same then impute that same values in the null cell.
-    - If the first condition is not true then check if either of the previous or next year value is equal to "Sheltered and Unsheltered Count", if so, then impute the null cell with this value.
-    - If the second condition is also not met then check if either of the previous or next year value is equal to "Sheltered and Partial Unsheltered Count", if so, then impute the null cells with this value.
-    - If the third condition is also not met then check if either of the previous or next year value is equal to "Sheltered-Only Count", if so, then impute the null cells with this value.
+1. **Dealing with Null values in "Count Types" column:**
+   
+  - Imputing null values in this variables is crucial for properly analyzing any relationships between the types of counts conducted and the outcomes.
+  - The variable initially had 805 null values.
+  - Employed a hierarchical imputation system based on the data's contextuality:
+
+    a. If "Count Types" was null, first referenced the "CoC Name" to check the "Count Types" value in the previous and following years. If they matched, that value was imputed.
+
+    b. If the values varied then the following values would be given preference in specified order:
+      1. "Sheltered and Unsheltered Count"
+      2. "Sheltered and Partial Unsheltered Count"
+      3. "Sheltered-Only Count"
+
+   
+      - These steps resolved over half of the null values in "Count Types."
     
-    P.S. These conditionalities took care of over half of the null values on "Count Types"
-    - If null values still remained in the dataset for "Count Types" column then we imputed them with the mode of the corresponding "CoC Name" rows.
+    c. If null values still remained, they were imputed using the mode of the "Count Types" for rows under the same "CoC Name."
+
+      - This method addressed over 99% of the remaining nulls, leaving only five.
     
-    P.S. This took care of over 99% of the remaining null values, leaving us with 5 null values in the column.
-    - The remaining null values were imputed with the mode of the entire column.
+    d. The last few null values were impute with the mode of the entire "Count Types" column.
+
+This systematic approach ensured data integrity and improved the robustness of our subsequent analyses.
+
    
 #### Visualization Techniques
 
 Goal: The original goal was to create a dataset for years 2017 - 2021.
 
-Issue: These datasets did not give the full picture of the issue of homelessness.
+Issue: These datasets did not give the full picture of the crisis of homelessness as they showed a decrease in the population in 2021.
 
 Examples:
 <div>
@@ -53,7 +68,7 @@ Examples:
   <img src="chronically_homeless_17_21.png" width="500" height="400">
 </div>
 
-**Solution**: Combined all 17 datasets spanning from 2007 to 2023, resulting in a more clear picture of the cirsis of homelessness.
+**Solution**: Combined all 17 datasets spanning from 2007 to 2023, resulting in a more clear picture of the cirsis.
 
 <div>
   <img src="overall_homeless_07_23.png" width="500" height="400">
@@ -62,19 +77,28 @@ Examples:
 
 ## Explanatory Analysis
 - Uilized Tableau to created visualization showing:
-  - The U.S. with homeless population per state from 2007 to 2023.
-  - Explored the Population growth of Overall Homeless Population from 2007 to 2023 and how many were sheltered.
-  - Explored the Population growth of Chornically Homeless from 2007 to 2023 and how many were sheltered.
+  - The U.S. map with homeless population per state from 2007 to 2023.
+  - The population growth of Overall Homeless from 2007 to 2023 and how many were sheltered.
+  - The population growth of Chronically Homeless from 2011 to 2023 and how many were sheltered.
 
 Link to the Visualization: 
 [PIT Count Analysis 2007 - 2023](https://public.tableau.com/app/profile/navnoor.kahlon/viz/PITCountAnalysis2007-2023/Story3)
 
 ## Specialized Datasets
-While the combine dataset provided an extensive look into the homeless population count the dataset is also plagued with thousands of null values. These null values existed mainly because that specific column was not present in the prior year's dataset. However, the dataset is divided into sections. For example, first column would be "Overall Homeless" then following 10 columns would explore different aspect of it such as the age group, race, and ethnicity. This finding brought the need to created specialized datasets that can be used for analysis and future model building.
+The combined dataset provided an extensive look into the homeless population count. However, the dataset is also plagued with thousands of null values. These null values exist mainly because that specific column was not present in that year's dataset. The Unified dataset is divided into sections. For example, the first column of a section would be "Overall Homeless" then the following 15 columns would explore different aspect of it such as the Overall Homeless - age group, race, gender and ethnicity. This finding brought the need to create specialized datasets that can be used for analysis and future model building.
 
 ### General Column Dataset
+- This dataset consists of the columns common among all the 17 datasets. Additionally, these common columns can also be considered the general categories under which further variables were created in the following years.
+- Shape of the dataset: (6516, 28)
+- The number of null values dropped drastically in this dataset with "Unsheltered Chronically Homeless Individuals" column having the most at 39.
+- This dataset was used for explanatory analysis on tableau.
 
-### Chorinicall Homeless dataset
+### Chronically Homeless Dataset
+- This dataset specilizes in the Chronically Homeless population.
+- As found in the exploratory analysis of the unified dataset the count for the Chronicaly Homeless population didn't start until 2011, so the dataset contains rows from year 2011 onwards.
+- Shape of the dataset: (4986, 21)
+- The highest number of null values were in column "Unsheltered Chronically Homeless People in Families" at 44.
+- This dataset was used for explanatory analysis on tableau. 
 
 ## SQL Exploration
 ### 1. Highest recorded homeless population
@@ -102,7 +126,9 @@ While the combine dataset provided an extensive look into the homeless populatio
 </div>
 
 
-## What was lacking in the dataset.
+## Further ideas to explore
+1. Retrieve the amount of money spent by every state, every year on homelessness. Analyze if spending more resulted in the decline of homelessness.
+2. Create a Time Series model, per state, that can predict the following year's homeless population.
 
 
 
