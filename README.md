@@ -43,13 +43,32 @@ The goal is to combine and clean the data without loosing a large number of rows
    
 #### Visualization Techniques
 
-1. Goal: The original goal was to create a dataset for years 2017 - 2021.
-2. Issue: These datasets did not give the full picture of the issue of Homelessness.
+Goal: The original goal was to create a dataset for years 2017 - 2021.
+
+Issue: These datasets did not give the full picture of the issue of homelessness.
 
 Examples:
-![Overall Homeless population 2017 - 2021](https://github.com/SinghNavnoor/homelessness_PIT_count_analysis/blob/main/overall_homeless.png)
 
-<img src="(https://github.com/SinghNavnoor/homelessness_PIT_count_analysis/blob/main/overall_homeless.png)" width="600" height="300">
+<img src="overall_homeless.png" width="700" height="350">
+
+<img src="chronically_homeless_17_21.png" width="700" height = "350">
+
+**Solution**: Combined all 17 datasets spanning from 2007 to 2023, resulting in a more clear picture of the cirsis of homelessness.
+
+<img src="overall_homeless_07_23.png" width="700" height = "350">
+
+<img src="chronically_homeless_07_23.png" width="700" height = "350">
+
+## Explanatory Analysis
+- Uilized Tableau to created visualization showing:
+  - The U.S. with homeless population per state from 2007 to 2023.
+  - Explored the Population growth of Overall Homeless Population from 2007 to 2023 and how many were sheltered.
+  - Explored the Population growth of Chornically Homeless from 2007 to 2023 and how many were sheltered.
+
+Link to the Visualization: 
+[PIT Count Analysis 2007 - 2023](https://public.tableau.com/app/profile/navnoor.kahlon/viz/PITCountAnalysis2007-2023/Story3)
+
+## SQL Exploration
 
 
 
