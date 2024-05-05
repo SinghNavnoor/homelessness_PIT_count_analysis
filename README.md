@@ -48,16 +48,17 @@ Goal: The original goal was to create a dataset for years 2017 - 2021.
 Issue: These datasets did not give the full picture of the issue of homelessness.
 
 Examples:
-
-<img src="overall_homeless.png" width="700" height="350">
-
-<img src="chronically_homeless_17_21.png" width="700" height = "350">
+<div>
+  <img src="overall_homeless.png" width="500" height="400">
+  <img src="chronically_homeless_17_21.png" width="500" height="400">
+</div>
 
 **Solution**: Combined all 17 datasets spanning from 2007 to 2023, resulting in a more clear picture of the cirsis of homelessness.
 
-<img src="overall_homeless_07_23.png" width="700" height = "350">
-
-<img src="chronically_homeless_07_23.png" width="700" height = "350">
+<div>
+  <img src="overall_homeless_07_23.png" width="500" height="400">
+  <img src="chronically_homeless_07_23.png" width="500" height="400">
+</div>
 
 ## Explanatory Analysis
 - Uilized Tableau to created visualization showing:
@@ -71,6 +72,23 @@ Link to the Visualization:
 ## Specialized Datasets
 
 ## SQL Exploration
+### 1. Highest recorded homeless population
+  <img src="4_result_highest_population.png" width="500" height="300">
+
+### 2. Highest & lowest percentage of sheltered homeless population
+#### By State
+<div>
+  <img src="5_highest_sheltered_result.png" width="400" height="300">
+  <img src="5_lowest_sheltered_result.png" width="400" height="300">
+</div>
+
+#### By Year
+<div>
+  <img src="5_highest_sheltered_result_by_year.png" width="400" height="300">
+  <img src="5_lowest_sheltered_result_by_year.png" width="400" height="300">
+</div>
+
+
 
 ## What was lacking in the dataset.
 
