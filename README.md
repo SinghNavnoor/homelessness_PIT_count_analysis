@@ -102,7 +102,7 @@ The combined dataset provided an extensive look into the homeless population cou
 
 ### Chronically Homeless Dataset
 - This dataset specilizes in the Chronically Homeless population.
-- As found in the exploratory analysis of the unified dataset the count for the Chronicaly Homeless population didn't start until 2011, so the dataset contains rows from year 2011 onwards.
+- As found in the exploratory analysis of the unified dataset the count for the Overall Chronicaly Homeless population didn't start until 2011 while other variables for chronically homeless such as Sheltered Homeless and Overall Homeless Individuals were present before. Kept all the data points and will be filtering them out based on the visualization.
 - Shape of the dataset: (4986, 21)
 - The highest number of null values were in column "Unsheltered Chronically Homeless People in Families" at 44.
 - This dataset was used for explanatory analysis on tableau. 
